@@ -1,6 +1,7 @@
 // vim:set ts=4 sw=4 ai et syntax=c:
 
 #include <SoftwareSerial.h>
+#include "gps.h"
 
 // Digital IO pins
 #define PIN_TNC_TX       2
@@ -21,8 +22,9 @@
 
 // How often we do things. Time is measured in milliseconds (1000ms == 1 second)
 #define TRANSMIT_INTERVAL  (15L*1000L)  // How often we transmit
-#define ACC_READ_INTERVAL  (90L*1000L)  // How often we read the accelerometer
-#define TEMP_READ_INTERVAL (    1000L)  // How often we read the temperature
+#define ACC_READ_INTERVAL  ( 1L*1000L)  // How often we read the accelerometer
+#define TEMP_READ_INTERVAL ( 1L*1000L)  // How often we read the temperature
+#define GPS_HOLD_LOCK      ( 4L*1000L)  // How long to hold a GPS lock for
 
 // KISS constants from http://www.ka9q.net/papers/kiss.html
 #define FEND    0xC0  // Frame End
@@ -43,7 +45,8 @@ unsigned long uptime,         // How long we've been running
               sec, min, hour, // Uptime in hours, minutes, and seconds
               last_transmit,  // Time of last transmission
               last_acc_read,  // Time of last accellerometer reading
-              last_temp_read; // Time of last temperature reading
+              last_temp_read, // Time of last temperature reading
+              last_gps_lock;  // Time of the last GPS lock
 
 char upstring[20],            // Buffer to store the uptime as a string
      nmea_buf[256],           // Buffer to store an NMEA string as we're reading it
@@ -53,6 +56,8 @@ char upstring[20],            // Buffer to store the uptime as a string
 int buf_len,
     nmea_buf_len,
     nmea_latlong_len;
+
+int gps_lock;
 
 SoftwareSerial TNC    = SoftwareSerial(PIN_TNC_RX,    PIN_TNC_TX);
 SoftwareSerial Logger = SoftwareSerial(PIN_LOGGER_RX, PIN_LOGGER_TX);
@@ -75,7 +80,7 @@ void send_kiss_char(char c) {
 }
 
 void send_aprs(char *string, int len) {
-    digitalWrite(PIN_GREEN, HIGH);
+    digitalWrite(PIN_BLUE, HIGH);
     TNC.print(FEND, BYTE);
 
     for (int i = 0; i < sizeof(kiss_header); i++)
@@ -95,7 +100,7 @@ void send_aprs(char *string, int len) {
     Serial.println("");
     Logger.println("");
 
-    digitalWrite(PIN_GREEN, LOW);
+    digitalWrite(PIN_BLUE, LOW);
 }
 
 void setup() {
@@ -118,6 +123,8 @@ void setup() {
     last_transmit = 0;
     last_acc_read = 0;
     last_temp_read = 0;
+    last_gps_lock = 0;
+    gps_lock = 0;
 
     nmea_latlong_len = snprintf(nmea_latlong, sizeof(nmea_latlong), ">No GPS yet\r\n");
     nmea_buf_len = 0;
@@ -125,10 +132,23 @@ void setup() {
     // Give everything a chance to settle
     // But while we're waiting for that, no reason we can't blink some LEDs
     for (int i = 0; i < 6; i++) {
-        digitalWrite(PIN_BLUE,   HIGH); delay(250); digitalWrite(PIN_BLUE,   LOW);
-        digitalWrite(PIN_GREEN,  HIGH); delay(250); digitalWrite(PIN_GREEN,  LOW);
-        digitalWrite(PIN_YELLOW, HIGH); delay(250); digitalWrite(PIN_YELLOW, LOW);
-        delay(250);
+        if (0) {
+            digitalWrite(PIN_BLUE,   HIGH); delay(250); digitalWrite(PIN_BLUE,   LOW);
+            digitalWrite(PIN_GREEN,  HIGH); delay(250); digitalWrite(PIN_GREEN,  LOW);
+            digitalWrite(PIN_YELLOW, HIGH); delay(250); digitalWrite(PIN_YELLOW, LOW);
+            delay(250);
+        } else {
+            for (int i = 0; i < 2; i++) {
+                digitalWrite(PIN_BLUE,   HIGH);
+                digitalWrite(PIN_GREEN,  HIGH);
+                digitalWrite(PIN_YELLOW, HIGH);
+                delay(250);
+                digitalWrite(PIN_BLUE,   LOW);
+                digitalWrite(PIN_GREEN,  LOW);
+                digitalWrite(PIN_YELLOW, LOW);
+                delay(250);
+            }
+        }
     }
 
     Serial.println("Startup");
@@ -137,9 +157,12 @@ void setup() {
 
 static inline void read_gps(void)
 {
-    // Read as fast as we can from the receive serial buffer.
-    // TODO: Perhaps increase the Arduino receive serial buffer size.
-    while (Serial.available() > 0) {
+    if (! (Serial.available() > 0))
+        return;
+
+    digitalWrite(PIN_GREEN, HIGH);
+
+    do {
         int c = Serial.read();
 
         // Special case.  If we see a Control-T, assume it's a command from a
@@ -161,6 +184,7 @@ static inline void read_gps(void)
             else {
                 nmea_buf[nmea_buf_len++] = '~';
                 Serial.println("Garbage");
+                Logger.println("Garbage");
             }
         }
 
@@ -184,11 +208,18 @@ static inline void read_gps(void)
             if (nmea_buf_len >= 8 && nmea_buf_len <= sizeof(nmea_latlong) && strncmp(nmea_buf, "$GPGGA,", 7) == 0) {
                 memcpy(nmea_latlong, nmea_buf, nmea_buf_len);
                 nmea_latlong_len = nmea_buf_len;
+
+                if (is_gps_lock(nmea_latlong, nmea_latlong_len))
+                    last_gps_lock = uptime;
+                    gps_lock = 1;
             }
 
             nmea_buf_len = 0;
         }
-    }
+    } while (Serial.available() > 0);
+
+    if (!gps_lock)
+        digitalWrite(PIN_GREEN, LOW);
 }
 
 struct {
@@ -293,10 +324,17 @@ static inline void transmit(void)
             Logger.print("Sending Sensors packet: ");
 
             buf_len = snprintf(buf, sizeof(buf),
-                ">ProjectBacchus.org Up=%02lu:%02lu:%02lu Temp=%dF (%d raw)\r\n",
-                    hour, min, sec,
+                ">ProjectBacchus.org Uptime=%s Temp=%dF,%dF,%dF (%d,%d,%d) Acc=%d,%d,%d\r\n",
+                    upstring,
                     (int)temp[0].fahrenheit,
-                    temp[0].raw);
+                    (int)temp[1].fahrenheit,
+                    (int)temp[2].fahrenheit,
+                    temp[0].raw,
+                    temp[1].raw,
+                    temp[2].raw,
+                    accelerometer[0].raw,
+                    accelerometer[1].raw,
+                    accelerometer[2].raw);
 
             Serial.print(buf);
             Logger.print(buf);
@@ -330,14 +368,17 @@ void loop() {
     }
 
     if (uptime - last_acc_read >= ACC_READ_INTERVAL) {
-        digitalWrite(PIN_BLUE, HIGH);
         read_accelerometer();
         last_acc_read = uptime;
-        digitalWrite(PIN_BLUE, LOW);
     }
 
     if (uptime - last_transmit >= TRANSMIT_INTERVAL) {
         transmit();
         last_transmit = uptime;
+    }
+
+    if (uptime - last_gps_lock >= GPS_HOLD_LOCK) {
+        digitalWrite(PIN_GREEN, LOW);
+        gps_lock = 0;
     }
 }
