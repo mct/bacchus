@@ -35,3 +35,14 @@ aprs.fi.txt
 	A copy of all of the raw packets from KJ6AOD-11 that were digipeated to
 	<http://aprs.fi> via IGates.  Beware of duplicate packets, and packets
 	that were digipeated out of order.
+
+accutracking.csv
+accutracking.xml
+accutracking.kml
+
+	A copy of the data from <http://www.accutracking.com/>, the geolocation
+	applet running on our pre-paid cell phone.  They offer data downloads
+	in CSV, XML, and KML format.  We grabbed all of them.  Note that these
+	reference the unit's name as "Bacchus 3" -- we simply never changed the
+	identifier with AccuTracking between the Bacchus III and Bacchus IV
+	flights.
