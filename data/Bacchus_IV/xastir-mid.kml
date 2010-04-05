@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>APRS Data</name>
+<open>1</open>
+<description>WGS-84 tracklog created by Xastir 2010/03/28 22:30</description>
+<Placemark><name>AC6ET-5</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:01:34-07:00</when></TimeStamp><Point>
+	<coordinates>-123.08383,39.12417,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>AE6LA</name>
+<description>Packets received: 4     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:45:15-07:00</when></TimeStamp><Point>
+	<coordinates>-120.34317,38.24400,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>AE6LA-5</name>
+<description>Packets received: 12     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:22:19-07:00</when></TimeStamp><Point>
+<coordinates>-119.80783,37.75117,01897 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:00:55-07:00</name>
+<TimeStamp><when>2010-03-28T12:00:55-07:00</when></TimeStamp><Point><coordinates>-120.27200,37.81650,00742 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:15:31-07:00</name>
+<TimeStamp><when>2010-03-28T12:15:31-07:00</when></TimeStamp><Point><coordinates>-120.22667,37.83983,00864 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:25:30-07:00</name>
+<TimeStamp><when>2010-03-28T12:25:30-07:00</when></TimeStamp><Point><coordinates>-120.22667,37.83983,00865 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:35:35-07:00</name>
+<TimeStamp><when>2010-03-28T12:35:35-07:00</when></TimeStamp><Point><coordinates>-120.22667,37.83983,00872 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:47:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:47:02-07:00</when></TimeStamp><Point><coordinates>-120.18217,37.82867,00979 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:50:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:50:02-07:00</when></TimeStamp><Point><coordinates>-120.12967,37.81800,00904 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T12:53:10-07:00</name>
+<TimeStamp><when>2010-03-28T12:53:10-07:00</when></TimeStamp><Point><coordinates>-120.08400,37.82000,01002 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 at 2010-03-28T13:22:19-07:00</name>
+<TimeStamp><when>2010-03-28T13:22:19-07:00</when></TimeStamp><Point><coordinates>-119.80783,37.75117,01897 </coordinates></Point></Placemark>
+<Placemark><name>AE6LA-5 (trail)</name>
+<LineString>
+<coordinates>-120.27200,37.81650,00742 -120.22667,37.83983,00864 -120.22667,37.83983,00865 -120.22667,37.83983,00872 -120.18217,37.82867,00979 -120.12967,37.81800,00904 -120.08400,37.82000,01002 -119.80783,37.75117,01897 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>AE6WT-9</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:39:40-07:00</when></TimeStamp><Point>
+<coordinates>-120.17800,39.33583,01814 </coordinates></Point></Placemark>
+<Placemark><name>AE6WT-9 at 2010-03-28T12:32:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:32:11-07:00</when></TimeStamp><Point><coordinates>-120.15067,39.33567,01770 </coordinates></Point></Placemark>
+<Placemark><name>AE6WT-9 at 2010-03-28T13:39:40-07:00</name>
+<TimeStamp><when>2010-03-28T13:39:40-07:00</when></TimeStamp><Point><coordinates>-120.17800,39.33583,01814 </coordinates></Point></Placemark>
+<Placemark><name>AE6WT-9 (trail)</name>
+<LineString>
+<coordinates>-120.15067,39.33567,01770 -120.17800,39.33583,01814 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>AF6UF</name>
+<description>Packets received: 9     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:53:35-07:00</when></TimeStamp><Point>
+<coordinates>-121.99733,37.29250,00067 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:30:59-07:00</name>
+<TimeStamp><when>2010-03-28T12:30:59-07:00</when></TimeStamp><Point><coordinates>-122.01300,37.35266,00042 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:32:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:32:47-07:00</when></TimeStamp><Point><coordinates>-122.01417,37.35300,00036 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:37:04-07:00</name>
+<TimeStamp><when>2010-03-28T12:37:04-07:00</when></TimeStamp><Point><coordinates>-122.01450,37.32983,00058 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:39:09-07:00</name>
+<TimeStamp><when>2010-03-28T12:39:09-07:00</when></TimeStamp><Point><coordinates>-121.99550,37.31967,00048 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:48:42-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:42-07:00</when></TimeStamp><Point><coordinates>-121.99233,37.29133,00075 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T12:50:30-07:00</name>
+<TimeStamp><when>2010-03-28T12:50:30-07:00</when></TimeStamp><Point><coordinates>-121.99333,37.29016,00081 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T13:24:04-07:00</name>
+<TimeStamp><when>2010-03-28T13:24:04-07:00</when></TimeStamp><Point><coordinates>-121.98817,37.29383,00061 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T13:52:32-07:00</name>
+<TimeStamp><when>2010-03-28T13:52:32-07:00</when></TimeStamp><Point><coordinates>-121.99117,37.29250,00059 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF at 2010-03-28T13:53:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:53:35-07:00</when></TimeStamp><Point><coordinates>-121.99733,37.29250,00067 </coordinates></Point></Placemark>
+<Placemark><name>AF6UF (trail)</name>
+<LineString>
+<coordinates>-122.01300,37.35266,00042 -122.01417,37.35300,00036 -122.01450,37.32983,00058 -121.99550,37.31967,00048 -121.99233,37.29133,00075 -121.99333,37.29016,00081 -121.98817,37.29383,00061 -121.99117,37.29250,00059 -121.99733,37.29250,00067 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>DANAHR</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:40:43-07:00</when></TimeStamp><Point>
+	<coordinates>-120.66800,38.74417,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>ECHO</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:19:41-07:00</when></TimeStamp><Point>
+	<coordinates>-120.06300,38.79600,02699 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>FJ-9</name>
+<description>Packets received: 26     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:32:13-07:00</when></TimeStamp><Point>
+<coordinates>-118.64516,39.39600,01203 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:16:56-07:00</name>
+<TimeStamp><when>2010-03-28T12:16:56-07:00</when></TimeStamp><Point><coordinates>-118.95483,39.52033,01225 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:27:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:27:48-07:00</when></TimeStamp><Point><coordinates>-118.79383,39.47483,01208 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:35:57-07:00</name>
+<TimeStamp><when>2010-03-28T12:35:57-07:00</when></TimeStamp><Point><coordinates>-118.79333,39.47483,01210 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:44:40-07:00</name>
+<TimeStamp><when>2010-03-28T12:44:40-07:00</when></TimeStamp><Point><coordinates>-118.68333,39.46967,01195 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:47:16-07:00</name>
+<TimeStamp><when>2010-03-28T12:47:16-07:00</when></TimeStamp><Point><coordinates>-118.66350,39.42916,01194 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:48:55-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:55-07:00</when></TimeStamp><Point><coordinates>-118.65033,39.40200,01198 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:49:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:49:11-07:00</when></TimeStamp><Point><coordinates>-118.64900,39.40150,01195 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:52:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01211 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:53:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:53:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01208 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:54:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01204 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:55:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01198 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:56:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01196 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:57:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:57:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01197 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T12:58:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01200 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:00:11-07:00</name>
+<TimeStamp><when>2010-03-28T13:00:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01201 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:03:11-07:00</name>
+<TimeStamp><when>2010-03-28T13:03:11-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01202 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:04:12-07:00</name>
+<TimeStamp><when>2010-03-28T13:04:12-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,01203 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:28:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:28:35-07:00</when></TimeStamp><Point><coordinates>-118.64733,39.40133,00000 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:29:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:29:35-07:00</when></TimeStamp><Point><coordinates>-118.64867,39.40150,01202 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 at 2010-03-28T13:32:13-07:00</name>
+<TimeStamp><when>2010-03-28T13:32:13-07:00</when></TimeStamp><Point><coordinates>-118.64516,39.39600,01203 </coordinates></Point></Placemark>
+<Placemark><name>FJ-9 (trail)</name>
+<LineString>
+<coordinates>-118.95483,39.52033,01225 -118.79383,39.47483,01208 -118.79333,39.47483,01210 -118.68333,39.46967,01195 -118.66350,39.42916,01194 -118.65033,39.40200,01198 -118.64900,39.40150,01195 -118.64733,39.40133,01211 -118.64733,39.40133,01208 -118.64733,39.40133,01204 -118.64733,39.40133,01198 -118.64733,39.40133,01196 -118.64733,39.40133,01197 -118.64733,39.40133,01200 -118.64733,39.40133,01201 -118.64733,39.40133,01202 -118.64733,39.40133,01203 -118.64733,39.40133,00000 -118.64867,39.40150,01202 -118.64516,39.39600,01203 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>Frog Ride</name>
+<description>Object from AE6LA. 
+Packets received: 4     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:44:40-07:00</when></TimeStamp><Point>
+	<coordinates>-120.45367,38.13334,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K3UG</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:32:03-07:00</when></TimeStamp><Point>
+	<coordinates>-120.62483,37.93867,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K4OES</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:12:07-07:00</when></TimeStamp><Point>
+	<coordinates>-121.30534,38.57000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6ARC-2</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:33:54-07:00</when></TimeStamp><Point>
+	<coordinates>-120.65217,38.38917,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6BMD-9</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:14:14-07:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6DQS-7</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:48:05-07:00</when></TimeStamp><Point>
+<coordinates>-121.29583,38.59250,00001 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 at 2010-03-28T12:34:35-07:00</name>
+<TimeStamp><when>2010-03-28T12:34:35-07:00</when></TimeStamp><Point><coordinates>-121.14484,38.67083,00000 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 at 2010-03-28T12:38:15-07:00</name>
+<TimeStamp><when>2010-03-28T12:38:15-07:00</when></TimeStamp><Point><coordinates>-121.13766,38.66417,00103 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 at 2010-03-28T13:33:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:33:57-07:00</when></TimeStamp><Point><coordinates>-121.27133,38.60467,-0008 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 at 2010-03-28T13:46:00-07:00</name>
+<TimeStamp><when>2010-03-28T13:46:00-07:00</when></TimeStamp><Point><coordinates>-121.28850,38.59600,00018 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 at 2010-03-28T13:48:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:48:05-07:00</when></TimeStamp><Point><coordinates>-121.29583,38.59250,00001 </coordinates></Point></Placemark>
+<Placemark><name>K6DQS-7 (trail)</name>
+<LineString>
+<coordinates>-121.14484,38.67083,00000 -121.13766,38.66417,00103 -121.27133,38.60467,-0008 -121.28850,38.59600,00018 -121.29583,38.59250,00001 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>K6FGA-1</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:52:35-07:00</when></TimeStamp><Point>
+	<coordinates>-120.96516,39.24567,01200 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6GER</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:46:30-07:00</when></TimeStamp><Point>
+	<coordinates>-120.59184,38.75467,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6IXA-2</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:11:06-07:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6MJW-2</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:20:22-07:00</when></TimeStamp><Point>
+<coordinates>-122.22100,37.88300,00543 </coordinates></Point></Placemark>
+<Placemark><name>K6MJW-2 at 2010-03-28T12:19:20-07:00</name>
+<TimeStamp><when>2010-03-28T12:19:20-07:00</when></TimeStamp><Point><coordinates>-122.22117,37.88383,00549 </coordinates></Point></Placemark>
+<Placemark><name>K6MJW-2 at 2010-03-28T12:20:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:20:22-07:00</when></TimeStamp><Point><coordinates>-122.22100,37.88300,00543 </coordinates></Point></Placemark>
+<Placemark><name>K6MJW-2 (trail)</name>
+<LineString>
+<coordinates>-122.22117,37.88383,00549 -122.22100,37.88300,00543 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>K6MLE-9</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:48:22-07:00</when></TimeStamp><Point>
+<coordinates>-120.64750,38.67350,00769 </coordinates></Point></Placemark>
+<Placemark><name>K6MLE-9 at 2010-03-28T12:16:23-07:00</name>
+<TimeStamp><when>2010-03-28T12:16:23-07:00</when></TimeStamp><Point><coordinates>-120.64733,38.67350,00766 </coordinates></Point></Placemark>
+<Placemark><name>K6MLE-9 at 2010-03-28T12:48:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:22-07:00</when></TimeStamp><Point><coordinates>-120.64750,38.67350,00769 </coordinates></Point></Placemark>
+<Placemark><name>K6MLE-9 (trail)</name>
+<LineString>
+<coordinates>-120.64733,38.67350,00766 -120.64750,38.67350,00769 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>K6NFL</name>
+<description>Packets received: 6     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:11:12-07:00</when></TimeStamp><Point>
+	<coordinates>-120.37000,38.24233,01243 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6ON-4</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:46:18-07:00</when></TimeStamp><Point>
+	<coordinates>-121.35567,38.59650,00014 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6TJS</name>
+<description>Packets received: 7     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:49:52-07:00</when></TimeStamp><Point>
+	<coordinates>-120.80800,37.05867,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6TTR-10</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:54:19-07:00</when></TimeStamp><Point>
+<coordinates>-122.10817,38.13083,00000 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 at 2010-03-28T12:24:11-07:00</name>
+<TimeStamp><when>2010-03-28T12:24:11-07:00</when></TimeStamp><Point><coordinates>-121.63467,39.03983,00011 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 at 2010-03-28T12:27:12-07:00</name>
+<TimeStamp><when>2010-03-28T12:27:12-07:00</when></TimeStamp><Point><coordinates>-121.64450,39.00317,00009 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 at 2010-03-28T12:44:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:44:47-07:00</when></TimeStamp><Point><coordinates>-121.72850,38.78283,00009 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 at 2010-03-28T13:34:08-07:00</name>
+<TimeStamp><when>2010-03-28T13:34:08-07:00</when></TimeStamp><Point><coordinates>-121.93400,38.38817,00027 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 at 2010-03-28T13:54:19-07:00</name>
+<TimeStamp><when>2010-03-28T13:54:19-07:00</when></TimeStamp><Point><coordinates>-122.10817,38.13083,00000 </coordinates></Point></Placemark>
+<Placemark><name>K6TTR-10 (trail)</name>
+<LineString>
+<coordinates>-121.63467,39.03983,00011 -121.64450,39.00317,00009 -121.72850,38.78283,00009 -121.93400,38.38817,00027 -122.10817,38.13083,00000 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>K6TUO-3</name>
+<description>Packets received: 10     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:25:13-07:00</when></TimeStamp><Point>
+	<coordinates>-120.35050,38.03100,01139 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>K6YUU-4</name>
+<description>Packets received: 6     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:26:44-07:00</when></TimeStamp><Point>
+<coordinates>-122.16949,37.42703,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T13:32:22-07:00</name>
+<TimeStamp><when>2010-03-28T13:32:22-07:00</when></TimeStamp><Point><coordinates>-122.13323,37.42769,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T13:45:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:45:24-07:00</when></TimeStamp><Point><coordinates>-122.15871,37.43813,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T13:48:26-07:00</name>
+<TimeStamp><when>2010-03-28T13:48:26-07:00</when></TimeStamp><Point><coordinates>-122.15871,37.43814,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T14:25:03-07:00</name>
+<TimeStamp><when>2010-03-28T14:25:03-07:00</when></TimeStamp><Point><coordinates>-122.17168,37.42838,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T14:25:33-07:00</name>
+<TimeStamp><when>2010-03-28T14:25:33-07:00</when></TimeStamp><Point><coordinates>-122.17188,37.42787,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 at 2010-03-28T14:26:44-07:00</name>
+<TimeStamp><when>2010-03-28T14:26:44-07:00</when></TimeStamp><Point><coordinates>-122.16949,37.42703,0 </coordinates></Point></Placemark>
+<Placemark><name>K6YUU-4 (trail)</name>
+<LineString>
+<coordinates>-122.13323,37.42769,0 -122.15871,37.43813,0 -122.15871,37.43814,0 -122.17168,37.42838,0 -122.17188,37.42787,0 -122.16949,37.42703,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>K7TOK-2</name>
+<description>Packets received: 8     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:56:30-07:00</when></TimeStamp><Point>
+<coordinates>-121.07767,37.71733,00023 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:18:42-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:42-07:00</when></TimeStamp><Point><coordinates>-120.65350,37.36234,00087 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:26:39-07:00</name>
+<TimeStamp><when>2010-03-28T12:26:39-07:00</when></TimeStamp><Point><coordinates>-120.77934,37.43400,00095 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:28:39-07:00</name>
+<TimeStamp><when>2010-03-28T12:28:39-07:00</when></TimeStamp><Point><coordinates>-120.80733,37.45783,-0089 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:34:38-07:00</name>
+<TimeStamp><when>2010-03-28T12:34:38-07:00</when></TimeStamp><Point><coordinates>-120.88400,37.51933,00042 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:40:35-07:00</name>
+<TimeStamp><when>2010-03-28T12:40:35-07:00</when></TimeStamp><Point><coordinates>-120.95650,37.59150,00048 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:42:34-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:34-07:00</when></TimeStamp><Point><coordinates>-120.98250,37.61600,00052 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:48:32-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:32-07:00</when></TimeStamp><Point><coordinates>-121.05466,37.68517,00001 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 at 2010-03-28T12:56:30-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:30-07:00</when></TimeStamp><Point><coordinates>-121.07767,37.71733,00023 </coordinates></Point></Placemark>
+<Placemark><name>K7TOK-2 (trail)</name>
+<LineString>
+<coordinates>-120.65350,37.36234,00087 -120.77934,37.43400,00095 -120.80733,37.45783,-0089 -120.88400,37.51933,00042 -120.95650,37.59150,00048 -120.98250,37.61600,00052 -121.05466,37.68517,00001 -121.07767,37.71733,00023 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KC6SSM-5</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:11:45-07:00</when></TimeStamp><Point>
+	<coordinates>-122.28200,37.90250,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KC6SSM-9</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:10:22-07:00</when></TimeStamp><Point>
+<coordinates>-122.07100,37.59050,00000 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 at 2010-03-28T12:18:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:18-07:00</when></TimeStamp><Point><coordinates>-122.09450,37.64417,00010 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 at 2010-03-28T12:18:29-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:29-07:00</when></TimeStamp><Point><coordinates>-122.09483,37.64417,00010 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 at 2010-03-28T12:19:36-07:00</name>
+<TimeStamp><when>2010-03-28T12:19:36-07:00</when></TimeStamp><Point><coordinates>-122.09433,37.64500,00010 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 at 2010-03-28T12:28:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:28:48-07:00</when></TimeStamp><Point><coordinates>-122.06934,37.59017,00002 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 at 2010-03-28T13:10:22-07:00</name>
+<TimeStamp><when>2010-03-28T13:10:22-07:00</when></TimeStamp><Point><coordinates>-122.07100,37.59050,00000 </coordinates></Point></Placemark>
+<Placemark><name>KC6SSM-9 (trail)</name>
+<LineString>
+<coordinates>-122.09450,37.64417,00010 -122.09483,37.64417,00010 -122.09433,37.64500,00010 -122.06934,37.59017,00002 -122.07100,37.59050,00000 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KD5WIN</name>
+<description>Packets received: 10     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:27:50-07:00</when></TimeStamp><Point>
+<coordinates>-120.94900,37.67617,00048 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T12:20:45-07:00</name>
+<TimeStamp><when>2010-03-28T12:20:45-07:00</when></TimeStamp><Point><coordinates>-120.95934,37.67117,00034 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T12:29:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:29:51-07:00</when></TimeStamp><Point><coordinates>-120.95766,37.67783,00034 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T12:41:57-07:00</name>
+<TimeStamp><when>2010-03-28T12:41:57-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00032 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T12:51:04-07:00</name>
+<TimeStamp><when>2010-03-28T12:51:04-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00034 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T12:54:05-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:05-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00033 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T13:09:15-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:15-07:00</when></TimeStamp><Point><coordinates>-120.94883,37.67600,00030 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T13:21:22-07:00</name>
+<TimeStamp><when>2010-03-28T13:21:22-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00036 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T13:27:25-07:00</name>
+<TimeStamp><when>2010-03-28T13:27:25-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00019 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN at 2010-03-28T14:27:50-07:00</name>
+<TimeStamp><when>2010-03-28T14:27:50-07:00</when></TimeStamp><Point><coordinates>-120.94900,37.67617,00048 </coordinates></Point></Placemark>
+<Placemark><name>KD5WIN (trail)</name>
+<LineString>
+<coordinates>-120.95934,37.67117,00034 -120.95766,37.67783,00034 -120.94900,37.67617,00032 -120.94900,37.67617,00034 -120.94900,37.67617,00033 -120.94883,37.67600,00030 -120.94900,37.67617,00036 -120.94900,37.67617,00019 -120.94900,37.67617,00048 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KD6EUG-3</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:12:38-07:00</when></TimeStamp><Point>
+	<coordinates>-120.16666,38.05000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KD6SOJ-9</name>
+<description>Packets received: 20     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:52:45-07:00</when></TimeStamp><Point>
+	<coordinates>-122.07283,37.37983,00043 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KE6FOA-14</name>
+<description>Packets received: 13     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:36:20-07:00</when></TimeStamp><Point>
+<coordinates>-120.85000,37.41183,00027 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:22:24-07:00</name>
+<TimeStamp><when>2010-03-28T12:22:24-07:00</when></TimeStamp><Point><coordinates>-120.87817,37.51833,00033 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:23:26-07:00</name>
+<TimeStamp><when>2010-03-28T12:23:26-07:00</when></TimeStamp><Point><coordinates>-120.87817,37.51833,00030 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:26:46-07:00</name>
+<TimeStamp><when>2010-03-28T12:26:46-07:00</when></TimeStamp><Point><coordinates>-120.88133,37.51367,00027 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:28:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:28:53-07:00</when></TimeStamp><Point><coordinates>-120.86333,37.48083,00027 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:29:55-07:00</name>
+<TimeStamp><when>2010-03-28T12:29:55-07:00</when></TimeStamp><Point><coordinates>-120.84933,37.47317,00029 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:31:09-07:00</name>
+<TimeStamp><when>2010-03-28T12:31:09-07:00</when></TimeStamp><Point><coordinates>-120.84900,37.46033,00028 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:34:16-07:00</name>
+<TimeStamp><when>2010-03-28T12:34:16-07:00</when></TimeStamp><Point><coordinates>-120.84983,37.42850,00028 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 at 2010-03-28T12:36:20-07:00</name>
+<TimeStamp><when>2010-03-28T12:36:20-07:00</when></TimeStamp><Point><coordinates>-120.85000,37.41183,00027 </coordinates></Point></Placemark>
+<Placemark><name>KE6FOA-14 (trail)</name>
+<LineString>
+<coordinates>-120.87817,37.51833,00033 -120.87817,37.51833,00030 -120.88133,37.51367,00027 -120.86333,37.48083,00027 -120.84933,37.47317,00029 -120.84900,37.46033,00028 -120.84983,37.42850,00028 -120.85000,37.41183,00027 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KE6KYI</name>
+<description>Packets received: 16     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:24:23-07:00</when></TimeStamp><Point>
+	<coordinates>-120.21384,37.85883,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KE6KYI-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:20:36-07:00</when></TimeStamp><Point>
+	<coordinates>-121.06017,37.66417,00015 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KE6STH</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:29:06-07:00</when></TimeStamp><Point>
+	<coordinates>-121.83800,37.39950,00110 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KF6CLH-3</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:50:44-07:00</when></TimeStamp><Point>
+	<coordinates>-123.01334,37.99667,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KF6HJO</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:12:03-07:00</when></TimeStamp><Point>
+	<coordinates>-119.68000,36.51150,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KF6KMX-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:58:40-07:00</when></TimeStamp><Point>
+<coordinates>-119.61916,36.31816,00075 </coordinates></Point></Placemark>
+<Placemark><name>KF6KMX-9 at 2010-03-28T13:44:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:44:01-07:00</when></TimeStamp><Point><coordinates>-119.63700,36.34283,00067 </coordinates></Point></Placemark>
+<Placemark><name>KF6KMX-9 at 2010-03-28T13:48:07-07:00</name>
+<TimeStamp><when>2010-03-28T13:48:07-07:00</when></TimeStamp><Point><coordinates>-119.63583,36.32367,00071 </coordinates></Point></Placemark>
+<Placemark><name>KF6KMX-9 at 2010-03-28T13:58:40-07:00</name>
+<TimeStamp><when>2010-03-28T13:58:40-07:00</when></TimeStamp><Point><coordinates>-119.61916,36.31816,00075 </coordinates></Point></Placemark>
+<Placemark><name>KF6KMX-9 (trail)</name>
+<LineString>
+<coordinates>-119.63700,36.34283,00067 -119.63583,36.32367,00071 -119.61916,36.31816,00075 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KF6NY</name>
+<description>Packets received: 7     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:25:37-07:00</when></TimeStamp><Point>
+	<coordinates>-120.54000,38.18383,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KF7AMY-9</name>
+<description>Packets received: 7     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:24:01-07:00</when></TimeStamp><Point>
+<coordinates>-119.82516,39.55067,01431 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:17:59-07:00</name>
+<TimeStamp><when>2010-03-28T12:17:59-07:00</when></TimeStamp><Point><coordinates>-119.81133,39.58000,01530 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:18:40-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:40-07:00</when></TimeStamp><Point><coordinates>-119.80783,39.57650,01506 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:18:59-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:59-07:00</when></TimeStamp><Point><coordinates>-119.80717,39.57500,01499 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:19:31-07:00</name>
+<TimeStamp><when>2010-03-28T12:19:31-07:00</when></TimeStamp><Point><coordinates>-119.81017,39.57183,01496 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:22:15-07:00</name>
+<TimeStamp><when>2010-03-28T12:22:15-07:00</when></TimeStamp><Point><coordinates>-119.82433,39.56667,01471 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:23:52-07:00</name>
+<TimeStamp><when>2010-03-28T12:23:52-07:00</when></TimeStamp><Point><coordinates>-119.82367,39.55083,01429 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 at 2010-03-28T12:24:01-07:00</name>
+<TimeStamp><when>2010-03-28T12:24:01-07:00</when></TimeStamp><Point><coordinates>-119.82516,39.55067,01431 </coordinates></Point></Placemark>
+<Placemark><name>KF7AMY-9 (trail)</name>
+<LineString>
+<coordinates>-119.81133,39.58000,01530 -119.80783,39.57650,01506 -119.80717,39.57500,01499 -119.81017,39.57183,01496 -119.82433,39.56667,01471 -119.82367,39.55083,01429 -119.82516,39.55067,01431 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KG6CLP-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:08:21-07:00</when></TimeStamp><Point>
+<coordinates>-122.08434,37.07383,00097 </coordinates></Point></Placemark>
+<Placemark><name>KG6CLP-9 at 2010-03-28T12:01:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:01:22-07:00</when></TimeStamp><Point><coordinates>-122.05500,37.05483,00132 </coordinates></Point></Placemark>
+<Placemark><name>KG6CLP-9 at 2010-03-28T12:29:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:29:02-07:00</when></TimeStamp><Point><coordinates>-122.02116,37.04550,00169 </coordinates></Point></Placemark>
+<Placemark><name>KG6CLP-9 at 2010-03-28T13:08:21-07:00</name>
+<TimeStamp><when>2010-03-28T13:08:21-07:00</when></TimeStamp><Point><coordinates>-122.08434,37.07383,00097 </coordinates></Point></Placemark>
+<Placemark><name>KG6CLP-9 (trail)</name>
+<LineString>
+<coordinates>-122.05500,37.05483,00132 -122.02116,37.04550,00169 -122.08434,37.07383,00097 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KG6OWS-7</name>
+<description>Packets received: 4     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:53:15-07:00</when></TimeStamp><Point>
+<coordinates>-121.10600,37.68200,-0001 </coordinates></Point></Placemark>
+<Placemark><name>KG6OWS-7 at 2010-03-28T12:42:56-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:56-07:00</when></TimeStamp><Point><coordinates>-121.15900,37.66083,-0013 </coordinates></Point></Placemark>
+<Placemark><name>KG6OWS-7 at 2010-03-28T12:52:58-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:58-07:00</when></TimeStamp><Point><coordinates>-121.10583,37.68217,00000 </coordinates></Point></Placemark>
+<Placemark><name>KG6OWS-7 at 2010-03-28T13:43:10-07:00</name>
+<TimeStamp><when>2010-03-28T13:43:10-07:00</when></TimeStamp><Point><coordinates>-121.10600,37.68200,-0001 </coordinates></Point></Placemark>
+<Placemark><name>KG6OWS-7 at 2010-03-28T13:53:15-07:00</name>
+<TimeStamp><when>2010-03-28T13:53:15-07:00</when></TimeStamp><Point><coordinates>-121.10600,37.68200,-0001 </coordinates></Point></Placemark>
+<Placemark><name>KG6OWS-7 (trail)</name>
+<LineString>
+<coordinates>-121.15900,37.66083,-0013 -121.10583,37.68217,00000 -121.10600,37.68200,-0001 -121.10600,37.68200,-0001 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KG6PPD-8</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:53:14-07:00</when></TimeStamp><Point>
+	<coordinates>-122.08134,37.35550,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KG6PPD-9</name>
+<description>Packets received: 8     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:53:48-07:00</when></TimeStamp><Point>
+	<coordinates>-120.07150,38.44133,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KG6QPT</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:38:58-07:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KG6VNP-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:35:38-07:00</when></TimeStamp><Point>
+<coordinates>-121.04317,39.20767,0 </coordinates></Point></Placemark>
+<Placemark><name>KG6VNP-9 at 2010-03-28T12:15:50-07:00</name>
+<TimeStamp><when>2010-03-28T12:15:50-07:00</when></TimeStamp><Point><coordinates>-120.96684,39.14734,0 </coordinates></Point></Placemark>
+<Placemark><name>KG6VNP-9 at 2010-03-28T12:43:23-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:23-07:00</when></TimeStamp><Point><coordinates>-121.02567,39.25283,0 </coordinates></Point></Placemark>
+<Placemark><name>KG6VNP-9 at 2010-03-28T13:35:38-07:00</name>
+<TimeStamp><when>2010-03-28T13:35:38-07:00</when></TimeStamp><Point><coordinates>-121.04317,39.20767,0 </coordinates></Point></Placemark>
+<Placemark><name>KG6VNP-9 (trail)</name>
+<LineString>
+<coordinates>-120.96684,39.14734,0 -121.02567,39.25283,0 -121.04317,39.20767,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KI6FJV-11</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:10:06-07:00</when></TimeStamp><Point>
+	<coordinates>-121.97100,37.79833,00129 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KI6GII-6</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:35:09-07:00</when></TimeStamp><Point>
+	<coordinates>-122.14733,37.74467,00039 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KI6MXK</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:59:10-07:00</when></TimeStamp><Point>
+<coordinates>-120.60717,37.84667,00248 </coordinates></Point></Placemark>
+<Placemark><name>KI6MXK at 2010-03-28T12:40:06-07:00</name>
+<TimeStamp><when>2010-03-28T12:40:06-07:00</when></TimeStamp><Point><coordinates>-120.34766,37.83033,00309 </coordinates></Point></Placemark>
+<Placemark><name>KI6MXK at 2010-03-28T12:58:59-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:59-07:00</when></TimeStamp><Point><coordinates>-120.60300,37.84733,00265 </coordinates></Point></Placemark>
+<Placemark><name>KI6MXK at 2010-03-28T12:59:10-07:00</name>
+<TimeStamp><when>2010-03-28T12:59:10-07:00</when></TimeStamp><Point><coordinates>-120.60717,37.84667,00248 </coordinates></Point></Placemark>
+<Placemark><name>KI6MXK (trail)</name>
+<LineString>
+<coordinates>-120.34766,37.83033,00309 -120.60300,37.84733,00265 -120.60717,37.84667,00248 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KI6QOH-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:11:59-07:00</when></TimeStamp><Point>
+<coordinates>-119.69814,36.80637,00100 </coordinates></Point></Placemark>
+<Placemark><name>KI6QOH-9 at 2010-03-28T12:15:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:15:18-07:00</when></TimeStamp><Point><coordinates>-119.79054,36.75809,00090 </coordinates></Point></Placemark>
+<Placemark><name>KI6QOH-9 at 2010-03-28T12:50:57-07:00</name>
+<TimeStamp><when>2010-03-28T12:50:57-07:00</when></TimeStamp><Point><coordinates>-119.71132,36.80845,00105 </coordinates></Point></Placemark>
+<Placemark><name>KI6QOH-9 at 2010-03-28T13:11:59-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:59-07:00</when></TimeStamp><Point><coordinates>-119.69814,36.80637,00100 </coordinates></Point></Placemark>
+<Placemark><name>KI6QOH-9 (trail)</name>
+<LineString>
+<coordinates>-119.79054,36.75809,00090 -119.71132,36.80845,00105 -119.69814,36.80637,00100 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KI6RLM-1</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:45:30-07:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KI6UDH</name>
+<description>Packets received: 6     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:47:40-07:00</when></TimeStamp><Point>
+<coordinates>-121.38700,39.28267,00138 </coordinates></Point></Placemark>
+<Placemark><name>KI6UDH at 2010-03-28T12:38:08-07:00</name>
+<TimeStamp><when>2010-03-28T12:38:08-07:00</when></TimeStamp><Point><coordinates>-121.41133,39.29550,00114 </coordinates></Point></Placemark>
+<Placemark><name>KI6UDH at 2010-03-28T13:03:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:03:57-07:00</when></TimeStamp><Point><coordinates>-121.38900,39.28733,00136 </coordinates></Point></Placemark>
+<Placemark><name>KI6UDH at 2010-03-28T13:23:49-07:00</name>
+<TimeStamp><when>2010-03-28T13:23:49-07:00</when></TimeStamp><Point><coordinates>-121.38700,39.28267,00138 </coordinates></Point></Placemark>
+<Placemark><name>KI6UDH (trail)</name>
+<LineString>
+<coordinates>-121.41133,39.29550,00114 -121.38900,39.28733,00136 -121.38700,39.28267,00138 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KJ4D-7</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:52:27-07:00</when></TimeStamp><Point>
+<coordinates>-121.50083,38.59917,0 </coordinates></Point></Placemark>
+<Placemark><name>KJ4D-7 at 2010-03-28T12:42:25-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:25-07:00</when></TimeStamp><Point><coordinates>-121.50066,38.59900,0 </coordinates></Point></Placemark>
+<Placemark><name>KJ4D-7 at 2010-03-28T12:47:26-07:00</name>
+<TimeStamp><when>2010-03-28T12:47:26-07:00</when></TimeStamp><Point><coordinates>-121.50100,38.59917,0 </coordinates></Point></Placemark>
+<Placemark><name>KJ4D-7 at 2010-03-28T12:52:27-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:27-07:00</when></TimeStamp><Point><coordinates>-121.50083,38.59917,0 </coordinates></Point></Placemark>
+<Placemark><name>KJ4D-7 (trail)</name>
+<LineString>
+<coordinates>-121.50066,38.59900,0 -121.50100,38.59917,0 -121.50083,38.59917,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KJ6AOD-11</name>
+<description>Packets received: 202     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:55:07-07:00</when></TimeStamp><Point>
+<coordinates>-120.93443,37.68712,0 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:01:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:01:02-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72038,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:01:32-07:00</name>
+<TimeStamp><when>2010-03-28T12:01:32-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72038,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:02:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:02:02-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72038,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:02:32-07:00</name>
+<TimeStamp><when>2010-03-28T12:02:32-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72037,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:03:03-07:00</name>
+<TimeStamp><when>2010-03-28T12:03:03-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72039,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:03:33-07:00</name>
+<TimeStamp><when>2010-03-28T12:03:33-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72037,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:04:03-07:00</name>
+<TimeStamp><when>2010-03-28T12:04:03-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72036,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:30:43-07:00</name>
+<TimeStamp><when>2010-03-28T12:30:43-07:00</when></TimeStamp><Point><coordinates>-121.53362,37.72034,00083 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:31:13-07:00</name>
+<TimeStamp><when>2010-03-28T12:31:13-07:00</when></TimeStamp><Point><coordinates>-121.53360,37.72034,00084 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:31:43-07:00</name>
+<TimeStamp><when>2010-03-28T12:31:43-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72037,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:32:13-07:00</name>
+<TimeStamp><when>2010-03-28T12:32:13-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72039,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:32:44-07:00</name>
+<TimeStamp><when>2010-03-28T12:32:44-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72035,00084 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:33:14-07:00</name>
+<TimeStamp><when>2010-03-28T12:33:14-07:00</when></TimeStamp><Point><coordinates>-121.53362,37.72037,00084 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:33:44-07:00</name>
+<TimeStamp><when>2010-03-28T12:33:44-07:00</when></TimeStamp><Point><coordinates>-121.53362,37.72038,00083 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:34:15-07:00</name>
+<TimeStamp><when>2010-03-28T12:34:15-07:00</when></TimeStamp><Point><coordinates>-121.53360,37.72036,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:34:45-07:00</name>
+<TimeStamp><when>2010-03-28T12:34:45-07:00</when></TimeStamp><Point><coordinates>-121.53360,37.72036,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:35:46-07:00</name>
+<TimeStamp><when>2010-03-28T12:35:46-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72037,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:36:16-07:00</name>
+<TimeStamp><when>2010-03-28T12:36:16-07:00</when></TimeStamp><Point><coordinates>-121.53360,37.72036,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:36:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:36:47-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72037,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:37:17-07:00</name>
+<TimeStamp><when>2010-03-28T12:37:17-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72036,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:37:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:37:47-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72038,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:38:17-07:00</name>
+<TimeStamp><when>2010-03-28T12:38:17-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72037,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:38:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:38:47-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72037,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:39:17-07:00</name>
+<TimeStamp><when>2010-03-28T12:39:17-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72039,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:39:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:39:47-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:40:17-07:00</name>
+<TimeStamp><when>2010-03-28T12:40:17-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72039,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:40:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:40:48-07:00</when></TimeStamp><Point><coordinates>-121.53360,37.72041,00083 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:41:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:41:18-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:41:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:41:48-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72037,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:42:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:18-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72040,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:42:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:48-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72040,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:43:19-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:19-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72039,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:43:49-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:49-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72039,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:44:20-07:00</name>
+<TimeStamp><when>2010-03-28T12:44:20-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72039,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:44:50-07:00</name>
+<TimeStamp><when>2010-03-28T12:44:50-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72039,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:45:20-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:20-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72038,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:45:50-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:50-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72038,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:46:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:46:21-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72039,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:46:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:46:51-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72038,00083 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:47:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:47:21-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72038,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:47:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:47:51-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72039,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:48:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:21-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72039,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:48:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:51-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72039,00079 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:49:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:49:21-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72041,00082 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:49:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:49:51-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72038,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:50:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:50:21-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:50:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:50:51-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72039,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:51:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:51:21-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72039,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:51:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:51:51-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72039,00073 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:52:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:21-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72037,00070 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:52:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:51-07:00</when></TimeStamp><Point><coordinates>-121.53357,37.72037,00070 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:53:21-07:00</name>
+<TimeStamp><when>2010-03-28T12:53:21-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72040,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:53:52-07:00</name>
+<TimeStamp><when>2010-03-28T12:53:52-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00074 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:54:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:22-07:00</when></TimeStamp><Point><coordinates>-121.53356,37.72040,00072 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:54:52-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:52-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72038,00081 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:55:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:22-07:00</when></TimeStamp><Point><coordinates>-121.53355,37.72036,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:55:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:53-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72036,00080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:56:23-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:23-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:56:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:53-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72039,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:57:23-07:00</name>
+<TimeStamp><when>2010-03-28T12:57:23-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72038,00077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:57:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:57:53-07:00</when></TimeStamp><Point><coordinates>-121.53358,37.72038,00074 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:58:23-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:23-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72036,00074 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:58:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:53-07:00</when></TimeStamp><Point><coordinates>-121.53359,37.72035,00078 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T12:59:24-07:00</name>
+<TimeStamp><when>2010-03-28T12:59:24-07:00</when></TimeStamp><Point><coordinates>-121.53346,37.72033,00076 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:00:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:00:24-07:00</when></TimeStamp><Point><coordinates>-121.53347,37.72034,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:00:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:00:54-07:00</when></TimeStamp><Point><coordinates>-121.53348,37.72034,00076 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:01:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:01:24-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72034,00075 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:01:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:01:54-07:00</when></TimeStamp><Point><coordinates>-121.53348,37.72035,00074 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:02:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:02:24-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72035,00074 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:02:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:02:54-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72035,00071 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:03:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:03:24-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72036,00073 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:03:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:03:54-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72035,00073 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:04:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:04:24-07:00</when></TimeStamp><Point><coordinates>-121.53348,37.72035,00067 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:04:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:04:54-07:00</when></TimeStamp><Point><coordinates>-121.53348,37.72036,00067 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:05:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:05:24-07:00</when></TimeStamp><Point><coordinates>-121.53350,37.72036,00072 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:05:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:05:54-07:00</when></TimeStamp><Point><coordinates>-121.53349,37.72034,00105 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:06:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:06:24-07:00</when></TimeStamp><Point><coordinates>-121.53363,37.72020,00297 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:06:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:06:54-07:00</when></TimeStamp><Point><coordinates>-121.53368,37.72006,00477 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:07:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:07:24-07:00</when></TimeStamp><Point><coordinates>-121.53405,37.72026,00670 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:07:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:07:54-07:00</when></TimeStamp><Point><coordinates>-121.53474,37.72075,00851 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:08:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:08:24-07:00</when></TimeStamp><Point><coordinates>-121.53531,37.72106,01042 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:08:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:08:54-07:00</when></TimeStamp><Point><coordinates>-121.53541,37.72164,01247 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:09:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:24-07:00</when></TimeStamp><Point><coordinates>-121.53461,37.72277,01467 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:09:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:54-07:00</when></TimeStamp><Point><coordinates>-121.53390,37.72438,01678 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:10:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:10:24-07:00</when></TimeStamp><Point><coordinates>-121.53300,37.72668,01887 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:10:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:10:54-07:00</when></TimeStamp><Point><coordinates>-121.53155,37.72925,02086 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:11:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:24-07:00</when></TimeStamp><Point><coordinates>-121.52975,37.73217,02293 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:11:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:54-07:00</when></TimeStamp><Point><coordinates>-121.52711,37.73482,02515 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:12:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:12:24-07:00</when></TimeStamp><Point><coordinates>-121.52454,37.73744,02702 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:12:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:12:54-07:00</when></TimeStamp><Point><coordinates>-121.52144,37.73995,02895 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:13:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:13:24-07:00</when></TimeStamp><Point><coordinates>-121.51807,37.74214,03067 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:13:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:13:54-07:00</when></TimeStamp><Point><coordinates>-121.51442,37.74448,03266 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:14:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:14:24-07:00</when></TimeStamp><Point><coordinates>-121.51102,37.74655,03467 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:14:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:14:54-07:00</when></TimeStamp><Point><coordinates>-121.50690,37.74860,03653 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:15:24-07:00</name>
+<TimeStamp><when>2010-03-28T13:15:24-07:00</when></TimeStamp><Point><coordinates>-121.50233,37.75099,03885 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:15:54-07:00</name>
+<TimeStamp><when>2010-03-28T13:15:54-07:00</when></TimeStamp><Point><coordinates>-121.49716,37.75304,04080 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:16:55-07:00</name>
+<TimeStamp><when>2010-03-28T13:16:55-07:00</when></TimeStamp><Point><coordinates>-121.48589,37.75733,04470 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:17:25-07:00</name>
+<TimeStamp><when>2010-03-28T13:17:25-07:00</when></TimeStamp><Point><coordinates>-121.48015,37.75956,04685 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:17:56-07:00</name>
+<TimeStamp><when>2010-03-28T13:17:56-07:00</when></TimeStamp><Point><coordinates>-121.47414,37.76154,04884 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:18:26-07:00</name>
+<TimeStamp><when>2010-03-28T13:18:26-07:00</when></TimeStamp><Point><coordinates>-121.46743,37.76352,05077 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:18:56-07:00</name>
+<TimeStamp><when>2010-03-28T13:18:56-07:00</when></TimeStamp><Point><coordinates>-121.46091,37.76563,05282 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:19:26-07:00</name>
+<TimeStamp><when>2010-03-28T13:19:26-07:00</when></TimeStamp><Point><coordinates>-121.45418,37.76760,05503 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:19:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:19:57-07:00</when></TimeStamp><Point><coordinates>-121.44799,37.76912,05703 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:20:27-07:00</name>
+<TimeStamp><when>2010-03-28T13:20:27-07:00</when></TimeStamp><Point><coordinates>-121.44228,37.77040,05930 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:20:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:20:57-07:00</when></TimeStamp><Point><coordinates>-121.43618,37.77110,06137 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:21:27-07:00</name>
+<TimeStamp><when>2010-03-28T13:21:27-07:00</when></TimeStamp><Point><coordinates>-121.42995,37.77158,06341 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:21:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:21:57-07:00</when></TimeStamp><Point><coordinates>-121.42392,37.77246,06556 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:22:27-07:00</name>
+<TimeStamp><when>2010-03-28T13:22:27-07:00</when></TimeStamp><Point><coordinates>-121.41752,37.77306,06766 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:22:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:22:57-07:00</when></TimeStamp><Point><coordinates>-121.40978,37.77375,06978 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:23:27-07:00</name>
+<TimeStamp><when>2010-03-28T13:23:27-07:00</when></TimeStamp><Point><coordinates>-121.40202,37.77411,07229 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:23:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:23:57-07:00</when></TimeStamp><Point><coordinates>-121.39463,37.77506,07436 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:24:27-07:00</name>
+<TimeStamp><when>2010-03-28T13:24:27-07:00</when></TimeStamp><Point><coordinates>-121.38741,37.77602,07661 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:24:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:24:57-07:00</when></TimeStamp><Point><coordinates>-121.37974,37.77657,07886 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:25:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:25:28-07:00</when></TimeStamp><Point><coordinates>-121.37241,37.77663,08088 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:25:58-07:00</name>
+<TimeStamp><when>2010-03-28T13:25:58-07:00</when></TimeStamp><Point><coordinates>-121.36530,37.77618,08286 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:26:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:26:28-07:00</when></TimeStamp><Point><coordinates>-121.35810,37.77497,08482 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:26:58-07:00</name>
+<TimeStamp><when>2010-03-28T13:26:58-07:00</when></TimeStamp><Point><coordinates>-121.35035,37.77333,08684 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:27:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:27:28-07:00</when></TimeStamp><Point><coordinates>-121.34173,37.77077,08864 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:27:58-07:00</name>
+<TimeStamp><when>2010-03-28T13:27:58-07:00</when></TimeStamp><Point><coordinates>-121.33253,37.76772,09059 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:28:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:28:28-07:00</when></TimeStamp><Point><coordinates>-121.32297,37.76468,09255 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:29:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:29:28-07:00</when></TimeStamp><Point><coordinates>-121.30185,37.75843,09621 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:29:59-07:00</name>
+<TimeStamp><when>2010-03-28T13:29:59-07:00</when></TimeStamp><Point><coordinates>-121.29121,37.75504,09789 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:30:29-07:00</name>
+<TimeStamp><when>2010-03-28T13:30:29-07:00</when></TimeStamp><Point><coordinates>-121.28084,37.75220,09997 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:30:59-07:00</name>
+<TimeStamp><when>2010-03-28T13:30:59-07:00</when></TimeStamp><Point><coordinates>-121.27123,37.74938,10207 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:31:30-07:00</name>
+<TimeStamp><when>2010-03-28T13:31:30-07:00</when></TimeStamp><Point><coordinates>-121.26211,37.74632,10452 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:31:59-07:00</name>
+<TimeStamp><when>2010-03-28T13:31:59-07:00</when></TimeStamp><Point><coordinates>-121.25234,37.74203,10672 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:32:30-07:00</name>
+<TimeStamp><when>2010-03-28T13:32:30-07:00</when></TimeStamp><Point><coordinates>-121.24233,37.73793,10909 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:33:00-07:00</name>
+<TimeStamp><when>2010-03-28T13:33:00-07:00</when></TimeStamp><Point><coordinates>-121.23205,37.73395,11120 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:33:30-07:00</name>
+<TimeStamp><when>2010-03-28T13:33:30-07:00</when></TimeStamp><Point><coordinates>-121.22129,37.72952,11360 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:34:00-07:00</name>
+<TimeStamp><when>2010-03-28T13:34:00-07:00</when></TimeStamp><Point><coordinates>-121.21095,37.72536,11613 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:34:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:34:31-07:00</when></TimeStamp><Point><coordinates>-121.20033,37.72136,11848 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:35:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:35:01-07:00</when></TimeStamp><Point><coordinates>-121.19016,37.71690,12065 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:35:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:35:31-07:00</when></TimeStamp><Point><coordinates>-121.18091,37.71246,12260 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:36:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:36:01-07:00</when></TimeStamp><Point><coordinates>-121.17268,37.70856,12510 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:37:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:37:01-07:00</when></TimeStamp><Point><coordinates>-121.15719,37.70567,12914 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:37:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:37:31-07:00</when></TimeStamp><Point><coordinates>-121.14718,37.70407,13090 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:38:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:38:01-07:00</when></TimeStamp><Point><coordinates>-121.13655,37.70138,13216 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:38:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:38:31-07:00</when></TimeStamp><Point><coordinates>-121.12897,37.69743,13437 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:39:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:39:01-07:00</when></TimeStamp><Point><coordinates>-121.12405,37.69520,13723 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:39:32-07:00</name>
+<TimeStamp><when>2010-03-28T13:39:32-07:00</when></TimeStamp><Point><coordinates>-121.11968,37.69425,13506 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:41:32-07:00</name>
+<TimeStamp><when>2010-03-28T13:41:32-07:00</when></TimeStamp><Point><coordinates>-121.08417,37.68027,11286 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:42:03-07:00</name>
+<TimeStamp><when>2010-03-28T13:42:03-07:00</when></TimeStamp><Point><coordinates>-121.07317,37.67628,10799 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:42:32-07:00</name>
+<TimeStamp><when>2010-03-28T13:42:32-07:00</when></TimeStamp><Point><coordinates>-121.06397,37.67284,10313 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:43:03-07:00</name>
+<TimeStamp><when>2010-03-28T13:43:03-07:00</when></TimeStamp><Point><coordinates>-121.05386,37.66991,09873 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:44:03-07:00</name>
+<TimeStamp><when>2010-03-28T13:44:03-07:00</when></TimeStamp><Point><coordinates>-121.03365,37.66324,09003 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:44:33-07:00</name>
+<TimeStamp><when>2010-03-28T13:44:33-07:00</when></TimeStamp><Point><coordinates>-121.02575,37.66056,08553 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:45:34-07:00</name>
+<TimeStamp><when>2010-03-28T13:45:34-07:00</when></TimeStamp><Point><coordinates>-121.01197,37.65896,07684 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:46:04-07:00</name>
+<TimeStamp><when>2010-03-28T13:46:04-07:00</when></TimeStamp><Point><coordinates>-121.00519,37.65933,07258 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:46:34-07:00</name>
+<TimeStamp><when>2010-03-28T13:46:34-07:00</when></TimeStamp><Point><coordinates>-120.99818,37.65987,06848 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:47:04-07:00</name>
+<TimeStamp><when>2010-03-28T13:47:04-07:00</when></TimeStamp><Point><coordinates>-120.99120,37.65995,06438 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:48:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:48:05-07:00</when></TimeStamp><Point><coordinates>-120.97899,37.66089,05674 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:48:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:48:35-07:00</when></TimeStamp><Point><coordinates>-120.97272,37.66255,05306 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:49:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:49:05-07:00</when></TimeStamp><Point><coordinates>-120.96642,37.66429,04938 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:49:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:49:35-07:00</when></TimeStamp><Point><coordinates>-120.96059,37.66594,04565 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:50:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:50:05-07:00</when></TimeStamp><Point><coordinates>-120.95554,37.66792,04224 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:50:35-07:00</name>
+<TimeStamp><when>2010-03-28T13:50:35-07:00</when></TimeStamp><Point><coordinates>-120.95105,37.66998,03880 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:51:06-07:00</name>
+<TimeStamp><when>2010-03-28T13:51:06-07:00</when></TimeStamp><Point><coordinates>-120.94691,37.67205,03528 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:52:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:52:05-07:00</when></TimeStamp><Point><coordinates>-120.94036,37.67583,02861 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:53:05-07:00</name>
+<TimeStamp><when>2010-03-28T13:53:05-07:00</when></TimeStamp><Point><coordinates>-120.93723,37.67940,02209 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:53:36-07:00</name>
+<TimeStamp><when>2010-03-28T13:53:36-07:00</when></TimeStamp><Point><coordinates>-120.93620,37.68153,01909 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:54:06-07:00</name>
+<TimeStamp><when>2010-03-28T13:54:06-07:00</when></TimeStamp><Point><coordinates>-120.93558,37.68314,01607 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:54:37-07:00</name>
+<TimeStamp><when>2010-03-28T13:54:37-07:00</when></TimeStamp><Point><coordinates>-120.93476,37.68509,01321 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 at 2010-03-28T13:55:07-07:00</name>
+<TimeStamp><when>2010-03-28T13:55:07-07:00</when></TimeStamp><Point><coordinates>-120.93443,37.68712,01061 </coordinates></Point></Placemark>
+<Placemark><name>KJ6AOD-11 (trail)</name>
+<LineString>
+<coordinates>-121.53359,37.72038,00077 -121.53356,37.72038,00077 -121.53359,37.72038,00077 -121.53357,37.72037,00078 -121.53357,37.72039,00078 -121.53358,37.72037,00075 -121.53356,37.72036,00077 -121.53362,37.72034,00083 -121.53360,37.72034,00084 -121.53358,37.72037,00080 -121.53359,37.72039,00081 -121.53357,37.72035,00084 -121.53362,37.72037,00084 -121.53362,37.72038,00083 -121.53360,37.72036,00079 -121.53360,37.72036,00082 -121.53358,37.72037,00077 -121.53360,37.72036,00080 -121.53358,37.72037,00079 -121.53357,37.72036,00080 -121.53356,37.72038,00075 -121.53356,37.72037,00075 -121.53356,37.72037,00081 -121.53358,37.72039,00077 -121.53358,37.72038,00080 -121.53358,37.72039,00079 -121.53360,37.72041,00083 -121.53358,37.72038,00079 -121.53356,37.72037,00078 -121.53359,37.72040,00077 -121.53358,37.72040,00079 -121.53358,37.72039,00082 -121.53357,37.72039,00082 -121.53355,37.72039,00081 -121.53355,37.72039,00081 -121.53355,37.72038,00081 -121.53355,37.72038,00082 -121.53355,37.72039,00082 -121.53355,37.72038,00083 -121.53355,37.72038,00080 -121.53356,37.72039,00082 -121.53356,37.72039,00080 -121.53356,37.72039,00079 -121.53356,37.72041,00082 -121.53355,37.72038,00081 -121.53358,37.72038,00078 -121.53357,37.72039,00081 -121.53356,37.72039,00078 -121.53357,37.72039,00073 -121.53357,37.72037,00070 -121.53357,37.72037,00070 -121.53358,37.72040,00080 -121.53358,37.72038,00074 -121.53356,37.72040,00072 -121.53359,37.72038,00081 -121.53355,37.72036,00075 -121.53358,37.72036,00080 -121.53358,37.72038,00077 -121.53358,37.72039,00077 -121.53359,37.72038,00077 -121.53358,37.72038,00074 -121.53359,37.72036,00074 -121.53359,37.72035,00078 -121.53346,37.72033,00076 -121.53347,37.72034,00075 -121.53348,37.72034,00076 -121.53349,37.72034,00075 -121.53348,37.72035,00074 -121.53349,37.72035,00074 -121.53349,37.72035,00071 -121.53349,37.72036,00073 -121.53349,37.72035,00073 -121.53348,37.72035,00067 -121.53348,37.72036,00067 -121.53350,37.72036,00072 -121.53349,37.72034,00105 -121.53363,37.72020,00297 -121.53368,37.72006,00477 -121.53405,37.72026,00670 -121.53474,37.72075,00851 -121.53531,37.72106,01042 -121.53541,37.72164,01247 -121.53461,37.72277,01467 -121.53390,37.72438,01678 -121.53300,37.72668,01887 -121.53155,37.72925,02086 -121.52975,37.73217,02293 -121.52711,37.73482,02515 -121.52454,37.73744,02702 -121.52144,37.73995,02895 -121.51807,37.74214,03067 -121.51442,37.74448,03266 -121.51102,37.74655,03467 -121.50690,37.74860,03653 -121.50233,37.75099,03885 -121.49716,37.75304,04080 -121.48589,37.75733,04470 -121.48015,37.75956,04685 -121.47414,37.76154,04884 -121.46743,37.76352,05077 -121.46091,37.76563,05282 -121.45418,37.76760,05503 -121.44799,37.76912,05703 -121.44228,37.77040,05930 -121.43618,37.77110,06137 -121.42995,37.77158,06341 -121.42392,37.77246,06556 -121.41752,37.77306,06766 -121.40978,37.77375,06978 -121.40202,37.77411,07229 -121.39463,37.77506,07436 -121.38741,37.77602,07661 -121.37974,37.77657,07886 -121.37241,37.77663,08088 -121.36530,37.77618,08286 -121.35810,37.77497,08482 -121.35035,37.77333,08684 -121.34173,37.77077,08864 -121.33253,37.76772,09059 -121.32297,37.76468,09255 -121.30185,37.75843,09621 -121.29121,37.75504,09789 -121.28084,37.75220,09997 -121.27123,37.74938,10207 -121.26211,37.74632,10452 -121.25234,37.74203,10672 -121.24233,37.73793,10909 -121.23205,37.73395,11120 -121.22129,37.72952,11360 -121.21095,37.72536,11613 -121.20033,37.72136,11848 -121.19016,37.71690,12065 -121.18091,37.71246,12260 -121.17268,37.70856,12510 -121.15719,37.70567,12914 -121.14718,37.70407,13090 -121.13655,37.70138,13216 -121.12897,37.69743,13437 -121.12405,37.69520,13723 -121.11968,37.69425,13506 -121.08417,37.68027,11286 -121.07317,37.67628,10799 -121.06397,37.67284,10313 -121.05386,37.66991,09873 -121.03365,37.66324,09003 -121.02575,37.66056,08553 -121.01197,37.65896,07684 -121.00519,37.65933,07258 -120.99818,37.65987,06848 -120.99120,37.65995,06438 -120.97899,37.66089,05674 -120.97272,37.66255,05306 -120.96642,37.66429,04938 -120.96059,37.66594,04565 -120.95554,37.66792,04224 -120.95105,37.66998,03880 -120.94691,37.67205,03528 -120.94036,37.67583,02861 -120.93723,37.67940,02209 -120.93620,37.68153,01909 -120.93558,37.68314,01607 -120.93476,37.68509,01321 -120.93443,37.68712,01061 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KJ6DYS</name>
+<description>Packets received: 0     Last Heard: </description>
+<TimeStamp><when>1969-12-31T16:00:00-08:00</when></TimeStamp><Point>
+	<coordinates>000.00000,-0.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KJ6ELB</name>
+<description>Packets received: 22     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:52:14-07:00</when></TimeStamp><Point>
+<coordinates>-120.27350,38.30933,01506 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:11:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:11:51-07:00</when></TimeStamp><Point><coordinates>-120.52317,38.04900,00467 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:12:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:12:47-07:00</when></TimeStamp><Point><coordinates>-120.52317,38.04900,00467 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:14:37-07:00</name>
+<TimeStamp><when>2010-03-28T12:14:37-07:00</when></TimeStamp><Point><coordinates>-120.53150,38.05133,00446 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:18:33-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:33-07:00</when></TimeStamp><Point><coordinates>-120.52683,38.07900,00465 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:20:35-07:00</name>
+<TimeStamp><when>2010-03-28T12:20:35-07:00</when></TimeStamp><Point><coordinates>-120.49917,38.09217,00530 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:22:36-07:00</name>
+<TimeStamp><when>2010-03-28T12:22:36-07:00</when></TimeStamp><Point><coordinates>-120.47150,38.09500,00549 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:27:25-07:00</name>
+<TimeStamp><when>2010-03-28T12:27:25-07:00</when></TimeStamp><Point><coordinates>-120.45617,38.13883,00668 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:35:32-07:00</name>
+<TimeStamp><when>2010-03-28T12:35:32-07:00</when></TimeStamp><Point><coordinates>-120.36417,38.19300,01013 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:52:07-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:07-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01523 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:54:10-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:10-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01512 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:55:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:47-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01511 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T12:57:49-07:00</name>
+<TimeStamp><when>2010-03-28T12:57:49-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01512 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:00:15-07:00</name>
+<TimeStamp><when>2010-03-28T13:00:15-07:00</when></TimeStamp><Point><coordinates>-120.27333,38.30933,01512 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:01:15-07:00</name>
+<TimeStamp><when>2010-03-28T13:01:15-07:00</when></TimeStamp><Point><coordinates>-120.27333,38.30933,01509 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:07:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:07:31-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01510 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:10:58-07:00</name>
+<TimeStamp><when>2010-03-28T13:10:58-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01508 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:36:25-07:00</name>
+<TimeStamp><when>2010-03-28T13:36:25-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01507 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:40:11-07:00</name>
+<TimeStamp><when>2010-03-28T13:40:11-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01510 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:44:26-07:00</name>
+<TimeStamp><when>2010-03-28T13:44:26-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01529 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:46:49-07:00</name>
+<TimeStamp><when>2010-03-28T13:46:49-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01507 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB at 2010-03-28T13:52:14-07:00</name>
+<TimeStamp><when>2010-03-28T13:52:14-07:00</when></TimeStamp><Point><coordinates>-120.27350,38.30933,01506 </coordinates></Point></Placemark>
+<Placemark><name>KJ6ELB (trail)</name>
+<LineString>
+<coordinates>-120.52317,38.04900,00467 -120.52317,38.04900,00467 -120.53150,38.05133,00446 -120.52683,38.07900,00465 -120.49917,38.09217,00530 -120.47150,38.09500,00549 -120.45617,38.13883,00668 -120.36417,38.19300,01013 -120.27350,38.30933,01523 -120.27350,38.30933,01512 -120.27350,38.30933,01511 -120.27350,38.30933,01512 -120.27333,38.30933,01512 -120.27333,38.30933,01509 -120.27350,38.30933,01510 -120.27350,38.30933,01508 -120.27350,38.30933,01507 -120.27350,38.30933,01510 -120.27350,38.30933,01529 -120.27350,38.30933,01507 -120.27350,38.30933,01506 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>KK6ZL</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:59:07-07:00</when></TimeStamp><Point>
+	<coordinates>-121.88883,37.68017,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>KR6IJO-9</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T14:03:08-07:00</when></TimeStamp><Point>
+<coordinates>-119.62933,37.36983,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 at 2010-03-28T12:20:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:20:18-07:00</when></TimeStamp><Point><coordinates>-119.72400,37.36183,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 at 2010-03-28T12:22:47-07:00</name>
+<TimeStamp><when>2010-03-28T12:22:47-07:00</when></TimeStamp><Point><coordinates>-119.70383,37.34150,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 at 2010-03-28T12:25:56-07:00</name>
+<TimeStamp><when>2010-03-28T12:25:56-07:00</when></TimeStamp><Point><coordinates>-119.66267,37.33550,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 at 2010-03-28T12:26:57-07:00</name>
+<TimeStamp><when>2010-03-28T12:26:57-07:00</when></TimeStamp><Point><coordinates>-119.65833,37.33133,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 at 2010-03-28T14:03:08-07:00</name>
+<TimeStamp><when>2010-03-28T14:03:08-07:00</when></TimeStamp><Point><coordinates>-119.62933,37.36983,0 </coordinates></Point></Placemark>
+<Placemark><name>KR6IJO-9 (trail)</name>
+<LineString>
+<coordinates>-119.72400,37.36183,0 -119.70383,37.34150,0 -119.66267,37.33550,0 -119.65833,37.33133,0 -119.62933,37.36983,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N0ARY-2</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:47:10-07:00</when></TimeStamp><Point>
+<coordinates>-122.03667,37.36767,00042 </coordinates></Point></Placemark>
+<Placemark><name>N0ARY-2 at 2010-03-28T12:01:18-07:00</name>
+<TimeStamp><when>2010-03-28T12:01:18-07:00</when></TimeStamp><Point><coordinates>-122.01633,37.36117,00032 </coordinates></Point></Placemark>
+<Placemark><name>N0ARY-2 at 2010-03-28T13:11:02-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:02-07:00</when></TimeStamp><Point><coordinates>-122.07133,37.34133,00071 </coordinates></Point></Placemark>
+<Placemark><name>N0ARY-2 at 2010-03-28T13:47:10-07:00</name>
+<TimeStamp><when>2010-03-28T13:47:10-07:00</when></TimeStamp><Point><coordinates>-122.03667,37.36767,00042 </coordinates></Point></Placemark>
+<Placemark><name>N0ARY-2 (trail)</name>
+<LineString>
+<coordinates>-122.01633,37.36117,00032 -122.07133,37.34133,00071 -122.03667,37.36767,00042 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N0ARY-4</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:32:55-07:00</when></TimeStamp><Point>
+	<coordinates>-122.01633,37.36133,00022 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N5FDL-9</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:19:31-07:00</when></TimeStamp><Point>
+<coordinates>-121.45033,37.84817,0 </coordinates></Point></Placemark>
+<Placemark><name>N5FDL-9 at 2010-03-28T13:09:42-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:42-07:00</when></TimeStamp><Point><coordinates>-121.38200,37.92683,0 </coordinates></Point></Placemark>
+<Placemark><name>N5FDL-9 at 2010-03-28T13:12:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:12:28-07:00</when></TimeStamp><Point><coordinates>-121.43117,37.92550,0 </coordinates></Point></Placemark>
+<Placemark><name>N5FDL-9 at 2010-03-28T13:19:31-07:00</name>
+<TimeStamp><when>2010-03-28T13:19:31-07:00</when></TimeStamp><Point><coordinates>-121.45033,37.84817,0 </coordinates></Point></Placemark>
+<Placemark><name>N5FDL-9 (trail)</name>
+<LineString>
+<coordinates>-121.38200,37.92683,0 -121.43117,37.92550,0 -121.45033,37.84817,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N6DI</name>
+<description>Packets received: 4     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:39:57-07:00</when></TimeStamp><Point>
+<coordinates>-119.05350,35.97700,00132 </coordinates></Point></Placemark>
+<Placemark><name>N6DI at 2010-03-28T12:18:10-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:10-07:00</when></TimeStamp><Point><coordinates>-119.05317,35.77417,00189 </coordinates></Point></Placemark>
+<Placemark><name>N6DI at 2010-03-28T12:19:15-07:00</name>
+<TimeStamp><when>2010-03-28T12:19:15-07:00</when></TimeStamp><Point><coordinates>-119.05334,35.78967,00175 </coordinates></Point></Placemark>
+<Placemark><name>N6DI at 2010-03-28T12:45:37-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:37-07:00</when></TimeStamp><Point><coordinates>-119.01984,36.04733,0 </coordinates></Point></Placemark>
+<Placemark><name>N6DI at 2010-03-28T13:39:57-07:00</name>
+<TimeStamp><when>2010-03-28T13:39:57-07:00</when></TimeStamp><Point><coordinates>-119.05350,35.97700,00132 </coordinates></Point></Placemark>
+<Placemark><name>N6DI (trail)</name>
+<LineString>
+<coordinates>-119.05317,35.77417,00189 -119.05334,35.78967,00175 -119.01984,36.04733,0 -119.05350,35.97700,00132 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N6EY</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:45:59-07:00</when></TimeStamp><Point>
+	<coordinates>-119.72266,36.84267,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N6MEB-8</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:00:55-07:00</when></TimeStamp><Point>
+	<coordinates>-122.21450,37.38200,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N6RBT-2</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:49:01-07:00</when></TimeStamp><Point>
+<coordinates>-119.44833,36.58967,00105 </coordinates></Point></Placemark>
+<Placemark><name>N6RBT-2 at 2010-03-28T13:49:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:49:01-07:00</when></TimeStamp><Point><coordinates>-119.44833,36.58967,00105 </coordinates></Point></Placemark>
+<Placemark><name>N6RBT-2 (trail)</name>
+<LineString>
+<coordinates>-119.44833,36.58967,00105 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N6SNP-9</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:51:29-07:00</when></TimeStamp><Point>
+<coordinates>-122.03533,37.61950,00009 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 at 2010-03-28T12:01:06-07:00</name>
+<TimeStamp><when>2010-03-28T12:01:06-07:00</when></TimeStamp><Point><coordinates>-121.49917,37.74067,00020 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 at 2010-03-28T12:16:25-07:00</name>
+<TimeStamp><when>2010-03-28T12:16:25-07:00</when></TimeStamp><Point><coordinates>-121.84417,37.70117,00106 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 at 2010-03-28T12:37:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:37:53-07:00</when></TimeStamp><Point><coordinates>-122.09566,37.69033,00052 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 at 2010-03-28T12:42:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:42:02-07:00</when></TimeStamp><Point><coordinates>-122.10117,37.65583,00014 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 at 2010-03-28T12:51:29-07:00</name>
+<TimeStamp><when>2010-03-28T12:51:29-07:00</when></TimeStamp><Point><coordinates>-122.03533,37.61950,00009 </coordinates></Point></Placemark>
+<Placemark><name>N6SNP-9 (trail)</name>
+<LineString>
+<coordinates>-121.49917,37.74067,00020 -121.84417,37.70117,00106 -122.09566,37.69033,00052 -122.10117,37.65583,00014 -122.03533,37.61950,00009 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N6TBQ</name>
+<description>Packets received: 7     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:46:46-07:00</when></TimeStamp><Point>
+	<coordinates>-121.61266,36.70833,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N6WKZ-3</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:57:39-07:00</when></TimeStamp><Point>
+	<coordinates>-122.43333,37.77367,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N6YPM-7</name>
+<description>Packets received: 32     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:22:23-07:00</when></TimeStamp><Point>
+<coordinates>-120.45900,37.85800,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:43:04-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:04-07:00</when></TimeStamp><Point><coordinates>-120.36383,38.02100,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:43:27-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:27-07:00</when></TimeStamp><Point><coordinates>-120.36333,38.02067,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:43:58-07:00</name>
+<TimeStamp><when>2010-03-28T12:43:58-07:00</when></TimeStamp><Point><coordinates>-120.36317,38.02083,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:44:29-07:00</name>
+<TimeStamp><when>2010-03-28T12:44:29-07:00</when></TimeStamp><Point><coordinates>-120.36333,38.02150,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:45:09-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:09-07:00</when></TimeStamp><Point><coordinates>-120.36533,38.02250,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:45:55-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:55-07:00</when></TimeStamp><Point><coordinates>-120.36650,38.02400,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:46:25-07:00</name>
+<TimeStamp><when>2010-03-28T12:46:25-07:00</when></TimeStamp><Point><coordinates>-120.36816,38.02483,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:46:56-07:00</name>
+<TimeStamp><when>2010-03-28T12:46:56-07:00</when></TimeStamp><Point><coordinates>-120.37050,38.02483,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:48:04-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:04-07:00</when></TimeStamp><Point><coordinates>-120.37283,38.02633,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:48:38-07:00</name>
+<TimeStamp><when>2010-03-28T12:48:38-07:00</when></TimeStamp><Point><coordinates>-120.37200,38.02700,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:49:42-07:00</name>
+<TimeStamp><when>2010-03-28T12:49:42-07:00</when></TimeStamp><Point><coordinates>-120.37566,38.02850,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:51:48-07:00</name>
+<TimeStamp><when>2010-03-28T12:51:48-07:00</when></TimeStamp><Point><coordinates>-120.38233,38.02217,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:52:19-07:00</name>
+<TimeStamp><when>2010-03-28T12:52:19-07:00</when></TimeStamp><Point><coordinates>-120.38567,38.02033,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:53:22-07:00</name>
+<TimeStamp><when>2010-03-28T12:53:22-07:00</when></TimeStamp><Point><coordinates>-120.39500,38.01867,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:54:53-07:00</name>
+<TimeStamp><when>2010-03-28T12:54:53-07:00</when></TimeStamp><Point><coordinates>-120.40100,38.01250,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:55:24-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:24-07:00</when></TimeStamp><Point><coordinates>-120.40383,38.01083,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:55:54-07:00</name>
+<TimeStamp><when>2010-03-28T12:55:54-07:00</when></TimeStamp><Point><coordinates>-120.40350,38.00750,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:56:25-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:25-07:00</when></TimeStamp><Point><coordinates>-120.40550,38.00517,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:56:56-07:00</name>
+<TimeStamp><when>2010-03-28T12:56:56-07:00</when></TimeStamp><Point><coordinates>-120.40900,38.00217,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:57:30-07:00</name>
+<TimeStamp><when>2010-03-28T12:57:30-07:00</when></TimeStamp><Point><coordinates>-120.41016,37.99800,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:58:01-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:01-07:00</when></TimeStamp><Point><coordinates>-120.41000,37.99350,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:58:31-07:00</name>
+<TimeStamp><when>2010-03-28T12:58:31-07:00</when></TimeStamp><Point><coordinates>-120.41150,37.99117,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T12:59:02-07:00</name>
+<TimeStamp><when>2010-03-28T12:59:02-07:00</when></TimeStamp><Point><coordinates>-120.41300,37.98717,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:07:19-07:00</name>
+<TimeStamp><when>2010-03-28T13:07:19-07:00</when></TimeStamp><Point><coordinates>-120.44483,37.93050,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:07:50-07:00</name>
+<TimeStamp><when>2010-03-28T13:07:50-07:00</when></TimeStamp><Point><coordinates>-120.44717,37.92417,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:09:28-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:28-07:00</when></TimeStamp><Point><coordinates>-120.45233,37.90950,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:09:59-07:00</name>
+<TimeStamp><when>2010-03-28T13:09:59-07:00</when></TimeStamp><Point><coordinates>-120.45400,37.90400,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:11:01-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:01-07:00</when></TimeStamp><Point><coordinates>-120.44850,37.89383,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:11:32-07:00</name>
+<TimeStamp><when>2010-03-28T13:11:32-07:00</when></TimeStamp><Point><coordinates>-120.44566,37.89017,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:13:16-07:00</name>
+<TimeStamp><when>2010-03-28T13:13:16-07:00</when></TimeStamp><Point><coordinates>-120.44850,37.88033,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:14:18-07:00</name>
+<TimeStamp><when>2010-03-28T13:14:18-07:00</when></TimeStamp><Point><coordinates>-120.44933,37.87650,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 at 2010-03-28T13:22:23-07:00</name>
+<TimeStamp><when>2010-03-28T13:22:23-07:00</when></TimeStamp><Point><coordinates>-120.45900,37.85800,0 </coordinates></Point></Placemark>
+<Placemark><name>N6YPM-7 (trail)</name>
+<LineString>
+<coordinates>-120.36383,38.02100,0 -120.36333,38.02067,0 -120.36317,38.02083,0 -120.36333,38.02150,0 -120.36533,38.02250,0 -120.36650,38.02400,0 -120.36816,38.02483,0 -120.37050,38.02483,0 -120.37283,38.02633,0 -120.37200,38.02700,0 -120.37566,38.02850,0 -120.38233,38.02217,0 -120.38567,38.02033,0 -120.39500,38.01867,0 -120.40100,38.01250,0 -120.40383,38.01083,0 -120.40350,38.00750,0 -120.40550,38.00517,0 -120.40900,38.00217,0 -120.41016,37.99800,0 -120.41000,37.99350,0 -120.41150,37.99117,0 -120.41300,37.98717,0 -120.44483,37.93050,0 -120.44717,37.92417,0 -120.45233,37.90950,0 -120.45400,37.90400,0 -120.44850,37.89383,0 -120.44566,37.89017,0 -120.44850,37.88033,0 -120.44933,37.87650,0 -120.45900,37.85800,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>N6ZX-3</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:20:50-07:00</when></TimeStamp><Point>
+	<coordinates>-122.32017,37.43600,00633 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>N7ROJ-9</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:48:56-07:00</when></TimeStamp><Point>
+	<coordinates>-119.73650,39.45217,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>NI6M-7</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:22:50-07:00</when></TimeStamp><Point>
+	<coordinates>-119.88783,36.82017,00091 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>RANCHO</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:07:51-07:00</when></TimeStamp><Point>
+	<coordinates>-120.64000,38.72533,01036 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>REBA</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:04:26-07:00</when></TimeStamp><Point>
+	<coordinates>-120.05634,38.48917,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>SNOW</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:24:37-07:00</when></TimeStamp><Point>
+	<coordinates>-180.00000,90.00000,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>TFCWCREEK</name>
+<description>Object from K6BMD-9. 
+Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:43:37-07:00</when></TimeStamp><Point>
+	<coordinates>-122.03584,37.90333,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>W6BXN-3</name>
+<description>Packets received: 8     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:59:42-07:00</when></TimeStamp><Point>
+	<coordinates>-120.05833,37.53567,01249 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>W6CO-5</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:05:19-07:00</when></TimeStamp><Point>
+	<coordinates>-122.41666,38.36666,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>W6CX-3</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:52:54-07:00</when></TimeStamp><Point>
+	<coordinates>-122.06216,37.81567,00725 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>W6FQX-9</name>
+<description>Packets received: 8     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:54:15-07:00</when></TimeStamp><Point>
+<coordinates>-123.24533,39.05317,00652 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:14:07-07:00</name>
+<TimeStamp><when>2010-03-28T13:14:07-07:00</when></TimeStamp><Point><coordinates>-123.36933,39.01000,00134 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:38:22-07:00</name>
+<TimeStamp><when>2010-03-28T13:38:22-07:00</when></TimeStamp><Point><coordinates>-123.33334,38.99933,00224 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:38:53-07:00</name>
+<TimeStamp><when>2010-03-28T13:38:53-07:00</when></TimeStamp><Point><coordinates>-123.32950,38.99850,00253 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:49:12-07:00</name>
+<TimeStamp><when>2010-03-28T13:49:12-07:00</when></TimeStamp><Point><coordinates>-123.26550,39.03550,00628 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:50:18-07:00</name>
+<TimeStamp><when>2010-03-28T13:50:18-07:00</when></TimeStamp><Point><coordinates>-123.26450,39.04383,00623 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:52:40-07:00</name>
+<TimeStamp><when>2010-03-28T13:52:40-07:00</when></TimeStamp><Point><coordinates>-123.25250,39.04750,00662 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:54:00-07:00</name>
+<TimeStamp><when>2010-03-28T13:54:00-07:00</when></TimeStamp><Point><coordinates>-123.24467,39.05167,00660 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 at 2010-03-28T13:54:15-07:00</name>
+<TimeStamp><when>2010-03-28T13:54:15-07:00</when></TimeStamp><Point><coordinates>-123.24533,39.05317,00652 </coordinates></Point></Placemark>
+<Placemark><name>W6FQX-9 (trail)</name>
+<LineString>
+<coordinates>-123.36933,39.01000,00134 -123.33334,38.99933,00224 -123.32950,38.99850,00253 -123.26550,39.03550,00628 -123.26450,39.04383,00623 -123.25250,39.04750,00662 -123.24467,39.05167,00660 -123.24533,39.05317,00652 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>W6MSU-8</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:44:43-07:00</when></TimeStamp><Point>
+	<coordinates>-121.36034,38.05350,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WA6LIE-2</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:27:15-07:00</when></TimeStamp><Point>
+	<coordinates>-121.66433,36.68800,00009 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WA6PWW-7</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:08:46-07:00</when></TimeStamp><Point>
+	<coordinates>-121.90984,37.42733,00002 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WA6USI</name>
+<description>Packets received: 9     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:41:29-07:00</when></TimeStamp><Point>
+	<coordinates>-121.49433,38.59917,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WA6YLB-7</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:56:46-07:00</when></TimeStamp><Point>
+	<coordinates>-119.21133,36.51534,00568 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WARD</name>
+<description>Packets received: 5     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:35:29-07:00</when></TimeStamp><Point>
+	<coordinates>-120.24667,39.14800,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WB6TMS-5</name>
+<description>Packets received: 1     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:20:32-07:00</when></TimeStamp><Point>
+	<coordinates>-122.58000,38.34917,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WB6YAM-2</name>
+<description>Packets received: 3     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:30:42-07:00</when></TimeStamp><Point>
+<coordinates>-121.67194,36.68736,0 </coordinates></Point></Placemark>
+<Placemark><name>WB6YAM-2 at 2010-03-28T12:45:41-07:00</name>
+<TimeStamp><when>2010-03-28T12:45:41-07:00</when></TimeStamp><Point><coordinates>-121.67212,36.68739,0 </coordinates></Point></Placemark>
+<Placemark><name>WB6YAM-2 at 2010-03-28T13:30:42-07:00</name>
+<TimeStamp><when>2010-03-28T13:30:42-07:00</when></TimeStamp><Point><coordinates>-121.67194,36.68736,0 </coordinates></Point></Placemark>
+<Placemark><name>WB6YAM-2 (trail)</name>
+<LineString>
+<coordinates>-121.67212,36.68739,0 -121.67194,36.68736,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>WB9VXY-4</name>
+<description>Packets received: 4     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:24:20-07:00</when></TimeStamp><Point>
+<coordinates>-121.64154,36.67428,0 </coordinates></Point></Placemark>
+<Placemark><name>WB9VXY-4 at 2010-03-28T12:16:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:16:51-07:00</when></TimeStamp><Point><coordinates>-121.70525,36.70120,0 </coordinates></Point></Placemark>
+<Placemark><name>WB9VXY-4 at 2010-03-28T12:18:51-07:00</name>
+<TimeStamp><when>2010-03-28T12:18:51-07:00</when></TimeStamp><Point><coordinates>-121.68034,36.68574,0 </coordinates></Point></Placemark>
+<Placemark><name>WB9VXY-4 at 2010-03-28T12:23:08-07:00</name>
+<TimeStamp><when>2010-03-28T12:23:08-07:00</when></TimeStamp><Point><coordinates>-121.64901,36.67465,0 </coordinates></Point></Placemark>
+<Placemark><name>WB9VXY-4 at 2010-03-28T12:24:20-07:00</name>
+<TimeStamp><when>2010-03-28T12:24:20-07:00</when></TimeStamp><Point><coordinates>-121.64154,36.67428,0 </coordinates></Point></Placemark>
+<Placemark><name>WB9VXY-4 (trail)</name>
+<LineString>
+<coordinates>-121.70525,36.70120,0 -121.68034,36.68574,0 -121.64901,36.67465,0 -121.64154,36.67428,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>WX6HNX-2</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T12:54:46-07:00</when></TimeStamp><Point>
+	<coordinates>-119.64950,37.32717,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WX6HNX-9</name>
+<description>Packets received: 13     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:46:40-07:00</when></TimeStamp><Point>
+	<coordinates>-121.19050,37.04883,0 </coordinates>
+	</Point>
+</Placemark>
+<Placemark><name>WY6E-11</name>
+<description>Packets received: 2     Last Heard: </description>
+<TimeStamp><when>2010-03-28T13:30:27-07:00</when></TimeStamp><Point>
+	<coordinates>-121.43800,37.72283,0 </coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>
