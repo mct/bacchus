@@ -9,7 +9,7 @@ use strict;
 use warnings;
 
 my ($tty, $baud, $debug);
-GetOptions("baud" => \$baud, "tty" => \$tty)
+GetOptions("baud=i" => \$baud, "tty=s" => \$tty, "debug" => \$debug)
 	and $tty
 		or die "Usage: $0 --tty <serial_device> [--baud <baud_rate>] [--debug]\n";
 
