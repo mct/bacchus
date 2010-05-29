@@ -1,0 +1,214 @@
+Startup
+00:00:06 Temperature:  board 74F (228 raw), ext 535F (1023 raw),  Relative humidity 142% (1023 raw)
+00:00:06 Accelerometer X=468 Y=577 Z=350    X=0 Y=0 Z=0
+00:00:07 Temperature:  board 74F (228 raw), ext 461F (896 raw),  Relative humidity 142% (1023 raw)
+00:00:07 Accelerometer X=490 Y=578 Z=357    X=0 Y=0 Z=0
+00:00:08 Temperature:  board 74F (228 raw), ext 535F (1023 raw),  Relative humidity 142% (1023 raw)
+00:00:08 Accelerometer X=515 Y=562 Z=332    X=0 Y=0 Z=0
+00:00:09 Temperature:  board 74F (228 raw), ext 535F (1023 raw),  Relative humidity 142% (1023 raw)
+00:00:09 Accelerometer X=521 Y=557 Z=337    X=0 Y=0 Z=0
+00:00:10 Temperature:  board 74F (228 raw), ext 415F (817 raw),  Relative humidity 142% (1023 raw)
+00:00:10 Accelerometer X=541 Y=530 Z=333    X=0 Y=0 Z=0
+00:00:11 Temperature:  board 74F (228 raw), ext 477F (923 raw),  Relative humidity 142% (1023 raw)
+00:00:11 Accelerometer X=535 Y=533 Z=333    X=0 Y=0 Z=0
+00:00:12 Temperature:  board 74F (228 raw), ext 332F (673 raw),  Relative humidity 142% (1023 raw)
+00:00:12 Accelerometer X=524 Y=524 Z=326    X=0 Y=0 Z=0
+00:00:13 Temperature:  board 74F (228 raw), ext 392F (776 raw),  Relative humidity 142% (1023 raw)
+00:00:13 Accelerometer X=512 Y=519 Z=334    X=0 Y=0 Z=0
+00:00:14 Temperature:  board 74F (228 raw), ext 247F (527 raw),  Relative humidity 142% (1023 raw)
+00:00:14 Accelerometer X=519 Y=505 Z=329    X=0 Y=0 Z=0
+00:00:15 Sending GPS packet: >No GPS yet
+Sleep... Sleep... Sleep... Sleep... 
+00:00:16 Temperature:  board 74F (228 raw), ext 386F (767 raw),  Relative humidity 142% (1023 raw)
+00:00:16 Accelerometer X=510 Y=501 Z=330    X=0 Y=0 Z=0
+00:00:17 Temperature:  board 74F (228 raw), ext 303F (624 raw),  Relative humidity 142% (1023 raw)
+00:00:17 Accelerometer X=509 Y=501 Z=329    X=0 Y=0 Z=0
+00:00:18 Temperature:  board 74F (228 raw), ext 302F (621 raw),  Relative humidity 142% (1023 raw)
+00:00:18 Accelerometer X=512 Y=501 Z=330    X=0 Y=0 Z=0
+00:00:19 Temperature:  board 74F (228 raw), ext 252F (536 raw),  Relative humidity 142% (1023 raw)
+00:00:19 Accelerometer X=508 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:20 Temperature:  board 74F (228 raw), ext 253F (537 raw),  Relative humidity 142% (1023 raw)
+00:00:20 Accelerometer X=510 Y=500 Z=331    X=0 Y=0 Z=0
+00:00:21 Temperature:  board 74F (228 raw), ext 230F (497 raw),  Relative humidity 142% (1023 raw)
+00:00:21 Accelerometer X=512 Y=502 Z=331    X=0 Y=0 Z=0
+00:00:22 Temperature:  board 74F (228 raw), ext 207F (457 raw),  Relative humidity 142% (1023 raw)
+00:00:22 Accelerometer X=511 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:23 Temperature:  board 74F (228 raw), ext 230F (498 raw),  Relative humidity 142% (1023 raw)
+00:00:23 Accelerometer X=513 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:24 Temperature:  board 74F (228 raw), ext 216F (474 raw),  Relative humidity 142% (1023 raw)
+00:00:24 Accelerometer X=511 Y=501 Z=330    X=0 Y=0 Z=0
+00:00:25 Temperature:  board 74F (228 raw), ext 250F (531 raw),  Relative humidity 142% (1023 raw)
+00:00:25 Accelerometer X=509 Y=498 Z=330    X=0 Y=0 Z=0
+00:00:26 Temperature:  board 74F (228 raw), ext 234F (505 raw),  Relative humidity 142% (1023 raw)
+00:00:26 Accelerometer X=511 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:27 Temperature:  board 74F (228 raw), ext 264F (556 raw),  Relative humidity 142% (1023 raw)
+00:00:27 Accelerometer X=510 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:28 Temperature:  board 74F (228 raw), ext 260F (549 raw),  Relative humidity 142% (1023 raw)
+00:00:28 Accelerometer X=512 Y=500 Z=332    X=0 Y=0 Z=0
+00:00:29 Temperature:  board 74F (228 raw), ext 287F (595 raw),  Relative humidity 142% (1023 raw)
+00:00:29 Accelerometer X=512 Y=501 Z=328    X=0 Y=0 Z=0
+00:00:30 Sending Sensors packet: >ProjectBacchus.org Uptime=00:00:30 Temp=74F,287F (228,595) RH=142% (1023) Acc=512,501,328
+Sleep... Sleep... Sleep... Sleep... 
+00:00:31 Temperature:  board 74F (228 raw), ext 245F (524 raw),  Relative humidity 142% (1023 raw)
+00:00:31 Accelerometer X=511 Y=500 Z=329    X=0 Y=0 Z=0
+00:00:32 Temperature:  board 74F (228 raw), ext 224F (487 raw),  Relative humidity 142% (1023 raw)
+00:00:32 Accelerometer X=513 Y=499 Z=327    X=0 Y=0 Z=0
+00:00:33 Temperature:  board 74F (228 raw), ext 262F (552 raw),  Relative humidity 142% (1023 raw)
+00:00:33 Accelerometer X=511 Y=502 Z=330    X=0 Y=0 Z=0
+00:00:34 Temperature:  board 74F (228 raw), ext 254F (538 raw),  Relative humidity 142% (1023 raw)
+00:00:34 Accelerometer X=510 Y=502 Z=330    X=0 Y=0 Z=0
+00:00:35 Temperature:  board 74F (228 raw), ext 248F (528 raw),  Relative humidity 142% (1023 raw)
+00:00:35 Accelerometer X=511 Y=500 Z=330    X=0 Y=0 Z=0
+00:00:36 Temperature:  board 74F (228 raw), ext 276F (576 raw),  Relative humidity 142% (1023 raw)
+00:00:36 Accelerometer X=512 Y=502 Z=330    X=0 Y=0 Z=0
+00:00:37 Temperature:  board 73F (227 raw), ext 282F (587 raw),  Relative humidity 142% (1023 raw)
+00:00:37 Accelerometer X=512 Y=499 Z=330    X=0 Y=0 Z=0
+00:00:38 Temperature:  board 74F (228 raw), ext 294F (607 raw),  Relative humidity 142% (1023 raw)
+00:00:38 Accelerometer X=511 Y=502 Z=331    X=0 Y=0 Z=0
+00:00:39 Temperature:  board 74F (228 raw), ext 287F (595 raw),  Relative humidity 142% (1023 raw)
+00:00:39 Accelerometer X=510 Y=502 Z=329    X=0 Y=0 Z=0
+00:00:40 Temperature:  board 74F (228 raw), ext 284F (590 raw),  Relative humidity 142% (1023 raw)
+00:00:40 Accelerometer X=509 Y=499 Z=327    X=0 Y=0 Z=0
+00:00:41 Temperature:  board 74F (228 raw), ext 291F (602 raw),  Relative humidity 142% (1023 raw)
+00:00:41 Accelerometer X=510 Y=502 Z=328    X=0 Y=0 Z=0
+00:00:42 Temperature:  board 74F (228 raw), ext 293F (606 raw),  Relative humidity 142% (1023 raw)
+00:00:42 Accelerometer X=510 Y=501 Z=328    X=0 Y=0 Z=0
+00:00:43 Temperature:  board 74F (228 raw), ext 297F (613 raw),  Relative humidity 142% (1023 raw)
+00:00:43 Accelerometer X=511 Y=499 Z=331    X=0 Y=0 Z=0
+00:00:44 Temperature:  board 74F (228 raw), ext 295F (610 raw),  Relative humidity 142% (1023 raw)
+00:00:44 Accelerometer X=510 Y=501 Z=327    X=0 Y=0 Z=0
+00:00:45 Sending GPS packet: >No GPS yet
+Sleep... Sleep... Sleep... Sleep... 
+00:00:46 Temperature:  board 74F (228 raw), ext 79F (237 raw),  Relative humidity 142% (1023 raw)
+00:00:46 Accelerometer X=511 Y=502 Z=329    X=0 Y=0 Z=0
+00:00:47 Temperature:  board 74F (228 raw), ext 89F (254 raw),  Relative humidity 142% (1023 raw)
+00:00:47 Accelerometer X=511 Y=503 Z=329    X=0 Y=0 Z=0
+00:00:48 Temperature:  board 74F (228 raw), ext 65F (213 raw),  Relative humidity 142% (1023 raw)
+00:00:48 Accelerometer X=508 Y=501 Z=330    X=0 Y=0 Z=0
+00:00:49 Temperature:  board 74F (228 raw), ext 68F (218 raw),  Relative humidity 142% (1023 raw)
+00:00:49 Accelerometer X=512 Y=502 Z=329    X=0 Y=0 Z=0
+00:00:50 Temperature:  board 74F (228 raw), ext 56F (198 raw),  Relative humidity 142% (1023 raw)
+00:00:50 Accelerometer X=510 Y=499 Z=329    X=0 Y=0 Z=0
+00:00:51 Temperature:  board 74F (228 raw), ext 58F (201 raw),  Relative humidity 142% (1023 raw)
+00:00:51 Accelerometer X=511 Y=500 Z=335    X=0 Y=0 Z=0
+00:00:52 Temperature:  board 74F (228 raw), ext 62F (208 raw),  Relative humidity 142% (1023 raw)
+00:00:52 Accelerometer X=512 Y=504 Z=327    X=0 Y=0 Z=0
+00:00:53 Temperature:  board 74F (228 raw), ext 54F (194 raw),  Relative humidity 142% (1023 raw)
+00:00:53 Accelerometer X=512 Y=502 Z=331    X=0 Y=0 Z=0
+00:00:54 Temperature:  board 74F (228 raw), ext 76F (232 raw),  Relative humidity 142% (1023 raw)
+00:00:54 Accelerometer X=511 Y=501 Z=329    X=0 Y=0 Z=0
+00:00:55 Temperature:  board 74F (228 raw), ext 73F (226 raw),  Relative humidity 142% (1023 raw)
+00:00:55 Accelerometer X=512 Y=499 Z=330    X=0 Y=0 Z=0
+00:00:56 Temperature:  board 74F (228 raw), ext 69F (219 raw),  Relative humidity 142% (1023 raw)
+00:00:56 Accelerometer X=512 Y=502 Z=329    X=0 Y=0 Z=0
+00:00:57 Temperature:  board 74F (228 raw), ext 67F (217 raw),  Relative humidity 142% (1023 raw)
+00:00:57 Accelerometer X=510 Y=502 Z=329    X=0 Y=0 Z=0
+00:00:58 Temperature:  board 74F (228 raw), ext 67F (217 raw),  Relative humidity 142% (1023 raw)
+00:00:58 Accelerometer X=511 Y=504 Z=330    X=0 Y=0 Z=0
+00:00:59 Temperature:  board 74F (228 raw), ext 70F (221 raw),  Relative humidity 142% (1023 raw)
+00:00:59 Accelerometer X=510 Y=502 Z=328    X=0 Y=0 Z=0
+00:01:00 Sending Sensors packet: >ProjectBacchus.org Uptime=00:01:00 Temp=74F,70F (228,221) RH=142% (1023) Acc=510,502,328
+Sleep... Sleep... Sleep... Sleep... 
+00:01:01 Temperature:  board 74F (228 raw), ext 68F (218 raw),  Relative humidity 142% (1023 raw)
+00:01:01 Accelerometer X=510 Y=500 Z=328    X=0 Y=0 Z=0
+00:01:02 Temperature:  board 74F (228 raw), ext 73F (226 raw),  Relative humidity 142% (1023 raw)
+00:01:02 Accelerometer X=511 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:03 Temperature:  board 74F (228 raw), ext 80F (238 raw),  Relative humidity 142% (1023 raw)
+00:01:03 Accelerometer X=511 Y=503 Z=328    X=0 Y=0 Z=0
+00:01:04 Temperature:  board 74F (228 raw), ext 75F (231 raw),  Relative humidity 142% (1023 raw)
+00:01:04 Accelerometer X=511 Y=502 Z=330    X=0 Y=0 Z=0
+00:01:05 Temperature:  board 74F (228 raw), ext 82F (243 raw),  Relative humidity 142% (1023 raw)
+00:01:05 Accelerometer X=511 Y=501 Z=330    X=0 Y=0 Z=0
+00:01:06 Temperature:  board 74F (228 raw), ext 85F (248 raw),  Relative humidity 142% (1023 raw)
+00:01:06 Accelerometer X=510 Y=501 Z=328    X=0 Y=0 Z=0
+00:01:07 Temperature:  board 74F (228 raw), ext 90F (256 raw),  Relative humidity 142% (1023 raw)
+00:01:07 Accelerometer X=513 Y=499 Z=329    X=0 Y=0 Z=0
+00:01:08 Temperature:  board 74F (228 raw), ext 131F (326 raw),  Relative humidity 142% (1023 raw)
+00:01:08 Accelerometer X=511 Y=500 Z=328    X=0 Y=0 Z=0
+00:01:09 Temperature:  board 74F (228 raw), ext 108F (287 raw),  Relative humidity 142% (1023 raw)
+00:01:09 Accelerometer X=510 Y=502 Z=327    X=0 Y=0 Z=0
+00:01:10 Temperature:  board 74F (228 raw), ext 196F (438 raw),  Relative humidity 142% (1023 raw)
+00:01:10 Accelerometer X=511 Y=502 Z=326    X=0 Y=0 Z=0
+00:01:11 Temperature:  board 74F (228 raw), ext 176F (404 raw),  Relative humidity 142% (1023 raw)
+00:01:11 Accelerometer X=512 Y=500 Z=331    X=0 Y=0 Z=0
+00:01:12 Temperature:  board 74F (228 raw), ext 197F (441 raw),  Relative humidity 142% (1023 raw)
+00:01:12 Accelerometer X=510 Y=502 Z=330    X=0 Y=0 Z=0
+00:01:13 Temperature:  board 74F (228 raw), ext 193F (434 raw),  Relative humidity 142% (1023 raw)
+00:01:13 Accelerometer X=510 Y=501 Z=330    X=0 Y=0 Z=0
+00:01:14 Temperature:  board 74F (228 raw), ext 173F (399 raw),  Relative humidity 142% (1023 raw)
+00:01:14 Accelerometer X=512 Y=500 Z=328    X=0 Y=0 Z=0
+00:01:15 Sending GPS packet: >No GPS yet
+Sleep... Sleep... Sleep... Sleep... 
+00:01:16 Temperature:  board 74F (228 raw), ext 225F (489 raw),  Relative humidity 142% (1023 raw)
+00:01:16 Accelerometer X=510 Y=500 Z=329    X=0 Y=0 Z=0
+00:01:17 Temperature:  board 74F (228 raw), ext 233F (502 raw),  Relative humidity 142% (1023 raw)
+00:01:17 Accelerometer X=511 Y=499 Z=328    X=0 Y=0 Z=0
+00:01:18 Temperature:  board 74F (228 raw), ext 230F (498 raw),  Relative humidity 142% (1023 raw)
+00:01:18 Accelerometer X=511 Y=503 Z=328    X=0 Y=0 Z=0
+00:01:19 Temperature:  board 74F (228 raw), ext 227F (493 raw),  Relative humidity 142% (1023 raw)
+00:01:19 Accelerometer X=512 Y=500 Z=332    X=0 Y=0 Z=0
+00:01:20 Temperature:  board 74F (228 raw), ext 248F (529 raw),  Relative humidity 142% (1023 raw)
+00:01:20 Accelerometer X=511 Y=503 Z=331    X=0 Y=0 Z=0
+00:01:21 Temperature:  board 74F (228 raw), ext 243F (519 raw),  Relative humidity 142% (1023 raw)
+00:01:21 Accelerometer X=508 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:22 Temperature:  board 74F (228 raw), ext 270F (567 raw),  Relative humidity 142% (1023 raw)
+00:01:22 Accelerometer X=510 Y=502 Z=327    X=0 Y=0 Z=0
+00:01:23 Temperature:  board 74F (228 raw), ext 418F (821 raw),  Relative humidity 142% (1023 raw)
+00:01:23 Accelerometer X=510 Y=502 Z=332    X=0 Y=0 Z=0
+00:01:24 Temperature:  board 74F (228 raw), ext 338F (683 raw),  Relative humidity 142% (1023 raw)
+00:01:24 Accelerometer X=510 Y=502 Z=327    X=0 Y=0 Z=0
+00:01:25 Temperature:  board 74F (228 raw), ext 301F (619 raw),  Relative humidity 142% (1023 raw)
+00:01:25 Accelerometer X=509 Y=504 Z=330    X=0 Y=0 Z=0
+00:01:26 Temperature:  board 74F (228 raw), ext 294F (608 raw),  Relative humidity 142% (1023 raw)
+00:01:26 Accelerometer X=514 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:27 Temperature:  board 74F (228 raw), ext 278F (580 raw),  Relative humidity 142% (1023 raw)
+00:01:27 Accelerometer X=512 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:28 Temperature:  board 74F (228 raw), ext 280F (583 raw),  Relative humidity 142% (1023 raw)
+00:01:28 Accelerometer X=510 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:29 Temperature:  board 74F (228 raw), ext 258F (545 raw),  Relative humidity 142% (1023 raw)
+00:01:29 Accelerometer X=509 Y=502 Z=330    X=0 Y=0 Z=0
+00:01:30 Sending Sensors packet: >ProjectBacchus.org Uptime=00:01:30 Temp=74F,258F (228,545) RH=142% (1023) Acc=509,502,330
+Sleep... Sleep... Sleep... Sleep... 
+00:01:31 Temperature:  board 74F (228 raw), ext 305F (626 raw),  Relative humidity 142% (1023 raw)
+00:01:31 Accelerometer X=510 Y=502 Z=330    X=0 Y=0 Z=0
+00:01:32 Temperature:  board 74F (228 raw), ext 291F (602 raw),  Relative humidity 142% (1023 raw)
+00:01:32 Accelerometer X=512 Y=501 Z=329    X=0 Y=0 Z=0
+00:01:33 Temperature:  board 74F (228 raw), ext 282F (587 raw),  Relative humidity 142% (1023 raw)
+00:01:33 Accelerometer X=510 Y=500 Z=330    X=0 Y=0 Z=0
+00:01:34 Temperature:  board 74F (228 raw), ext 281F (585 raw),  Relative humidity 142% (1023 raw)
+00:01:34 Accelerometer X=512 Y=500 Z=330    X=0 Y=0 Z=0
+00:01:35 Temperature:  board 74F (228 raw), ext 269F (564 raw),  Relative humidity 142% (1023 raw)
+00:01:35 Accelerometer X=513 Y=505 Z=329    X=0 Y=0 Z=0
+00:01:36 Temperature:  board 74F (228 raw), ext 263F (555 raw),  Relative humidity 142% (1023 raw)
+00:01:36 Accelerometer X=510 Y=499 Z=327    X=0 Y=0 Z=0
+00:01:37 Temperature:  board 74F (228 raw), ext 197F (441 raw),  Relative humidity 142% (1023 raw)
+00:01:37 Accelerometer X=511 Y=501 Z=328    X=0 Y=0 Z=0
+00:01:38 Temperature:  board 74F (228 raw), ext 205F (455 raw),  Relative humidity 142% (1023 raw)
+00:01:38 Accelerometer X=509 Y=500 Z=329    X=0 Y=0 Z=0
+00:01:39 Temperature:  board 74F (228 raw), ext 225F (488 raw),  Relative humidity 142% (1023 raw)
+00:01:39 Accelerometer X=511 Y=500 Z=327    X=0 Y=0 Z=0
+00:01:40 Temperature:  board 74F (228 raw), ext 156F (369 raw),  Relative humidity 142% (1023 raw)
+00:01:40 Accelerometer X=511 Y=503 Z=330    X=0 Y=0 Z=0
+00:01:41 Temperature:  board 74F (228 raw), ext 147F (354 raw),  Relative humidity 142% (1023 raw)
+00:01:41 Accelerometer X=511 Y=499 Z=329    X=0 Y=0 Z=0
+00:01:42 Temperature:  board 74F (228 raw), ext 120F (308 raw),  Relative humidity 142% (1023 raw)
+00:01:42 Accelerometer X=510 Y=499 Z=329    X=0 Y=0 Z=0
+00:01:43 Temperature:  board 74F (228 raw), ext 132F (328 raw),  Relative humidity 142% (1023 raw)
+00:01:43 Accelerometer X=510 Y=498 Z=334    X=0 Y=0 Z=0
+00:01:44 Temperature:  board 74F (228 raw), ext 114F (297 raw),  Relative humidity 142% (1023 raw)
+00:01:44 Accelerometer X=511 Y=500 Z=330    X=0 Y=0 Z=0
+00:01:45 Sending GPS packet: >No GPS yet
+Sleep... Sleep... Sleep... Sleep... 
+00:01:46 Temperature:  board 74F (228 raw), ext 37F (164 raw),  Relative humidity 142% (1023 raw)
+00:01:46 Accelerometer X=511 Y=501 Z=328    X=0 Y=0 Z=0
+00:01:47 Temperature:  board 74F (228 raw), ext -58F (0 raw),  Relative humidity 142% (1023 raw)
+00:01:47 Accelerometer X=493 Y=538 Z=327    X=0 Y=0 Z=0
+00:01:48 Temperature:  board 73F (227 raw), ext -55F (5 raw),  Relative humidity 142% (1023 raw)
+00:01:48 Accelerometer X=482 Y=648 Z=388    X=0 Y=0 Z=0
+00:01:49 Temperature:  board 73F (227 raw), ext -55F (5 raw),  Relative humidity 142% (1023 raw)
+00:01:49 Accelerometer X=508 Y=661 Z=422    X=0 Y=0 Z=0
+00:01:50 Temperature:  board 73F (226 raw), ext -56F (2 raw),  Relative humidity 142% (1023 raw)
+00:01:50 Accelerometer X=488 Y=668 Z=447    X=0 Y=0 Z=0
+00:01:51 Temperature:  board 73F (227 raw), ext -58F (0 raw),  Relative humidity 142% (1023 raw)
+00:01:51 Accelerometer X=473 Y=679 Z=442    X=0 Y=0 Z=0
+00:01:52 Temperature:  board 73F (226 raw), ext -58F 
