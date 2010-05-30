@@ -1,0 +1,17 @@
+MODE = 0
+ASCII = N
+Baud = 4
+Frequency = 100
+Trigger Character = $
+Text Frame = 100
+AD1.5 = N
+AD1.4 = N
+AD1.3 = N
+AD0.3 = N
+AD0.2 = N
+AD0.1 = N
+AD1.2 = N
+AD0.4 = N
+AD1.7 = N
+AD1.6 = N
+Safty On = Y
