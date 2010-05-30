@@ -234,7 +234,8 @@ struct {
 };
 
 int hygrometer_raw = 0;
-int relative_humidity = 0;
+float hygrometer_v = 0;
+float relative_humidity = 0;
 
 static inline void read_temp(void)
 {
@@ -247,14 +248,50 @@ static inline void read_temp(void)
     }
 
     // supposed linear regression from excel: http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1266875822
+    //hygrometer_raw = analogRead(PIN_HYGROMETER);
+    //relative_humidity = ((30.855*(hygrometer_raw/204.6))-11.504);
+
+    /* 
+     * The datasheet at http://www.seeedstudio.com/depot/datasheet/HSM-20G.pdf
+     * (linked from the above Arduino thread) tells us what voltage we should
+     * see for some relative humidity percentages.  That table is as follows:
+     * 
+     *    Volage  Relative Humidity
+     *    -----   -----------------
+     *    0.74    10%
+     *    0.95    20%
+     *    1.31    30%
+     *    1.68    40%
+     *    2.02    50%
+     *    2.37    60
+     *    2.69    70%
+     *    2.99    80%
+     *    3.19    90%
+     * 
+     * Rather than using a linear regression on all those points to derive a
+     * formula, we can be more precise, by first figuring out what voltage
+     * range we're in.
+     */
+
     hygrometer_raw = analogRead(PIN_HYGROMETER);
-    relative_humidity = ((30.855*(hygrometer_raw/204.6))-11.504);
+    hygrometer_v   = hygrometer_raw/1024.0 * 3.3;
+
+    if (hygrometer_v < 0.74)                               relative_humidity = 0; // out of of sensor range
+    else if (0.74 <= hygrometer_v && hygrometer_v <= 0.95) relative_humidity = 10.0 + (hygrometer_v-0.74) / (0.95-0.74) * 10.0;
+    else if (0.95 <= hygrometer_v && hygrometer_v <= 1.31) relative_humidity = 20.0 + (hygrometer_v-0.95) / (1.31-0.95) * 10.0;
+    else if (1.31 <= hygrometer_v && hygrometer_v <= 1.68) relative_humidity = 30.0 + (hygrometer_v-1.31) / (1.68-1.31) * 10.0;
+    else if (1.68 <= hygrometer_v && hygrometer_v <= 2.02) relative_humidity = 40.0 + (hygrometer_v-1.68) / (2.02-1.68) * 10.0;
+    else if (2.02 <= hygrometer_v && hygrometer_v <= 2.37) relative_humidity = 50.0 + (hygrometer_v-2.02) / (2.37-2.02) * 10.0;
+    else if (2.37 <= hygrometer_v && hygrometer_v <= 2.69) relative_humidity = 60.0 + (hygrometer_v-2.37) / (2.69-2.37) * 10.0;
+    else if (2.69 <= hygrometer_v && hygrometer_v <= 2.99) relative_humidity = 70.0 + (hygrometer_v-2.69) / (2.99-2.69) * 10.0;
+    else if (2.99 <= hygrometer_v && hygrometer_v <= 3.19) relative_humidity = 80.0 + (hygrometer_v-2.99) / (3.19-2.99) * 10.0;
+    else                                                   relative_humidity = 100; // out of sensor range
 
     snprintf(buf, sizeof(buf), "%s Temperature:  %s %dF (%d raw), %s %dF (%d raw),  Relative humidity %d%% (%d raw)\r\n",
         upstring,
         temp[0].name, (int)temp[0].fahrenheit, temp[0].raw,
         temp[1].name, (int)temp[1].fahrenheit, temp[1].raw,
-        relative_humidity, hygrometer_raw);
+        (int)relative_humidity, hygrometer_raw);
     Serial.print(buf);
     Logger.print(buf);
 }
