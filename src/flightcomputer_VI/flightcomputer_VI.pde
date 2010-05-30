@@ -165,6 +165,7 @@ static inline void read_gps(void)
     do {
         int c = Serial.read();
 
+        #if 0
         // Special case.  If we see a Control-T, assume it's a command from a
         // human over a serial port asking us to transmit a test packet right
         // now, instead of data coming from the GPS.
@@ -177,6 +178,7 @@ static inline void read_gps(void)
             send_aprs(buf, buf_len);
             continue;
         }
+        #endif
 
         if (nmea_buf_len < sizeof(nmea_buf)) {
             if ((c == '\n' || c == '\r') || (32 <= c && c <= 126))
