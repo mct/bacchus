@@ -373,7 +373,7 @@ static inline void transmit(void)
                     (int)temp[1].fahrenheit,
                     temp[0].raw,
                     temp[1].raw,
-                    relative_humidity,
+                    (int)relative_humidity,
                     hygrometer_raw,
                     accelerometer[0].raw,
                     accelerometer[1].raw,
