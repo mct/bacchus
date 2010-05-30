@@ -278,7 +278,7 @@ static inline void read_temp(void)
     hygrometer_raw = analogRead(PIN_HYGROMETER);
     hygrometer_v   = hygrometer_raw/1024.0 * 3.3;
 
-    if (hygrometer_v < 0.74)                               relative_humidity = 0; // out of of sensor range
+    if (hygrometer_v < 0.74)                               relative_humidity = 0; // out of sensor range
     else if (0.74 <= hygrometer_v && hygrometer_v <= 0.95) relative_humidity = 10.0 + (hygrometer_v-0.74) / (0.95-0.74) * 10.0;
     else if (0.95 <= hygrometer_v && hygrometer_v <= 1.31) relative_humidity = 20.0 + (hygrometer_v-0.95) / (1.31-0.95) * 10.0;
     else if (1.31 <= hygrometer_v && hygrometer_v <= 1.68) relative_humidity = 30.0 + (hygrometer_v-1.31) / (1.68-1.31) * 10.0;
