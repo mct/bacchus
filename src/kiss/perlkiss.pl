@@ -8,8 +8,8 @@ use Getopt::Long;
 use strict;
 use warnings;
 
-my ($tty, $baud, $debug);
-GetOptions("baud=i" => \$baud, "tty=s" => \$tty, "debug" => \$debug)
+my ($tty, $baud, $debug, $nopause);
+GetOptions("baud=i" => \$baud, "tty=s" => \$tty, "debug" => \$debug, "nopause" => \$nopause)
 	and $tty
 		or die "Usage: $0 --tty <serial_device> [--baud <baud_rate>] [--debug]\n";
 
@@ -76,7 +76,7 @@ while (1) {
 	# The APRS payload we want to send.  Just a silly "status" string (indicated
 	# by the ">" character) for now.  Later, this will be replaced with NMEA data.
 	# Must be less than 256 bytes.
-	my $aprs = ">Project Bacchus Test Packet\n";
+	my $aprs = ">Project Bacchus Test Packet\r\n";
 
 	# Build up the packet buffer
 	my $buf = "";
@@ -96,8 +96,15 @@ while (1) {
 
 	my $len = length $buf;
 	my $sent_len = $port->write($buf);
-	die "Tried to send $len, but really sent $len?\n"
+	die "Tried to send $len, but really sent $sent_len?\n"
 		unless $len == $sent_len;
 
-	scalar <>;
+	until ($port->write_drain) {
+		select(undef, undef, undef, 0.1);
+	}
+
+	select(undef, undef, undef, .1);
+
+	scalar <>
+		unless $nopause;
 }
