@@ -1,0 +1,68 @@
+body {
+	xbackground-color: black;
+	width:100%;
+	height:100%;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	font:sans-serif;
+	font-size:small;
+}
+#content {
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	position: relative; 
+}
+#map {
+/*		width: 1600;
+	height: 800px;
+	border: 1px solid black;
+	padding: 0px;
+	margin:0px auto;
+	margin-top:30px;
+	position:relative; */
+	position: absolute;
+	border: 1px solid black;
+	margin: 0px; 
+	padding: 0px;
+	left: 5px;
+	right: 5px;
+	top: 60px;
+	bottom: 5px;
+}
+
+.olControlAttribution {
+	display: none !important;
+}
+
+#map #permalink {
+	z-index:10000;
+	position:absolute;
+	bottom:15px;
+	right:15px;
+	font-size:smaller;
+	text-align: right;
+}
+#bottombox {
+	z-index:10000; /* fucking content still manages to steal my events! */
+	position: absolute;
+	min-height: 55px;
+	width: 100%;
+	top: 0px;
+	/*top: -8px; */
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+#tabnav li {
+	margin-left: 100px; 
+	padding: 0px;
+	display: inline;
+	list-style-type: none;
+}
+

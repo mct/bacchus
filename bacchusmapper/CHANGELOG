@@ -1,0 +1,6 @@
+
+bacchusmapper 0.2
+-----------------
+  * web/index.html: close popups before refresh so they don't get lost, minor cleanup
+  * bacchusmapper-aprs: handle NMEA $GPGGA
+

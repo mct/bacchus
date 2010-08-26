@@ -1,0 +1,295 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link href="bacchusmapper.css" rel="stylesheet" type="text/css" /> 
+	<script src="OpenLayers.js"></script>
+
+	<!-- !!!!!!!!!!!!!!! ADD KML LAYERS HERE !!!!!!!!!!!!!!! -->
+	<!-- make sure the color you want is defined down in var colors[]. -->
+	<script type="text/javascript">
+                var kmlLayers = {
+			"Local GPS": { url: 'gps.kml', color: "yellow" },
+			"Bacchus VII (KJ6DYS-11)": { url: 'aprs.kml', color: "red" },
+                };
+	</script>
+
+</head>
+<body> <!-- onload="init();">-->
+	<div id="bottombox">
+		<ul id="tabnav">
+			<li>
+				<a href="#" id="permalink" style="xfloat:right">permalink</a>
+			</li>
+			<li>
+				<span id="scale" style="xfloat:left"></span>
+			</li>
+			<li>
+				<input type="button" onclick="refreshData();" id="refresh" value="refresh"/>
+			</li>
+			<li>
+				<input type="checkbox" name="type" value="autorefreshToggle" id="autorefreshToggle" checked="true" onclick="toggleAutorefresh(this);" />
+				<label for="autorefreshToggle">auto-refresh</label>
+			</li>
+			<li>
+				<input type="checkbox" name="type" value="measureLine" id="lineToggle" onclick="toggleMeasureControl(this);" />
+				<label for="lineToggle">measure distance</label>
+			</li>
+			<li>
+				<span id="measurement"></span>
+			</li>
+		</ul>
+	</div>
+	<div id="content">
+		<div id="map"></div>
+	</div>
+	<script type="text/javascript">
+
+	function getStyle(el, property) {
+		var style;
+
+		if (el.currentStyle) {
+			style = el.currentStyle[property];
+		} else if( window.getComputedStyle ) {
+			style = document.defaultView.getComputedStyle(el,null).getPropertyValue(property);
+		} else {
+			style = el.style[property];
+		}
+
+		return style;
+	}
+	var map;
+	var rssTest;
+	var aprsTest;
+	var selectControl;
+	var measureLineControl;
+	var selectedFeature;
+
+	function onPopupClose(evt) {
+		selectControl.unselect(selectedFeature);
+		selectedFeature = null;
+	}
+	function onFeatureSelect(feature) {
+		selectedFeature = feature;
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+					feature.geometry.getBounds().getCenterLonLat(),
+					null,
+					"<div style='font-size:1em'><b>" + feature.attributes.name + "</b><br/>" + feature.attributes.description + "<br /></div>",
+					null, true, onPopupClose);
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselect(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+
+	function init() {
+		var options = {
+			projection: new OpenLayers.Projection("EPSG:900913"),
+			displayProjection: new OpenLayers.Projection("EPSG:4326"),
+			units: "m",
+			maxResolution: 156543.0339,
+			controls: [
+				new OpenLayers.Control.Scale('scale'),
+				new OpenLayers.Control.LayerSwitcher(),
+				new OpenLayers.Control.PanZoomBar(),
+				new OpenLayers.Control.Attribution(),
+				new OpenLayers.Control.Navigation(),
+				new OpenLayers.Control.Permalink('permalink'),
+				new OpenLayers.Control.MousePosition()
+			],
+			maxExtent: new OpenLayers.Bounds(-20037508.34, -20037508.34, 20037508.34, 20037508.34)
+		};
+
+		map = new OpenLayers.Map('map', options);
+
+		var mapnik = new OpenLayers.Layer.OSM("OpenStreetMap (base)", "tiles/${z}/${x}/${y}.png", {numZoomLevels: 19, isBaseLayer: true});
+		var hills = new OpenLayers.Layer.OSM("Hillshading", "hillshadedtiles/${z}/${x}/${y}.png.alpha.png", {numZoomLevels: 19, isBaseLayer:false, transparent: true, visibility: false});
+		map.addLayers([mapnik, hills]);
+
+		var colors = {
+			"red": {
+				"Point": {	pointRadius: 5,
+						graphicName: "circle",
+						fillColor: "red",
+						fillOpacity: 0.7,
+						strokeWidth: 1,
+						strokeOpacity: 1,
+						strokeColor: "#000000" },
+				"Line": {	strokeWidth: 3,
+						strokeOpacity: 0.5,
+						strokeColor: "#900000", },  },
+			"yellow": {
+				"Point": {	pointRadius: 5,
+						graphicName: "circle",
+						fillColor: "yellow",
+						fillOpacity: 0.7,
+						strokeWidth: 1,
+						strokeOpacity: 1,
+						strokeColor: "#000000" },
+				"Line": {	strokeWidth: 3,
+						strokeOpacity: 0.5,
+						strokeColor: "#909000", },  },
+			"blue": {
+				"Point": {	pointRadius: 5,
+						graphicName: "circle",
+						fillColor: "blue",
+						fillOpacity: 0.7,
+						strokeWidth: 1,
+						strokeOpacity: 1,
+						strokeColor: "#000000" },
+				"Line": {	strokeWidth: 3,
+						strokeOpacity: 0.5,
+						strokeColor: "#000090", },  },
+		};
+		for (var color in colors) {
+			var style = new OpenLayers.Style();
+			style.addRules([ new OpenLayers.Rule({symbolizer: colors[color]}) ]);
+			colors[color].styleMap = new OpenLayers.StyleMap({"default": style});
+		}
+
+		var vectorLayers = [];
+                for (var key in kmlLayers) {
+                        kmlLayers[key].layer = new OpenLayers.Layer.Vector(
+                                                key,
+                                                {
+                                                        projection: new OpenLayers.Projection('EPSG:4326'),
+                                                        strategies: [new OpenLayers.Strategy.Fixed()],
+                                                        protocol: new OpenLayers.Protocol.HTTP({
+                                                                url: kmlLayers[key].url,
+                                                                format: new OpenLayers.Format.KML({})
+                                                        }),
+							styleMap: colors[kmlLayers[key].color].styleMap,
+                                                });
+                        map.addLayers([kmlLayers[key].layer]);
+			vectorLayers.push(kmlLayers[key].layer);
+                }
+
+		selectControl = new OpenLayers.Control.SelectFeature(vectorLayers, { hover:false, clickout: true, onSelect: onFeatureSelect, onUnselect: onFeatureUnselect });
+		map.addControl(selectControl);
+		selectControl.activate();
+
+		// these styles are just for the measure control
+		var sketchSymbolizers = {
+			"Point": {
+				pointRadius: 4,
+				graphicName: "square",
+				fillColor: "white",
+				fillOpacity: 1,
+				strokeWidth: 1,
+				strokeOpacity: 1,
+				strokeColor: "#333333"
+			},
+			"Line": {
+				strokeWidth: 3,
+				strokeOpacity: 1,
+				strokeColor: "#666666",
+				strokeDashstyle: "dash"
+			},
+			"Polygon": {
+				strokeWidth: 2,
+				strokeOpacity: 1,
+				strokeColor: "#666666",
+				fillColor: "white",
+				fillOpacity: 0.3
+			}
+		};
+		var style = new OpenLayers.Style();
+		style.addRules([ new OpenLayers.Rule({symbolizer: sketchSymbolizers}) ]);
+		var styleMap = new OpenLayers.StyleMap({"default": style});
+		measureLineControl = new OpenLayers.Control.Measure(
+					OpenLayers.Handler.Path,
+					{ persist: true,
+					  geodesic: true,
+					  handlerOptions:
+					  { layerOptions: { styleMap: styleMap } }
+					}
+			);
+		measureLineControl.events.on({
+					"measure": handleMeasurements,
+					"measurepartial": handleMeasurements
+			});
+		map.addControl(measureLineControl);
+
+		if (!map.getCenter()) {
+			var proj = new OpenLayers.Projection("EPSG:4326");
+			var point = new OpenLayers.LonLat(-122.42689, 37.77130); // somewhere in SF
+			map.setCenter(point.transform(proj, map.getProjectionObject()), 10);
+		}
+	}
+	function resizeContent() {
+		var content = $("content");
+
+		content.style.width = document.documentElement.clientWidth - content.offsetLeft;
+		content.style.height = document.documentElement.clientHeight - content.offsetTop;
+	}
+	function resizeMap() {
+		resizeContent();
+		var centre = map.getCenter();
+		var zoom = map.getZoom();
+		var bottomboxheight = $("bottombox").offsetHeight;
+
+		if (bottomboxheight > 0) {
+			bottomboxheight = bottomboxheight + 5;
+		}
+
+		$("map").style.width = ($("content").offsetWidth - 10) + "px";
+		$("map").style.height = ($("content").offsetHeight - bottomboxheight - 15) + "px";
+
+		map.setCenter(centre, zoom);
+	}
+
+	function handleMeasurements(event) {
+		var geometry = event.geometry;
+		var units = event.units;
+		var order = event.order;
+		var measure = event.measure;
+		var element = document.getElementById('measurement');
+		var out = "";
+		if (order == 1) {
+			out += "measure: " + measure.toFixed(3) + " " + units;
+		} else {
+			out += "measure: " + measure.toFixed(3) + " " + units + "<sup>2</" + "sup>";
+		}
+		element.innerHTML = out;
+	}
+	function toggleMeasureControl(element) {
+		if (element.checked) {
+			measureLineControl.activate();
+		} else {
+			measureLineControl.deactivate();
+			var box = document.getElementById('measurement');
+			box.innerHTML = "";
+		}
+	}
+
+	// it's hardcoded in the html to be on at startup
+	var autorefreshId = setInterval("refreshData()", 10000);
+	function toggleAutorefresh(element) {
+		if (element.checked) {
+			autorefreshId = setInterval("refreshData()", 10000);
+		} else {
+			clearInterval(autorefreshId);
+		}
+	}
+
+	function refreshData() {
+		if (selectedFeature) {
+			// unfortunately all the guts get shuffled around on refresh, so we'll
+			// lose track of this if we don't close it before the refresh. particularly
+			// annoying on autorefresh.
+			onFeatureUnselect(selectedFeature);
+		}
+                for (var key in kmlLayers) {
+			var layer = kmlLayers[key].layer;
+			layer.refresh();
+		}
+		return true;
+	}
+	init();
+	window.onload = resizeMap();
+	window.onresize = resizeMap();
+
+    </script>
+</body>
+</html>

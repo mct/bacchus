@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document id="gps">
+	<name><!-- STATIONNAME --></name>
+	<!-- styles in the KML don't matter since we have OpenLayers ignore them right now -->
+	<Style id="t266254">
+		<LabelStyle>
+			<color>ffa8ff00</color>
+			<scale>0.75</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<colorMode>normal</colorMode>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+
+	<!-- here's where the magic happens... -->
+	<!-- ADDPLACEMARK -->
+	<Placemark>
+		<name><!-- STATIONNAME --></name>
+		<description><![CDATA[<!-- STATIONDESCRIPTION -->]]></description>
+		<styleUrl>#t266254</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<extrude>1</extrude>
+			<altitudeMode>absolute</altitudeMode>
+			<coordinates>
+				<!-- ADDTOLINE -->
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
+
