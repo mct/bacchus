@@ -1,6 +1,6 @@
 So you'll need a webserver.  I tried my best to avoid any dependencies but
 stupid javascript security rules prevent this from working with just file:///
-URLs.  It doesn't need to do anything special though—no CGI is involved, and
+URLs.  It doesn't need to do anything special though--no CGI is involved, and
 all paths are relative.  Pick a directory under the web root path that you have
 access to.  Let's call it $ROOTDIR.  Pick another directory that's preferably
 not web accessible for running the perl scripts out of.  Let's call it
