@@ -1,4 +1,5 @@
 #!/usr/bin/perl 
+# vim:set ts=4 sw=4 ai:
 
 # seconds
 my $FREQ = 30;
@@ -7,7 +8,6 @@ use strict;
 use warnings;
 
 exit main();
-
 
 # this only works with specially tagged KMLs... 'cause I don't wanna parse XML.
 # write out both a point and append to the polyline
@@ -51,19 +51,6 @@ sub createBlankKML {
 	return;
 }
 
-sub connectToGPS {
-	use IO::Handle;
-	use Socket;
-
-	my $sock;
-
-	socket($sock, PF_INET, SOCK_STREAM, (getprotobyname('tcp'))[2]) || die "socket() failed";
-	connect($sock, sockaddr_in(2947, inet_aton("127.0.0.1"))) || die "unable to connect to gpsd";
-	$sock->autoflush(1);
-
-	return $sock;
-}
-
 sub parsedict {
 	my $ind = shift;
 	my %dict;
@@ -87,28 +74,46 @@ sub main {
 
 	createBlankKML($OUTFN) if not -e $OUTFN;
 
-	my $gpsd = connectToGPS();
-
-	my $initdone = 0;
+	open my $gpsd, "gpspipe -r |" or die "fork: $!";
 	my $lastts = 0;
-	while (my $line = <$gpsd>) {
-		$line =~ tr/\r//d; $line =~ tr/\n//d;
-		print STDERR "in: '$line'\n";
-		my $d = parsedict($line);
-		die "no class in packet from gpsd" unless defined $d->{'class'};
-		if (!$initdone && $d->{'class'} eq "VERSION") {
-			print $gpsd "?WATCH={\"enable\":true,\"json\":true}\r\n";
-			$initdone = 1;
-		} elsif (($d->{'class'} eq 'TPV') && ($d->{'tag'} eq 'GLL')) {
-			# {"class":"TPV","tag":"GLL","device":"/dev/tty.usbserial","time":1280012402.000,"ept":0.005,"lat":37.762366667,"lon":-122.419180000,"alt":25.000,"epx":27.271,"epy":24.113,"epv":23.000,"track":0.0000,"speed":0.000,"climb":0.000,"mode":3}
-			print "" . $d->{'time'} . ": (" . $d->{'lat'} . ", " . $d->{'lon'} . ", " . $d->{'alt'} . ") @ " . $d->{'speed'} . "\n";
-			next unless defined $d->{'time'} && defined $d->{'lat'} && defined $d->{'lon'} && defined $d->{'alt'} && defined $d->{'speed'};
-			next unless (time - $lastts >= $FREQ);
-			addCoordToKML($OUTFN, $d->{'time'}, $d->{'lat'}, $d->{'lon'}, $d->{'alt'}, $d->{'speed'});
-			$lastts = time + 0;
-		}
 
+	while (my $line = <$gpsd>) {
+		$line =~ s/\r?\n$//;
+		warn "in: '$line'\n";
+
+		# $GPGGA,172134.84,3747.0852,N,12223.3278,W,1,03,22.4,00008,M,,,,*04
+		# $GPGGA,210948.48,3748.9736,N,12107.6101,W,1,08,1.1,00014,M,,,,*34
+
+		if ($line =~ /^\$GPGGA,(\d{2})(\d{2})(\d{2}).\d{2},([\d\.]+),N,([\d\.]+),W,(\d+),(\d+),([\d.]+),([\d\.]+),M,/) {
+			my ($hour, $min, $sec, $long, $lat, $fixtype, $num_sats, $horizontal_dilution, $alt) =
+				($1, $2, $3, $4, $5, $6, $7, $8, $9, $10);
+
+			my $fraction;
+			$lat *= -1 / 100;
+			$long /= 100;
+
+			$fraction = $lat - int $lat;
+			$lat = int($lat) + $fraction/60 * 100;
+
+			$fraction = $long - int $long;
+			$long = int($long) + $fraction/60 * 100;
+
+			$alt = 0 if ($alt <= 0);
+			my $feet = $alt * 3.2808399;
+			my $speed = 0;
+
+			unless (time - $lastts >= $FREQ) {
+				warn "Position: $lat $long $feet $speed (too soon)\n";
+				next;
+			} else {
+				warn "Position: $lat $long $feet $speed\n";
+			}
+
+			addCoordToKML($OUTFN, scalar(localtime), $long, $lat, $feet, $speed);
+			$lastts = time;
+		}
 	}
+	warn "EOF\n";
 	close $gpsd;
 	return 0;
 }
