@@ -1,0 +1,14 @@
+To configure the PX-777 for flight:
+
+    - In the menu system, set the squelch to "1"
+
+    - In the menu system, set "Light" to "Off" (so that the LCD backlight
+      is never on, not even when a key is pressed).
+
+    - Tune the radio to 144.390.
+
+    - Lock the keypad by holding down the "Lock" key.
+
+    - Power the radio off, and back on again.  Confirm the keypad is still
+      locked, the frequency is 144.390, and the backlight is off.  Turn the
+      volume all the way down, and you're set to go.
