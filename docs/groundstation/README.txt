@@ -17,8 +17,21 @@ In another window, to record the APRS packets we're receiving:
 To startup gpsd, which communicates with an NMEA GPS over the serial port, and
 makes that information available over the network:
 
-	gpsd -b  -G -n -N /dev/ttyUSB0 -D 2
+	gpsd -b  -G -n -N /dev/ttyACM0 -D 2
 
 In another window, to record where we've been:
 
-	gpspipe -r | gpspipe.$(date +%Y-%m-%d-%H%M%S)
+	gpspipe -rt | tee gpspipe.$(date +%Y-%m-%d-%H%M%S)
+
+
+To see what's happening with the GPS, you can run one of:
+
+	cgps
+	cgps -jms
+	xgps
+
+
+Finally, run mid's bacchusmapper program from the bacchusmapper/tools/ directory:
+
+	./bacchusmapper-aprs.pl ../web/KJ6DYS-11.kml KJ6DYS-11
+	./bacchusmapper-gpsd.pl ../web/gps.kml
