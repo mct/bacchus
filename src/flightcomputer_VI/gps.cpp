@@ -1,6 +1,12 @@
 // vim:set ts=4 sw=4 ai et nocindent:
 
 /*
+ * (c) Copyright 2010 Michael C. Toren <mct@toren.net>
+ * Released under the terms of the 2-clause BSD License.  Please contact
+ * the author if you have a need for other licensing arrangements.
+ */
+
+/*
  * Determine if the given string indicates a GPS lock.
  * Returns 1 if true, 0 if false
  */

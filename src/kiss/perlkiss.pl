@@ -2,6 +2,10 @@
 # vim:set ts=4 sw=4 ai:
 # mct, Sun Nov  1 21:48:53 EST 2009
 
+# (c) Copyright 2009 Michael C. Toren <mct@toren.net>
+# Released under the terms of the 2-clause BSD License.  Please contact
+# the author if you have a need for other licensing arrangements.
+
 use Device::SerialPort;
 use Getopt::Long;
 

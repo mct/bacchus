@@ -1,5 +1,11 @@
 // vim:set ts=2 sw=2 ai et syntax=c:
 
+/*
+ * (c) Copyright 2009-2010 Michael C. Toren <mct@toren.net>
+ * Released under the terms of the 2-clause BSD License.  Please contact
+ * the author if you have a need for other licensing arrangements.
+ */
+
 #include <SoftwareSerial.h>
 
 // Digital IO pins
