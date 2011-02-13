@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>Bacchus 8-20110201195600-20110228195600</name>
+    <Folder>
+      <name>Bacchus 8</name>
+      <Folder>
+        <name>2011-02-11</name>
+        <Placemark>
+          <name>23:01:20</name>
+          <description><![CDATA[Time: 2011-02-11 23:01:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:02:25</name>
+          <description><![CDATA[Time: 2011-02-11 23:02:25<br>Speed: 0 mph<br>Heading: N<br>Altitude: 387 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:03:32</name>
+          <description><![CDATA[Time: 2011-02-11 23:03:32<br>Speed: 0 mph<br>Heading: W<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:04:37</name>
+          <description><![CDATA[Time: 2011-02-11 23:04:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:05:43</name>
+          <description><![CDATA[Time: 2011-02-11 23:05:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:06:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:06:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:07:54</name>
+          <description><![CDATA[Time: 2011-02-11 23:07:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:09:00</name>
+          <description><![CDATA[Time: 2011-02-11 23:09:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:10:05</name>
+          <description><![CDATA[Time: 2011-02-11 23:10:05<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:11:11</name>
+          <description><![CDATA[Time: 2011-02-11 23:11:11<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:12:17</name>
+          <description><![CDATA[Time: 2011-02-11 23:12:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:13:22</name>
+          <description><![CDATA[Time: 2011-02-11 23:13:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:14:27</name>
+          <description><![CDATA[Time: 2011-02-11 23:14:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:15:33</name>
+          <description><![CDATA[Time: 2011-02-11 23:15:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 360 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:16:39</name>
+          <description><![CDATA[Time: 2011-02-11 23:16:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:17:44</name>
+          <description><![CDATA[Time: 2011-02-11 23:17:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:18:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:18:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:19:54</name>
+          <description><![CDATA[Time: 2011-02-11 23:19:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:20:59</name>
+          <description><![CDATA[Time: 2011-02-11 23:20:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:22:04</name>
+          <description><![CDATA[Time: 2011-02-11 23:22:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87766</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:23:09</name>
+          <description><![CDATA[Time: 2011-02-11 23:23:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:24:15</name>
+          <description><![CDATA[Time: 2011-02-11 23:24:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:25:21</name>
+          <description><![CDATA[Time: 2011-02-11 23:25:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:26:26</name>
+          <description><![CDATA[Time: 2011-02-11 23:26:26<br>Speed: 1 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:27:31</name>
+          <description><![CDATA[Time: 2011-02-11 23:27:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:28:37</name>
+          <description><![CDATA[Time: 2011-02-11 23:28:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87757</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:29:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:29:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:30:58</name>
+          <description><![CDATA[Time: 2011-02-11 23:30:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:32:08</name>
+          <description><![CDATA[Time: 2011-02-11 23:32:08<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:33:18</name>
+          <description><![CDATA[Time: 2011-02-11 23:33:18<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:34:28</name>
+          <description><![CDATA[Time: 2011-02-11 23:34:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 285 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25916,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:35:38</name>
+          <description><![CDATA[Time: 2011-02-11 23:35:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 242 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25913,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:36:48</name>
+          <description><![CDATA[Time: 2011-02-11 23:36:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:37:58</name>
+          <description><![CDATA[Time: 2011-02-11 23:37:58<br>Speed: 5 mph<br>Heading: NW<br>Altitude: 393 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25938,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:39:08</name>
+          <description><![CDATA[Time: 2011-02-11 23:39:08<br>Speed: 3 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87785</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:40:19</name>
+          <description><![CDATA[Time: 2011-02-11 23:40:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:41:29</name>
+          <description><![CDATA[Time: 2011-02-11 23:41:29<br>Speed: 4 mph<br>Heading: NW<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:42:39</name>
+          <description><![CDATA[Time: 2011-02-11 23:42:39<br>Speed: 7 mph<br>Heading: E<br>Altitude: 268 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25906,37.87785</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:43:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:43:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 213 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25913,37.87783</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:45:59</name>
+          <description><![CDATA[Time: 2011-02-11 23:45:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87734</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:47:09</name>
+          <description><![CDATA[Time: 2011-02-11 23:47:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:48:39</name>
+          <description><![CDATA[Time: 2011-02-11 23:48:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25906,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:49:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:49:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 285 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:50:59</name>
+          <description><![CDATA[Time: 2011-02-11 23:50:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:52:09</name>
+          <description><![CDATA[Time: 2011-02-11 23:52:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 255 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87789</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:53:19</name>
+          <description><![CDATA[Time: 2011-02-11 23:53:19<br>Speed: 1 mph<br>Heading: S<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:54:29</name>
+          <description><![CDATA[Time: 2011-02-11 23:54:29<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:55:39</name>
+          <description><![CDATA[Time: 2011-02-11 23:55:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:56:49</name>
+          <description><![CDATA[Time: 2011-02-11 23:56:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 370 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:57:59</name>
+          <description><![CDATA[Time: 2011-02-11 23:57:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 373 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>23:59:09</name>
+          <description><![CDATA[Time: 2011-02-11 23:59:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87767</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2011-02-12</name>
+        <Placemark>
+          <name>00:00:19</name>
+          <description><![CDATA[Time: 2011-02-12 00:00:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 278 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:01:29</name>
+          <description><![CDATA[Time: 2011-02-12 00:01:29<br>Speed: 0 mph<br>Heading: S<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:02:34</name>
+          <description><![CDATA[Time: 2011-02-12 00:02:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 272 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87758</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:03:40</name>
+          <description><![CDATA[Time: 2011-02-12 00:03:40<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:04:45</name>
+          <description><![CDATA[Time: 2011-02-12 00:04:45<br>Speed: 4 mph<br>Heading: SW<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87758</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:05:50</name>
+          <description><![CDATA[Time: 2011-02-12 00:05:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:06:55</name>
+          <description><![CDATA[Time: 2011-02-12 00:06:55<br>Speed: 4 mph<br>Heading: SW<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:08:00</name>
+          <description><![CDATA[Time: 2011-02-12 00:08:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:09:06</name>
+          <description><![CDATA[Time: 2011-02-12 00:09:06<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:10:12</name>
+          <description><![CDATA[Time: 2011-02-12 00:10:12<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:11:16</name>
+          <description><![CDATA[Time: 2011-02-12 00:11:16<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:12:22</name>
+          <description><![CDATA[Time: 2011-02-12 00:12:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:13:27</name>
+          <description><![CDATA[Time: 2011-02-12 00:13:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:14:33</name>
+          <description><![CDATA[Time: 2011-02-12 00:14:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:15:38</name>
+          <description><![CDATA[Time: 2011-02-12 00:15:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:16:43</name>
+          <description><![CDATA[Time: 2011-02-12 00:16:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:17:48</name>
+          <description><![CDATA[Time: 2011-02-12 00:17:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:18:54</name>
+          <description><![CDATA[Time: 2011-02-12 00:18:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:19:59</name>
+          <description><![CDATA[Time: 2011-02-12 00:19:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:21:04</name>
+          <description><![CDATA[Time: 2011-02-12 00:21:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:22:09</name>
+          <description><![CDATA[Time: 2011-02-12 00:22:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 370 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:23:15</name>
+          <description><![CDATA[Time: 2011-02-12 00:23:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 387 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:24:20</name>
+          <description><![CDATA[Time: 2011-02-12 00:24:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:25:25</name>
+          <description><![CDATA[Time: 2011-02-12 00:25:25<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:26:31</name>
+          <description><![CDATA[Time: 2011-02-12 00:26:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:27:36</name>
+          <description><![CDATA[Time: 2011-02-12 00:27:36<br>Speed: 0 mph<br>Heading: N<br>Altitude: 377 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:28:41</name>
+          <description><![CDATA[Time: 2011-02-12 00:28:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:29:47</name>
+          <description><![CDATA[Time: 2011-02-12 00:29:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 377 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:30:52</name>
+          <description><![CDATA[Time: 2011-02-12 00:30:52<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:31:58</name>
+          <description><![CDATA[Time: 2011-02-12 00:31:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 226 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87754</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:33:03</name>
+          <description><![CDATA[Time: 2011-02-12 00:33:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 442 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:34:08</name>
+          <description><![CDATA[Time: 2011-02-12 00:34:08<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:35:35</name>
+          <description><![CDATA[Time: 2011-02-12 00:35:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:36:39</name>
+          <description><![CDATA[Time: 2011-02-12 00:36:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 350 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:37:45</name>
+          <description><![CDATA[Time: 2011-02-12 00:37:45<br>Speed: 0 mph<br>Heading: N<br>Altitude: 350 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:38:50</name>
+          <description><![CDATA[Time: 2011-02-12 00:38:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:39:55</name>
+          <description><![CDATA[Time: 2011-02-12 00:39:55<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:41:01</name>
+          <description><![CDATA[Time: 2011-02-12 00:41:01<br>Speed: 0 mph<br>Heading: S<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:42:07</name>
+          <description><![CDATA[Time: 2011-02-12 00:42:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 236 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87748</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:43:12</name>
+          <description><![CDATA[Time: 2011-02-12 00:43:12<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:44:17</name>
+          <description><![CDATA[Time: 2011-02-12 00:44:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87766</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:45:22</name>
+          <description><![CDATA[Time: 2011-02-12 00:45:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:46:28</name>
+          <description><![CDATA[Time: 2011-02-12 00:46:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:47:33</name>
+          <description><![CDATA[Time: 2011-02-12 00:47:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:48:38</name>
+          <description><![CDATA[Time: 2011-02-12 00:48:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:49:44</name>
+          <description><![CDATA[Time: 2011-02-12 00:49:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 377 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:50:49</name>
+          <description><![CDATA[Time: 2011-02-12 00:50:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:51:55</name>
+          <description><![CDATA[Time: 2011-02-12 00:51:55<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:53:00</name>
+          <description><![CDATA[Time: 2011-02-12 00:53:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 357 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:54:03</name>
+          <description><![CDATA[Time: 2011-02-12 00:54:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:55:09</name>
+          <description><![CDATA[Time: 2011-02-12 00:55:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:56:14</name>
+          <description><![CDATA[Time: 2011-02-12 00:56:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:57:20</name>
+          <description><![CDATA[Time: 2011-02-12 00:57:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:58:25</name>
+          <description><![CDATA[Time: 2011-02-12 00:58:25<br>Speed: 3 mph<br>Heading: S<br>Altitude: 360 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>00:59:30</name>
+          <description><![CDATA[Time: 2011-02-12 00:59:30<br>Speed: 1 mph<br>Heading: NE<br>Altitude: 393 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:00:36</name>
+          <description><![CDATA[Time: 2011-02-12 01:00:36<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:01:41</name>
+          <description><![CDATA[Time: 2011-02-12 01:01:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:02:46</name>
+          <description><![CDATA[Time: 2011-02-12 01:02:46<br>Speed: 0 mph<br>Heading: N<br>Altitude: 373 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:03:51</name>
+          <description><![CDATA[Time: 2011-02-12 01:03:51<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:04:57</name>
+          <description><![CDATA[Time: 2011-02-12 01:04:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 367 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:06:03</name>
+          <description><![CDATA[Time: 2011-02-12 01:06:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 350 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:07:08</name>
+          <description><![CDATA[Time: 2011-02-12 01:07:08<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:08:14</name>
+          <description><![CDATA[Time: 2011-02-12 01:08:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:09:19</name>
+          <description><![CDATA[Time: 2011-02-12 01:09:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 370 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:10:24</name>
+          <description><![CDATA[Time: 2011-02-12 01:10:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:11:31</name>
+          <description><![CDATA[Time: 2011-02-12 01:11:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:12:36</name>
+          <description><![CDATA[Time: 2011-02-12 01:12:36<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25938,37.87783</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:13:42</name>
+          <description><![CDATA[Time: 2011-02-12 01:13:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 252 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:14:47</name>
+          <description><![CDATA[Time: 2011-02-12 01:14:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:15:52</name>
+          <description><![CDATA[Time: 2011-02-12 01:15:52<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:16:57</name>
+          <description><![CDATA[Time: 2011-02-12 01:16:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:18:03</name>
+          <description><![CDATA[Time: 2011-02-12 01:18:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:19:08</name>
+          <description><![CDATA[Time: 2011-02-12 01:19:08<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:20:14</name>
+          <description><![CDATA[Time: 2011-02-12 01:20:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:21:20</name>
+          <description><![CDATA[Time: 2011-02-12 01:21:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:22:24</name>
+          <description><![CDATA[Time: 2011-02-12 01:22:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:23:29</name>
+          <description><![CDATA[Time: 2011-02-12 01:23:29<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:24:35</name>
+          <description><![CDATA[Time: 2011-02-12 01:24:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:25:41</name>
+          <description><![CDATA[Time: 2011-02-12 01:25:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 393 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:26:45</name>
+          <description><![CDATA[Time: 2011-02-12 01:26:45<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87783</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:27:50</name>
+          <description><![CDATA[Time: 2011-02-12 01:27:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 285 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87781</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:28:56</name>
+          <description><![CDATA[Time: 2011-02-12 01:28:56<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:30:01</name>
+          <description><![CDATA[Time: 2011-02-12 01:30:01<br>Speed: 0 mph<br>Heading: N<br>Altitude: 393 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:31:06</name>
+          <description><![CDATA[Time: 2011-02-12 01:31:06<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:32:11</name>
+          <description><![CDATA[Time: 2011-02-12 01:32:11<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:33:17</name>
+          <description><![CDATA[Time: 2011-02-12 01:33:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 380 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:34:22</name>
+          <description><![CDATA[Time: 2011-02-12 01:34:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 367 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:35:28</name>
+          <description><![CDATA[Time: 2011-02-12 01:35:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:36:33</name>
+          <description><![CDATA[Time: 2011-02-12 01:36:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:37:38</name>
+          <description><![CDATA[Time: 2011-02-12 01:37:38<br>Speed: 0 mph<br>Heading: W<br>Altitude: 400 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25938,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:38:43</name>
+          <description><![CDATA[Time: 2011-02-12 01:38:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:39:49</name>
+          <description><![CDATA[Time: 2011-02-12 01:39:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 393 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:40:55</name>
+          <description><![CDATA[Time: 2011-02-12 01:40:55<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:42:00</name>
+          <description><![CDATA[Time: 2011-02-12 01:42:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 373 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:43:05</name>
+          <description><![CDATA[Time: 2011-02-12 01:43:05<br>Speed: 0 mph<br>Heading: N<br>Altitude: 278 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87781</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:44:10</name>
+          <description><![CDATA[Time: 2011-02-12 01:44:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:45:15</name>
+          <description><![CDATA[Time: 2011-02-12 01:45:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:46:21</name>
+          <description><![CDATA[Time: 2011-02-12 01:46:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87766</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:47:26</name>
+          <description><![CDATA[Time: 2011-02-12 01:47:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:48:31</name>
+          <description><![CDATA[Time: 2011-02-12 01:48:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 373 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:49:36</name>
+          <description><![CDATA[Time: 2011-02-12 01:49:36<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:50:42</name>
+          <description><![CDATA[Time: 2011-02-12 01:50:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:51:47</name>
+          <description><![CDATA[Time: 2011-02-12 01:51:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:52:53</name>
+          <description><![CDATA[Time: 2011-02-12 01:52:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:53:58</name>
+          <description><![CDATA[Time: 2011-02-12 01:53:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:55:03</name>
+          <description><![CDATA[Time: 2011-02-12 01:55:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:56:09</name>
+          <description><![CDATA[Time: 2011-02-12 01:56:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:57:14</name>
+          <description><![CDATA[Time: 2011-02-12 01:57:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:58:19</name>
+          <description><![CDATA[Time: 2011-02-12 01:58:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>01:59:24</name>
+          <description><![CDATA[Time: 2011-02-12 01:59:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:00:30</name>
+          <description><![CDATA[Time: 2011-02-12 02:00:30<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:01:35</name>
+          <description><![CDATA[Time: 2011-02-12 02:01:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:02:40</name>
+          <description><![CDATA[Time: 2011-02-12 02:02:40<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:03:45</name>
+          <description><![CDATA[Time: 2011-02-12 02:03:45<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:04:51</name>
+          <description><![CDATA[Time: 2011-02-12 02:04:51<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:05:57</name>
+          <description><![CDATA[Time: 2011-02-12 02:05:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:07:02</name>
+          <description><![CDATA[Time: 2011-02-12 02:07:02<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:08:07</name>
+          <description><![CDATA[Time: 2011-02-12 02:08:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:09:13</name>
+          <description><![CDATA[Time: 2011-02-12 02:09:13<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:10:18</name>
+          <description><![CDATA[Time: 2011-02-12 02:10:18<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:11:23</name>
+          <description><![CDATA[Time: 2011-02-12 02:11:23<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:12:29</name>
+          <description><![CDATA[Time: 2011-02-12 02:12:29<br>Speed: 0 mph<br>Heading: N<br>Altitude: 265 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:13:34</name>
+          <description><![CDATA[Time: 2011-02-12 02:13:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:14:40</name>
+          <description><![CDATA[Time: 2011-02-12 02:14:40<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:15:44</name>
+          <description><![CDATA[Time: 2011-02-12 02:15:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:16:50</name>
+          <description><![CDATA[Time: 2011-02-12 02:16:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:17:55</name>
+          <description><![CDATA[Time: 2011-02-12 02:17:55<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:19:01</name>
+          <description><![CDATA[Time: 2011-02-12 02:19:01<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:20:06</name>
+          <description><![CDATA[Time: 2011-02-12 02:20:06<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:21:11</name>
+          <description><![CDATA[Time: 2011-02-12 02:21:11<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:22:16</name>
+          <description><![CDATA[Time: 2011-02-12 02:22:16<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:23:22</name>
+          <description><![CDATA[Time: 2011-02-12 02:23:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:24:27</name>
+          <description><![CDATA[Time: 2011-02-12 02:24:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 278 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:25:33</name>
+          <description><![CDATA[Time: 2011-02-12 02:25:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:26:38</name>
+          <description><![CDATA[Time: 2011-02-12 02:26:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:27:43</name>
+          <description><![CDATA[Time: 2011-02-12 02:27:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:28:49</name>
+          <description><![CDATA[Time: 2011-02-12 02:28:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:29:54</name>
+          <description><![CDATA[Time: 2011-02-12 02:29:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:31:00</name>
+          <description><![CDATA[Time: 2011-02-12 02:31:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:32:04</name>
+          <description><![CDATA[Time: 2011-02-12 02:32:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:33:10</name>
+          <description><![CDATA[Time: 2011-02-12 02:33:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:34:15</name>
+          <description><![CDATA[Time: 2011-02-12 02:34:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:35:21</name>
+          <description><![CDATA[Time: 2011-02-12 02:35:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:36:26</name>
+          <description><![CDATA[Time: 2011-02-12 02:36:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:37:31</name>
+          <description><![CDATA[Time: 2011-02-12 02:37:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:38:36</name>
+          <description><![CDATA[Time: 2011-02-12 02:38:36<br>Speed: 0 mph<br>Heading: N<br>Altitude: 377 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:39:42</name>
+          <description><![CDATA[Time: 2011-02-12 02:39:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 272 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:40:48</name>
+          <description><![CDATA[Time: 2011-02-12 02:40:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:41:53</name>
+          <description><![CDATA[Time: 2011-02-12 02:41:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:42:58</name>
+          <description><![CDATA[Time: 2011-02-12 02:42:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:44:04</name>
+          <description><![CDATA[Time: 2011-02-12 02:44:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:45:09</name>
+          <description><![CDATA[Time: 2011-02-12 02:45:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:46:14</name>
+          <description><![CDATA[Time: 2011-02-12 02:46:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 268 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:47:19</name>
+          <description><![CDATA[Time: 2011-02-12 02:47:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:48:24</name>
+          <description><![CDATA[Time: 2011-02-12 02:48:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 357 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:49:29</name>
+          <description><![CDATA[Time: 2011-02-12 02:49:29<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:50:35</name>
+          <description><![CDATA[Time: 2011-02-12 02:50:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:51:40</name>
+          <description><![CDATA[Time: 2011-02-12 02:51:40<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:52:46</name>
+          <description><![CDATA[Time: 2011-02-12 02:52:46<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:53:51</name>
+          <description><![CDATA[Time: 2011-02-12 02:53:51<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:54:56</name>
+          <description><![CDATA[Time: 2011-02-12 02:54:56<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:56:02</name>
+          <description><![CDATA[Time: 2011-02-12 02:56:02<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:57:07</name>
+          <description><![CDATA[Time: 2011-02-12 02:57:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:58:12</name>
+          <description><![CDATA[Time: 2011-02-12 02:58:12<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>02:59:17</name>
+          <description><![CDATA[Time: 2011-02-12 02:59:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:00:23</name>
+          <description><![CDATA[Time: 2011-02-12 03:00:23<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:01:28</name>
+          <description><![CDATA[Time: 2011-02-12 03:01:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:02:34</name>
+          <description><![CDATA[Time: 2011-02-12 03:02:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:03:39</name>
+          <description><![CDATA[Time: 2011-02-12 03:03:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:04:43</name>
+          <description><![CDATA[Time: 2011-02-12 03:04:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:05:48</name>
+          <description><![CDATA[Time: 2011-02-12 03:05:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:06:54</name>
+          <description><![CDATA[Time: 2011-02-12 03:06:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:07:59</name>
+          <description><![CDATA[Time: 2011-02-12 03:07:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:09:05</name>
+          <description><![CDATA[Time: 2011-02-12 03:09:05<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:10:10</name>
+          <description><![CDATA[Time: 2011-02-12 03:10:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:11:15</name>
+          <description><![CDATA[Time: 2011-02-12 03:11:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 278 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:12:20</name>
+          <description><![CDATA[Time: 2011-02-12 03:12:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:13:26</name>
+          <description><![CDATA[Time: 2011-02-12 03:13:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:14:31</name>
+          <description><![CDATA[Time: 2011-02-12 03:14:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:15:37</name>
+          <description><![CDATA[Time: 2011-02-12 03:15:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:16:42</name>
+          <description><![CDATA[Time: 2011-02-12 03:16:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:17:47</name>
+          <description><![CDATA[Time: 2011-02-12 03:17:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:18:53</name>
+          <description><![CDATA[Time: 2011-02-12 03:18:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:19:58</name>
+          <description><![CDATA[Time: 2011-02-12 03:19:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:21:02</name>
+          <description><![CDATA[Time: 2011-02-12 03:21:02<br>Speed: 1 mph<br>Heading: N<br>Altitude: 259 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:22:07</name>
+          <description><![CDATA[Time: 2011-02-12 03:22:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:23:13</name>
+          <description><![CDATA[Time: 2011-02-12 03:23:13<br>Speed: 0 mph<br>Heading: N<br>Altitude: 367 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:24:19</name>
+          <description><![CDATA[Time: 2011-02-12 03:24:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:25:24</name>
+          <description><![CDATA[Time: 2011-02-12 03:25:24<br>Speed: 3 mph<br>Heading: W<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.2594,37.87759</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:26:31</name>
+          <description><![CDATA[Time: 2011-02-12 03:26:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 265 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.2589,37.8779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:27:37</name>
+          <description><![CDATA[Time: 2011-02-12 03:27:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:28:42</name>
+          <description><![CDATA[Time: 2011-02-12 03:28:42<br>Speed: 4 mph<br>Heading: NE<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87784</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:29:48</name>
+          <description><![CDATA[Time: 2011-02-12 03:29:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 400 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25908,37.87786</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:30:53</name>
+          <description><![CDATA[Time: 2011-02-12 03:30:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87766</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:31:58</name>
+          <description><![CDATA[Time: 2011-02-12 03:31:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:33:04</name>
+          <description><![CDATA[Time: 2011-02-12 03:33:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 373 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:34:09</name>
+          <description><![CDATA[Time: 2011-02-12 03:34:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:35:14</name>
+          <description><![CDATA[Time: 2011-02-12 03:35:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25938,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:36:19</name>
+          <description><![CDATA[Time: 2011-02-12 03:36:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:37:24</name>
+          <description><![CDATA[Time: 2011-02-12 03:37:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:38:32</name>
+          <description><![CDATA[Time: 2011-02-12 03:38:32<br>Speed: 0 mph<br>Heading: N<br>Altitude: 75 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.2594,37.87743</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:39:37</name>
+          <description><![CDATA[Time: 2011-02-12 03:39:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 232 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:40:42</name>
+          <description><![CDATA[Time: 2011-02-12 03:40:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:41:47</name>
+          <description><![CDATA[Time: 2011-02-12 03:41:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 377 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:42:53</name>
+          <description><![CDATA[Time: 2011-02-12 03:42:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:43:58</name>
+          <description><![CDATA[Time: 2011-02-12 03:43:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:45:04</name>
+          <description><![CDATA[Time: 2011-02-12 03:45:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 357 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:46:09</name>
+          <description><![CDATA[Time: 2011-02-12 03:46:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 380 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:47:14</name>
+          <description><![CDATA[Time: 2011-02-12 03:47:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:48:20</name>
+          <description><![CDATA[Time: 2011-02-12 03:48:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:49:26</name>
+          <description><![CDATA[Time: 2011-02-12 03:49:26<br>Speed: 3 mph<br>Heading: SW<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:50:31</name>
+          <description><![CDATA[Time: 2011-02-12 03:50:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 275 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:51:37</name>
+          <description><![CDATA[Time: 2011-02-12 03:51:37<br>Speed: 4 mph<br>Heading: SW<br>Altitude: 272 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87767</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:52:42</name>
+          <description><![CDATA[Time: 2011-02-12 03:52:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 262 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:53:46</name>
+          <description><![CDATA[Time: 2011-02-12 03:53:46<br>Speed: 0 mph<br>Heading: N<br>Altitude: 350 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25916,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:54:51</name>
+          <description><![CDATA[Time: 2011-02-12 03:54:51<br>Speed: 4 mph<br>Heading: SW<br>Altitude: 219 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25945,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:55:57</name>
+          <description><![CDATA[Time: 2011-02-12 03:55:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.8779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:57:02</name>
+          <description><![CDATA[Time: 2011-02-12 03:57:02<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:58:07</name>
+          <description><![CDATA[Time: 2011-02-12 03:58:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 416 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25916,37.87783</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>03:59:13</name>
+          <description><![CDATA[Time: 2011-02-12 03:59:13<br>Speed: 0 mph<br>Heading: N<br>Altitude: 419 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87783</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:00:18</name>
+          <description><![CDATA[Time: 2011-02-12 04:00:18<br>Speed: 0 mph<br>Heading: N<br>Altitude: 167 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25908,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:01:23</name>
+          <description><![CDATA[Time: 2011-02-12 04:01:23<br>Speed: 0 mph<br>Heading: N<br>Altitude: 170 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25906,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:02:29</name>
+          <description><![CDATA[Time: 2011-02-12 04:02:29<br>Speed: 0 mph<br>Heading: N<br>Altitude: 350 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:03:34</name>
+          <description><![CDATA[Time: 2011-02-12 04:03:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:04:39</name>
+          <description><![CDATA[Time: 2011-02-12 04:04:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:05:44</name>
+          <description><![CDATA[Time: 2011-02-12 04:05:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:06:50</name>
+          <description><![CDATA[Time: 2011-02-12 04:06:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 413 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25916,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:07:56</name>
+          <description><![CDATA[Time: 2011-02-12 04:07:56<br>Speed: 1 mph<br>Heading: S<br>Altitude: 360 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:09:01</name>
+          <description><![CDATA[Time: 2011-02-12 04:09:01<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:10:06</name>
+          <description><![CDATA[Time: 2011-02-12 04:10:06<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:11:11</name>
+          <description><![CDATA[Time: 2011-02-12 04:11:11<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:12:17</name>
+          <description><![CDATA[Time: 2011-02-12 04:12:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:13:22</name>
+          <description><![CDATA[Time: 2011-02-12 04:13:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:14:27</name>
+          <description><![CDATA[Time: 2011-02-12 04:14:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:15:33</name>
+          <description><![CDATA[Time: 2011-02-12 04:15:33<br>Speed: 4 mph<br>Heading: SW<br>Altitude: 344 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:16:38</name>
+          <description><![CDATA[Time: 2011-02-12 04:16:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 295 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25913,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:17:44</name>
+          <description><![CDATA[Time: 2011-02-12 04:17:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:18:49</name>
+          <description><![CDATA[Time: 2011-02-12 04:18:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:19:55</name>
+          <description><![CDATA[Time: 2011-02-12 04:19:55<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25913,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:21:00</name>
+          <description><![CDATA[Time: 2011-02-12 04:21:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:22:05</name>
+          <description><![CDATA[Time: 2011-02-12 04:22:05<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:23:10</name>
+          <description><![CDATA[Time: 2011-02-12 04:23:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25912,37.87785</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:24:16</name>
+          <description><![CDATA[Time: 2011-02-12 04:24:16<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:25:21</name>
+          <description><![CDATA[Time: 2011-02-12 04:25:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87764</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:26:26</name>
+          <description><![CDATA[Time: 2011-02-12 04:26:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87784</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:27:31</name>
+          <description><![CDATA[Time: 2011-02-12 04:27:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:28:37</name>
+          <description><![CDATA[Time: 2011-02-12 04:28:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:29:42</name>
+          <description><![CDATA[Time: 2011-02-12 04:29:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:30:48</name>
+          <description><![CDATA[Time: 2011-02-12 04:30:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:31:53</name>
+          <description><![CDATA[Time: 2011-02-12 04:31:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:32:59</name>
+          <description><![CDATA[Time: 2011-02-12 04:32:59<br>Speed: 0 mph<br>Heading: SE<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:34:04</name>
+          <description><![CDATA[Time: 2011-02-12 04:34:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:35:09</name>
+          <description><![CDATA[Time: 2011-02-12 04:35:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25916,37.8778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:36:17</name>
+          <description><![CDATA[Time: 2011-02-12 04:36:17<br>Speed: 0 mph<br>Heading: N<br>Altitude: 209 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25894,37.87782</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:37:26</name>
+          <description><![CDATA[Time: 2011-02-12 04:37:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25948,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:38:33</name>
+          <description><![CDATA[Time: 2011-02-12 04:38:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:39:38</name>
+          <description><![CDATA[Time: 2011-02-12 04:39:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25945,37.8775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:40:44</name>
+          <description><![CDATA[Time: 2011-02-12 04:40:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:41:48</name>
+          <description><![CDATA[Time: 2011-02-12 04:41:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:42:54</name>
+          <description><![CDATA[Time: 2011-02-12 04:42:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:43:59</name>
+          <description><![CDATA[Time: 2011-02-12 04:43:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 288 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:45:04</name>
+          <description><![CDATA[Time: 2011-02-12 04:45:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 357 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87784</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:46:10</name>
+          <description><![CDATA[Time: 2011-02-12 04:46:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:47:15</name>
+          <description><![CDATA[Time: 2011-02-12 04:47:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 252 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.8779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:48:20</name>
+          <description><![CDATA[Time: 2011-02-12 04:48:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25921,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:49:25</name>
+          <description><![CDATA[Time: 2011-02-12 04:49:25<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:50:31</name>
+          <description><![CDATA[Time: 2011-02-12 04:50:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:51:37</name>
+          <description><![CDATA[Time: 2011-02-12 04:51:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:52:42</name>
+          <description><![CDATA[Time: 2011-02-12 04:52:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:53:47</name>
+          <description><![CDATA[Time: 2011-02-12 04:53:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 364 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87762</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:54:53</name>
+          <description><![CDATA[Time: 2011-02-12 04:54:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 321 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:55:58</name>
+          <description><![CDATA[Time: 2011-02-12 04:55:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 275 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87779</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:57:03</name>
+          <description><![CDATA[Time: 2011-02-12 04:57:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 275 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:58:08</name>
+          <description><![CDATA[Time: 2011-02-12 04:58:08<br>Speed: 0 mph<br>Heading: N<br>Altitude: 331 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25938,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>04:59:13</name>
+          <description><![CDATA[Time: 2011-02-12 04:59:13<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:00:19</name>
+          <description><![CDATA[Time: 2011-02-12 05:00:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:01:24</name>
+          <description><![CDATA[Time: 2011-02-12 05:01:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87778</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:02:30</name>
+          <description><![CDATA[Time: 2011-02-12 05:02:30<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:03:35</name>
+          <description><![CDATA[Time: 2011-02-12 05:03:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:04:40</name>
+          <description><![CDATA[Time: 2011-02-12 05:04:40<br>Speed: 0 mph<br>Heading: N<br>Altitude: 334 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:05:46</name>
+          <description><![CDATA[Time: 2011-02-12 05:05:46<br>Speed: 0 mph<br>Heading: N<br>Altitude: 387 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:06:51</name>
+          <description><![CDATA[Time: 2011-02-12 05:06:51<br>Speed: 0 mph<br>Heading: N<br>Altitude: 341 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:07:57</name>
+          <description><![CDATA[Time: 2011-02-12 05:07:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:09:02</name>
+          <description><![CDATA[Time: 2011-02-12 05:09:02<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:10:07</name>
+          <description><![CDATA[Time: 2011-02-12 05:10:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:11:12</name>
+          <description><![CDATA[Time: 2011-02-12 05:11:12<br>Speed: 0 mph<br>Heading: N<br>Altitude: 387 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25934,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:12:18</name>
+          <description><![CDATA[Time: 2011-02-12 05:12:18<br>Speed: 0 mph<br>Heading: N<br>Altitude: 354 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:13:23</name>
+          <description><![CDATA[Time: 2011-02-12 05:13:23<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:14:28</name>
+          <description><![CDATA[Time: 2011-02-12 05:14:28<br>Speed: 1 mph<br>Heading: S<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:15:33</name>
+          <description><![CDATA[Time: 2011-02-12 05:15:33<br>Speed: 0 mph<br>Heading: N<br>Altitude: 357 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:16:38</name>
+          <description><![CDATA[Time: 2011-02-12 05:16:38<br>Speed: 0 mph<br>Heading: N<br>Altitude: 324 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:17:43</name>
+          <description><![CDATA[Time: 2011-02-12 05:17:43<br>Speed: 0 mph<br>Heading: N<br>Altitude: 318 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:18:48</name>
+          <description><![CDATA[Time: 2011-02-12 05:18:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:19:54</name>
+          <description><![CDATA[Time: 2011-02-12 05:19:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 337 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25933,37.87768</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:21:00</name>
+          <description><![CDATA[Time: 2011-02-12 05:21:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 308 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:22:05</name>
+          <description><![CDATA[Time: 2011-02-12 05:22:05<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.8777</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:23:11</name>
+          <description><![CDATA[Time: 2011-02-12 05:23:11<br>Speed: 0 mph<br>Heading: N<br>Altitude: 305 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:24:16</name>
+          <description><![CDATA[Time: 2011-02-12 05:24:16<br>Speed: 0 mph<br>Heading: N<br>Altitude: 301 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:25:21</name>
+          <description><![CDATA[Time: 2011-02-12 05:25:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 311 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:26:26</name>
+          <description><![CDATA[Time: 2011-02-12 05:26:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 291 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25923,37.87773</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:27:31</name>
+          <description><![CDATA[Time: 2011-02-12 05:27:31<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:28:37</name>
+          <description><![CDATA[Time: 2011-02-12 05:28:37<br>Speed: 0 mph<br>Heading: N<br>Altitude: 298 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25924,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:29:44</name>
+          <description><![CDATA[Time: 2011-02-12 05:29:44<br>Speed: 0 mph<br>Heading: N<br>Altitude: 347 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87772</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:30:48</name>
+          <description><![CDATA[Time: 2011-02-12 05:30:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 282 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25929,37.87775</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:31:54</name>
+          <description><![CDATA[Time: 2011-02-12 05:31:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 328 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25927,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:32:59</name>
+          <description><![CDATA[Time: 2011-02-12 05:32:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:34:04</name>
+          <description><![CDATA[Time: 2011-02-12 05:34:04<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:35:09</name>
+          <description><![CDATA[Time: 2011-02-12 05:35:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:36:15</name>
+          <description><![CDATA[Time: 2011-02-12 05:36:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:37:20</name>
+          <description><![CDATA[Time: 2011-02-12 05:37:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 314 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25931,37.87771</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>05:38:26</name>
+          <description><![CDATA[Time: 2011-02-12 05:38:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 268 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-122.25918,37.87774</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:04:58</name>
+          <description><![CDATA[Time: 2011-02-12 11:04:58<br>Speed: 0 mph<br>Heading: N<br>Altitude: 708 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76244</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:06:10</name>
+          <description><![CDATA[Time: 2011-02-12 11:06:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76257</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:07:16</name>
+          <description><![CDATA[Time: 2011-02-12 11:07:16<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76257</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:08:24</name>
+          <description><![CDATA[Time: 2011-02-12 11:08:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 718 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76253</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:09:35</name>
+          <description><![CDATA[Time: 2011-02-12 11:09:35<br>Speed: 0 mph<br>Heading: N<br>Altitude: 708 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76258</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:10:41</name>
+          <description><![CDATA[Time: 2011-02-12 11:10:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67789,37.76255</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:11:48</name>
+          <description><![CDATA[Time: 2011-02-12 11:11:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67794,37.76252</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:12:56</name>
+          <description><![CDATA[Time: 2011-02-12 11:12:56<br>Speed: 0 mph<br>Heading: N<br>Altitude: 705 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67789,37.76253</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:14:03</name>
+          <description><![CDATA[Time: 2011-02-12 11:14:03<br>Speed: 0 mph<br>Heading: N<br>Altitude: 731 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:15:12</name>
+          <description><![CDATA[Time: 2011-02-12 11:15:12<br>Speed: 0 mph<br>Heading: N<br>Altitude: 731 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:16:22</name>
+          <description><![CDATA[Time: 2011-02-12 11:16:22<br>Speed: 0 mph<br>Heading: N<br>Altitude: 692 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76254</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:17:30</name>
+          <description><![CDATA[Time: 2011-02-12 11:17:30<br>Speed: 0 mph<br>Heading: N<br>Altitude: 705 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76252</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:18:41</name>
+          <description><![CDATA[Time: 2011-02-12 11:18:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 692 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:19:49</name>
+          <description><![CDATA[Time: 2011-02-12 11:19:49<br>Speed: 0 mph<br>Heading: N<br>Altitude: 682 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67792,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:21:00</name>
+          <description><![CDATA[Time: 2011-02-12 11:21:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 708 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67785,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:22:06</name>
+          <description><![CDATA[Time: 2011-02-12 11:22:06<br>Speed: 0 mph<br>Heading: N<br>Altitude: 708 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67785,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:23:17</name>
+          <description><![CDATA[Time: 2011-02-12 11:23:17<br>Speed: 1 mph<br>Heading: SE<br>Altitude: 705 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67789,37.76253</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:24:24</name>
+          <description><![CDATA[Time: 2011-02-12 11:24:24<br>Speed: 0 mph<br>Heading: N<br>Altitude: 672 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:25:42</name>
+          <description><![CDATA[Time: 2011-02-12 11:25:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 692 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:26:48</name>
+          <description><![CDATA[Time: 2011-02-12 11:26:48<br>Speed: 0 mph<br>Heading: N<br>Altitude: 734 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67789,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:27:54</name>
+          <description><![CDATA[Time: 2011-02-12 11:27:54<br>Speed: 0 mph<br>Heading: N<br>Altitude: 711 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76252</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:29:01</name>
+          <description><![CDATA[Time: 2011-02-12 11:29:01<br>Speed: 0 mph<br>Heading: N<br>Altitude: 728 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:30:07</name>
+          <description><![CDATA[Time: 2011-02-12 11:30:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 692 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76252</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:31:09</name>
+          <description><![CDATA[Time: 2011-02-12 11:31:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 724 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76241</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:32:15</name>
+          <description><![CDATA[Time: 2011-02-12 11:32:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 711 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:33:28</name>
+          <description><![CDATA[Time: 2011-02-12 11:33:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 695 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:34:34</name>
+          <description><![CDATA[Time: 2011-02-12 11:34:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 695 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:35:42</name>
+          <description><![CDATA[Time: 2011-02-12 11:35:42<br>Speed: 0 mph<br>Heading: N<br>Altitude: 695 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:36:48</name>
+          <description><![CDATA[Time: 2011-02-12 11:36:48<br>Speed: 0 mph<br>Heading: E<br>Altitude: 731 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67786,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:37:56</name>
+          <description><![CDATA[Time: 2011-02-12 11:37:56<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67785,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:39:02</name>
+          <description><![CDATA[Time: 2011-02-12 11:39:02<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:40:10</name>
+          <description><![CDATA[Time: 2011-02-12 11:40:10<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:41:21</name>
+          <description><![CDATA[Time: 2011-02-12 11:41:21<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:42:27</name>
+          <description><![CDATA[Time: 2011-02-12 11:42:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 715 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:43:39</name>
+          <description><![CDATA[Time: 2011-02-12 11:43:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 708 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67785,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:44:50</name>
+          <description><![CDATA[Time: 2011-02-12 11:44:50<br>Speed: 0 mph<br>Heading: N<br>Altitude: 682 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:46:01</name>
+          <description><![CDATA[Time: 2011-02-12 11:46:01<br>Speed: 0 mph<br>Heading: N<br>Altitude: 688 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67781,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:47:07</name>
+          <description><![CDATA[Time: 2011-02-12 11:47:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:48:14</name>
+          <description><![CDATA[Time: 2011-02-12 11:48:14<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76247</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:49:20</name>
+          <description><![CDATA[Time: 2011-02-12 11:49:20<br>Speed: 0 mph<br>Heading: N<br>Altitude: 695 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:50:26</name>
+          <description><![CDATA[Time: 2011-02-12 11:50:26<br>Speed: 0 mph<br>Heading: N<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:51:32</name>
+          <description><![CDATA[Time: 2011-02-12 11:51:32<br>Speed: 0 mph<br>Heading: N<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:52:39</name>
+          <description><![CDATA[Time: 2011-02-12 11:52:39<br>Speed: 0 mph<br>Heading: N<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:53:47</name>
+          <description><![CDATA[Time: 2011-02-12 11:53:47<br>Speed: 0 mph<br>Heading: N<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:54:53</name>
+          <description><![CDATA[Time: 2011-02-12 11:54:53<br>Speed: 0 mph<br>Heading: N<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67779,37.76249</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:55:59</name>
+          <description><![CDATA[Time: 2011-02-12 11:55:59<br>Speed: 0 mph<br>Heading: N<br>Altitude: 711 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:57:00</name>
+          <description><![CDATA[Time: 2011-02-12 11:57:00<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76252</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:58:09</name>
+          <description><![CDATA[Time: 2011-02-12 11:58:09<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76246</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>11:59:19</name>
+          <description><![CDATA[Time: 2011-02-12 11:59:19<br>Speed: 0 mph<br>Heading: N<br>Altitude: 698 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76246</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:00:27</name>
+          <description><![CDATA[Time: 2011-02-12 12:00:27<br>Speed: 0 mph<br>Heading: N<br>Altitude: 675 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.76244</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:01:34</name>
+          <description><![CDATA[Time: 2011-02-12 12:01:34<br>Speed: 0 mph<br>Heading: N<br>Altitude: 688 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67785,37.76243</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:02:41</name>
+          <description><![CDATA[Time: 2011-02-12 12:02:41<br>Speed: 0 mph<br>Heading: N<br>Altitude: 728 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67783,37.7625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:03:47</name>
+          <description><![CDATA[Time: 2011-02-12 12:03:47<br>Speed: 1 mph<br>Heading: S<br>Altitude: 685 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67796,37.76245</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:04:57</name>
+          <description><![CDATA[Time: 2011-02-12 12:04:57<br>Speed: 0 mph<br>Heading: N<br>Altitude: 744 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67862,37.76271</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:06:07</name>
+          <description><![CDATA[Time: 2011-02-12 12:06:07<br>Speed: 0 mph<br>Heading: N<br>Altitude: 705 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67913,37.76272</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:07:15</name>
+          <description><![CDATA[Time: 2011-02-12 12:07:15<br>Speed: 0 mph<br>Heading: N<br>Altitude: 770 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67917,37.76272</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>12:08:28</name>
+          <description><![CDATA[Time: 2011-02-12 12:08:28<br>Speed: 0 mph<br>Heading: N<br>Altitude: 767 feet<br>]]></description>
+          <Snippet/>
+          <Point>
+            <coordinates>-121.67915,37.76271</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
