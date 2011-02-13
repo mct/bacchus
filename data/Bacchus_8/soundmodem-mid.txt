@@ -1,0 +1,2912 @@
+mids-MacBook-Pro-2:tools mid$ ./bacchusmapper-aprs.pl
+../web/bacchus8-kj6dys-11.kml KJ6DYS-11
+writing to ../web/bacchus8-kj6dys-11.kml, listening for KJ6DYS-11
+reading raw samples from stdin
+in: 'multimod  (C) 1996/1997 by Tom Sailer HB9JNX/AE4WA'
+in: 'available demodulators: POCSAG512 POCSAG1200 POCSAG2400 AFSK1200
+AFSK2400 AFSK2400_2 HAPN4800 FSK9600 DTMF ZVEI SCOPE'
+in: 'Enabled demodulators: AFSK1200 SCOPE'
+rec WARN wav: Length in output .wav header will be wrong since can't
+seek to fix it
+
+
+
+in: 'AFSK1200: fm WR6ABD-0 to BEACON-0 via W6CX-3 UI  pid=F0'
+in: '>Courteous digipath, Mobile:WIDE1-1,WIDE2-1 Base:WIDE2-2 or less.'
+APRS: WR6ABD-0>BEACON-0,W6CX-3:>Courteous digipath,
+Mobile:WIDE1-1,WIDE2-1 Base:WIDE2-2 or less.
+in: 'AFSK1200: fm N6QGV-5 to SXQWSZ-0 via W6CX-3 UIv pid=F0'
+in: ''2Z.l 0j/]"4;}Kevin's Truck Fairfield.Ca'
+APRS: N6QGV-5>SXQWSZ-0,W6CX-3:'2Z.l 0j/]"4;}Kevin's Truck Fairfield.Ca
+in: 'AFSK1200: fm W6SAS-0 to APTW01-0 via W6CX-3,WIDE2-0 UI  pid=F0'
+in: '_02121440c314s005g007t069r000p000P000h32b10220tU2k'
+APRS: W6SAS-0>APTW01-0,W6CX-3,WIDE2-0:_02121440c314s005g007t069r000p000P000h32b10220tU2k
+in: 'AFSK1200: fm N5CV-0 to APT310-0 via W6CX-3 UI  pid=F0'
+in: '/213351h3728.90N/12211.94Wk298/006/A=-00013'
+APRS: N5CV-0>APT310-0,W6CX-3:/213351h3728.90N/12211.94Wk298/006/A=-00013
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via W6CX-3,WIDE2-1 UIv pid=F0'
+in: '`1X,l".k/]"8B}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,W6CX-3,WIDE2-1:`1X,l".k/]"8B}146.460MHz=
+in: 'AFSK1200: fm WA5ZNU-9 to APOTC1-0 via
+N6ZX-3,WIDE1-0,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '!/;U6I/Z<c>5AG 13.6V'
+APRS: WA5ZNU-9>APOTC1-0,N6ZX-3,WIDE1-0,W6CX-3,WIDE2-0:!/;U6I/Z<c>5AG 13.6V
+
+
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via
+WARD-0,WIDE1-0,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,W6CX-3,WIDE2-0:>ARES DEC  tt3+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '/213448h3818.11N/12102.69WO051/047/A=038676 02.8V 17C HDOP00.7
+SATS12ProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:/213448h3818.11N/12102.69WO051/047/A=038676
+02.8V 17C HDOP00.7 SATS12ProjectBacchus.org
+
+
+in: 'AFSK1200: fm W6CAR-7 to SWRVVR-0 via
+N6ZX-3,WIDE1-0,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`2+d"RmK\>='
+APRS: W6CAR-7>SWRVVR-0,N6ZX-3,WIDE1-0,W6CX-3,WIDE2-0:`2+d"RmK\>=
+in: 'AFSK1200: fm W7NIK-1 to SY2XYT-1 via SNOW-0,WARD-0,W6CX-3,WIDE2-0
+UI  pid=F0'
+in: '`/K1q>3k/"BV}'
+APRS: W7NIK-1>SY2XYT-1,SNOW-0,WARD-0,W6CX-3,WIDE2-0:`/K1q>3k/"BV}
+
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYX-0 via K6MZ-1,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '`1Mul >R/"3C}MT AIO'
+APRS: KI6JTP-1>SXRVYX-0,K6MZ-1,W6CX-3,WIDE2-0:`1Mul >R/"3C}MT AIO
+in: 'AFSK1200: fm K6JFT-1 to S7RWSX-0 via W6CX-3,WIDE2-1 UI  pid=F0'
+in: '`2)npW>/"4"}'
+APRS: K6JFT-1>S7RWSX-0,W6CX-3,WIDE2-1:`2)npW>/"4"}
+in: 'AFSK1200: fm KI6VYK-5 to SWTVVU-0 via W6CX-3,WIDE2-1 UI  pid=F0'
+in: '`25"l!i>/"4-}TinyTrak3'
+APRS: KI6VYK-5>SWTVVU-0,W6CX-3,WIDE2-1:`25"l!i>/"4-}TinyTrak3
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '/213519h3818.37N/12102.32WO051/049/A=038950 02.9V 17C HDOP00.7
+SATS12ProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:/213519h3818.37N/12102.32WO051/049/A=038950
+02.9V 17C HDOP00.7 SATS12ProjectBacchus.org
+in: 'AFSK1200: fm KE6FOA-14 to SWPTUR-0 via K6TUO-3,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`1\{!g5k/]"5$}'
+APRS: KE6FOA-14>SWPTUR-0,K6TUO-3,W6CX-3,WIDE2-0:`1\{!g5k/]"5$}
+in: 'AFSK1200: fm WB6RUU-9 to S8SYRU-0 via K6FGA-1,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '`10Mn|,>/"3r}'
+APRS: WB6RUU-9>S8SYRU-0,K6FGA-1,W6CX-3,WIDE2-0:`10Mn|,>/"3r}
+in: 'AFSK1200: fm W7NIK-1 to SY2YUT-1 via SNOW-0,WARD-0,W6CX-3,WIDE2-0
+UI  pid=F0'
+in: '`/K#pR"k/"BM}'
+APRS: W7NIK-1>SY2YUT-1,SNOW-0,WARD-0,W6CX-3,WIDE2-0:`/K#pR"k/"BM}
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via W6CX-3,WIDE2-1 UI  pid=F0'
+in: '!3835.95N/12129.66W_097/000g005t072r861OD1w'
+APRS: WA6USI-0>APOT01-0,W6CX-3,WIDE2-1:!3835.95N/12129.66W_097/000g005t072r861OD1w
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via W6CX-3,WIDE2-1 UIv pid=F0'
+in: '`1X,l!ik/]"83}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,W6CX-3,WIDE2-1:`1X,l!ik/]"83}146.460MHz=
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via
+KD6MLH-9,WIDE1-0,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`1X,l!ik/]"83}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,KD6MLH-9,WIDE1-0,W6CX-3,WIDE2-0:`1X,l!ik/]"83}146.460MHz=
+in: 'AFSK1200: fm KE6AFE-4 to APS250-0 via W6CX-3,NCA2-0 UI  pid=F0'
+in: '<IGATE MSG_CNT=3060 LOC_CNT=77 FILL_CNT=2206'
+APRS: KE6AFE-4>APS250-0,W6CX-3,NCA2-0:<IGATE MSG_CNT=3060 LOC_CNT=77
+FILL_CNT=2206
+in: 'AFSK1200: fm N3WG-9 to SWSQXT-0 via W6CX-3,WIDE2-1 UIv pid=F0'
+in: '`1M'l!Ho\>OTM='
+APRS: N3WG-9>SWSQXT-0,W6CX-3,WIDE2-1:`1M'l!Ho\>OTM=
+in: 'AFSK1200: fm DISABL-0 to ID-0 UI  pid=F0'
+in: 'Network Node'
+in: 'AFSK1200: fm W7NIK-1 to SY3PSP-1 via SNOW-0,WARD-0,W6CX-3,WIDE2-0
+UI  pid=F0'
+in: '`/Jopf-k/"BM}Echolink442550pl110'
+APRS: W7NIK-1>SY3PSP-1,SNOW-0,WARD-0,W6CX-3,WIDE2-0:`/Jopf-k/"BM}Echolink442550pl110
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,W6CX-3,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm WB6RUU-9 to S8SYRR-0 via K6FGA-1,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '`11&nhc>/"42}'
+APRS: WB6RUU-9>S8SYRR-0,K6FGA-1,W6CX-3,WIDE2-0:`11&nhc>/"42}
+in: 'AFSK1200: fm W6CX-3 to APN382-0 UI  pid=F0'
+in: '!3748.94NS12203.73W#PHG7450/W2,NCAn/Rocky Ridge/A=002380'
+in: 'AFSK1200: fm KI6VYK-5 to SWTVVS-0 via N6WKZ-3,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '`25*l!m>/"49}'
+APRS: KI6VYK-5>SWTVVS-0,N6WKZ-3,W6CX-3,WIDE2-0:`25*l!m>/"49}
+in: 'AFSK1200: fm W7NIK-1 to SY3PTU-1 via SNOW-0,WARD-0,W6CX-3,WIDE2-0
+UI  pid=F0'
+in: '`/Jllz.k/"BP}'
+APRS: W7NIK-1>SY3PTU-1,SNOW-0,WARD-0,W6CX-3,WIDE2-0:`/Jllz.k/"BP}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via NI6M-2,DEADWD-0,W6CX-3 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,W6CX-3:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,W6CX-3,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K6JWN-1 to SXRVXU-0 via W6CX-3,WIDE2-1 UIv pid=F0'
+in: ''1Npl .-/]jim.nessen@gmail.com'
+APRS: K6JWN-1>SXRVXU-0,W6CX-3,WIDE2-1:'1Npl .-/]jim.nessen@gmail.com
+in: 'AFSK1200: fm AF6JP-9 to S7USYT-0 via W6CX-3 UIv pid=F0'
+in: ''2_Nl#K>/]"5*}'
+APRS: AF6JP-9>S7USYT-0,W6CX-3:'2_Nl#K>/]"5*}
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WIDE2-1 UIv pid=F0'
+in: ';TFCWCREEK*122128z3754.20N\12202.15W?72 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WIDE2-1:;TFCWCREEK*122128z3754.20N\12202.15W?72
+In 10 Minutes
+in: 'AFSK1200: fm W7NIK-1 to SY3PUQ-1 via
+SNOW-0,K6FGA-1,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '`/JlliVk/"BO}'
+APRS: W7NIK-1>SY3PUQ-1,SNOW-0,K6FGA-1,W6CX-3,WIDE2-0:`/JlliVk/"BO}
+in: 'AFSK1200: fm N3XFD-1 to APOTC1-0 via WR6ABD-0,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '/122138z/;^2H/_>*jyCG/A=000269 14.2V 26C HDOP00.9 SATS09 P1'
+APRS: N3XFD-1>APOTC1-0,WR6ABD-0,W6CX-3,WIDE2-0:/122138z/;^2H/_>*jyCG/A=000269
+14.2V 26C HDOP00.9 SATS09 P1
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KG6SYK-2 to S8PTVQ-0 via W6CX-3,WIDE2-1 UI  pid=F0'
+in: '`2`Ynf<k/"4P}'
+APRS: KG6SYK-2>S8PTVQ-0,W6CX-3,WIDE2-1:`2`Ynf<k/"4P}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via WR6ABD-0,WIDE2-1 UI  pid=F0'
+in: '=3722.63N/12159.61Wj000/000'
+APRS: K6XOX-9>APHH2-0,WR6ABD-0,WIDE2-1:=3722.63N/12159.61Wj000/000
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via WR6ABD-0,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '=3722.63N/12159.61Wj000/000'
+APRS: K6XOX-9>APHH2-0,WR6ABD-0,W6CX-3,WIDE2-0:=3722.63N/12159.61Wj000/000
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WA6TOW-2,WIDE2-0
+UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WA6TOW-2,WIDE2-0:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.9V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.9V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.9V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,W6CX-3,WIDE2-0:> 02.9V 19CProjectBacchus.org
+
+
+
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 19CProjectBacchus.org
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,WIDE2-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,WIDE2-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,W6CX-3,WIDE2-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.9V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.9V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.9V 19CProjectBacchus.org
+in: 'AFSK1200: fm AF6JP-9 to S7USYV-0 via W6CX-3 UIv pid=F0'
+in: '`2_Pl-K>/]"5#}'
+APRS: AF6JP-9>S7USYV-0,W6CX-3:`2_Pl-K>/]"5#}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via W6CX-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,W6CX-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via WA6TOW-2,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '/214127h3746.34N/12228.61W>086/042/N6WEY Mobile/A=000289'
+APRS: N6WEY-9>APTT4-0,WA6TOW-2,W6CX-3,WIDE2-0:/214127h3746.34N/12228.61W>086/042/N6WEY
+Mobile/A=000289
+in: 'AFSK1200: fm N3WG-9 to SWSQXT-0 via WR6ABD-0,W6CX-3,WIDE2-0 UIv pid=F0'
+in: '`1M'l |o\>OTM='
+APRS: N3WG-9>SWSQXT-0,WR6ABD-0,W6CX-3,WIDE2-0:`1M'l |o\>OTM=
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via W6CX-3 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,W6CX-3:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via W6CX-3 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,W6CX-3:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WA6ODP-3 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WA6ODP-3:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K7FED-10,W6CX-3,WIDE2-0 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K7FED-10,W6CX-3,WIDE2-0:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via N6FRG-2 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,N6FRG-2:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via N6FRG-2 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,N6FRG-2:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 21CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 21CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 21CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 21CProjectBacchus.org
+in: 'AFSK1200: fm K6TUO-3 to APN382-0 UI  pid=F0'
+in: '!3801.86NN12021.03W#PHG5828/A=003738/Telegraph Hill, Sonora.'
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm RANCHO-0 to APN391-0 UI  pid=F0'
+in: '!3843.52N112038.40W#PHG2560/NCAn,TEMPn/AG6AU/Rancho del
+Sol,Camino,CA/A=003400'
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via N6FRG-2 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,N6FRG-2:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm W7NIK-1 to SY3QVT-1 via
+SLIDE-0,WIDE1-0,COREY-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`/I%o\vk/"BC}'
+APRS: W7NIK-1>SY3QVT-1,SLIDE-0,WIDE1-0,COREY-0,WARD-0,WIDE2-0:`/I%o\vk/"BC}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm W6CX-3 to APN382-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3748.94NS12203.73W#PHG7450/W2,NCAn/Rocky Ridge/A=002380'
+APRS: W6CX-3>APN382-0,WA6TOW-2,WARD-0,WIDE2-0:!3748.94NS12203.73W#PHG7450/W2,NCAn/Rocky
+Ridge/A=002380
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm W6SN-0 to SWUSXX-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2]_q"_>/"4s}'
+APRS: W6SN-0>SWUSXX-0,W6CX-3,WARD-0,WIDE2-0:`2]_q"_>/"4s}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via RANCHO-0 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,RANCHO-0:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '/122150z3905.95N/11946.55Wk258/024/A=004907'
+APRS: KG7HH-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:/122150z3905.95N/11946.55Wk258/024/A=004907
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KE6LQJ-1 to 3Y0XPU-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1@kl!"F/"4'}'
+APRS: KE6LQJ-1>3Y0XPU-0,K6FGA-1,WARD-0,WIDE2-0:`1@kl!"F/"4'}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm N3WG-9 to SWSQXT-0 via WA6TOW-2,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1M'l Lo\>OTM='
+APRS: N3WG-9>SWSQXT-0,WA6TOW-2,WARD-0,WIDE2-0:`1M'l Lo\>OTM=
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KF6FCY-0 to SYPPYV-0 via WARD-0,WIDE1-0,WIDE2-2 UIv pid=F0'
+in: '`03sl!qj/]"Gs}'
+APRS: KF6FCY-0>SYPPYV-0,WARD-0,WIDE1-0,WIDE2-2:`03sl!qj/]"Gs}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KG6SYK-2 to APT311-0 via W6CO-5,WIDE2-1 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: KG6SYK-2>APT311-0,W6CO-5,WIDE2-1:>TinyTrak3 v1.1
+in: 'AFSK1200: fm KG6SYK-2 to APT311-0 via W6CO-5,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: KG6SYK-2>APT311-0,W6CO-5,K6TUO-3,WIDE2-0:>TinyTrak3 v1.1
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via K6TUO-3 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,K6TUO-3:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 21CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 21CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WARD-0,WIDE1-0 UI  pid=F0'
+in: '> 02.8V 21CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WARD-0,WIDE1-0:> 02.8V 21CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 15CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 15CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 13CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 13CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via N6FRG-2 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,N6FRG-2:> 02.8V 17CProjectBacchus.org
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm NJ6E-6 to APRS-0 via W6CO-5,WIDE2*-0 UI  pid=F0'
+in: '$ULTW003F00A302CE073A27E7FFE585DB00010189002A03840000000F'
+APRS: NJ6E-6>APRS-0,W6CO-5,WIDE2:$ULTW003F00A302CE073A27E7FFE585DB00010189002A03840000000F
+in: '.AFSK1200: fm WB6RUU-9 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122159z3839.63N/12121.41W>147/000/A=000104'
+APRS: WB6RUU-9>APT311-0,K6FGA-1,WARD-0,WIDE2-0:/122159z3839.63N/12121.41W>147/000/A=000104
+
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 17CProjectBacchus.org
+
+
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via WIDE1-1 UI  pid=F0'
+in: '> 02.8V 19CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,WIDE1-1:> 02.8V 19CProjectBacchus.org
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via
+SNOW-0,COREY-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122159z3905.91N/11946.62Wk012/014/A=004894'
+APRS: KG7HH-1>APT311-0,SNOW-0,COREY-0,WARD-0,WIDE2-0:/122159z3905.91N/11946.62Wk012/014/A=004894
+in: 'AFSK1200: fm ELIBOM-0 to APT407-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>!x! k_g 6 n_u_b'
+APRS: ELIBOM-0>APT407-0,WA6TOW-2,WARD-0,WIDE2-0:>!x! k_g 6 n_u_b
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via
+COREY-0,WIDE1-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '/122200z3905.93N/11946.53Wk120/029/A=004884'
+APRS: KG7HH-1>APT311-0,COREY-0,WIDE1-0,WARD-0,WIDE2-1:/122200z3905.93N/11946.53Wk120/029/A=004884
+in: 'AFSK1200: fm ELIBOM-0 to SWSRSR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2..l .//"4"}'
+APRS: ELIBOM-0>SWSRSR-0,WA6TOW-2,WARD-0,WIDE2-0:`2..l .//"4"}
+in: 'AFSK1200: fm KJ6DYS-11 to APOTC1-0 via COPPER-0 UI  pid=F0'
+in: '> 02.8V 17CProjectBacchus.org'
+APRS: KJ6DYS-11>APOTC1-0,COPPER-0:> 02.8V 17CProjectBacchus.org
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>TinyTrak3 v1.1
+in: 'AFSK1200: fm N3XFD-1 to APOTC1-0 via
+WR6ABD-0,WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!/;^,R/_=Qj st/A=000000 12.9V 26C HDOP04.4 SATS03 P2'
+APRS: N3XFD-1>APOTC1-0,WR6ABD-0,WA6TOW-2,WARD-0,WIDE2-0:!/;^,R/_=Qj
+st/A=000000 12.9V 26C HDOP04.4 SATS03 P2
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm TOULON-0 to APPT4-0 via
+COREY-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>W7TA Lovelock 146.925- PL100'
+APRS: TOULON-0>APPT4-0,COREY-0,WIDE1-0,WARD-0,WIDE2-0:>W7TA Lovelock
+146.925- PL100
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>TinyTrak3 v1.1
+in: 'AFSK1200: fm N5CV-0 to APT310-0 via N6ZX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/220113h3727.37N/12208.02Wk126/046/A=-00013'
+APRS: N5CV-0>APT310-0,N6ZX-3,WARD-0,WIDE2-0:/220113h3727.37N/12208.02Wk126/046/A=-00013
+in: 'AFSK1200: fm W6MSU-0 to APRS-0 via K6TUO-3,NCA1-0 UI  pid=F0'
+in: '=/;8R&/kak-  B'
+APRS: W6MSU-0>APRS-0,K6TUO-3,NCA1-0:=/;8R&/kak-  B
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl"?R/"3x}'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl"?R/"3x}
+in: 'AFSK1200: fm KE6FOA-14 to SWQVVP-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0U: z:k/]"4+}'
+APRS: KE6FOA-14>SWQVVP-0,K6TUO-3,WIDE2-1:`0U: z:k/]"4+}
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '> www.k7sfn.com'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:> www.k7sfn.com
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3906.97N/11946.60Wk'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3906.97N/11946.60Wk
+in: 'AFSK1200: fm K7DCN-0 to S9PWQY-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2_Oq!Pk/"46}5th Wheel'
+APRS: K7DCN-0>S9PWQY-0,K6FGA-1,WARD-0,WIDE2-0:`2_Oq!Pk/"46}5th Wheel
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '!3835.95N/12129.66W_245/003g004t073r861OD1w'
+APRS: WA6USI-0>APOT01-0,WARD-0,WIDE1-0,WIDE2-1:!3835.95N/12129.66W_245/003g004t073r861OD1w
+in: 'AFSK1200: fm TOULON-0 to TPPTPX-0 via
+COREY-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: ''.G]l .#/"Ji}'
+
+APRS: TOULON-0>TPPTPX-0,COREY-0,WIDE1-0,WARD-0,WIDE2-0:'.G]l .#/"Ji}
+in: 'AFSK1200: fm K6TJS-0 to APU25N-0 via K6TUO-3,WIDE2-1 UI  pid=F0'
+in: ';TFC-SJV  *051051z3703.52N\12029.47W?134 In 10 Minutes'
+APRS: K6TJS-0>APU25N-0,K6TUO-3,WIDE2-1:;TFC-SJV
+*051051z3703.52N\12029.47W?134 In 10 Minutes
+in: 'AFSK1200: fm W7NIK-1 to SY3QVU-1 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/Hgl\pk/"BM}'
+APRS: W7NIK-1>SY3QVU-1,SNOW-0,WARD-0,WIDE2-1:`/Hgl\pk/"BM}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KJ6APE-9 to SW5VTQ-1 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2\_l V>/"4L}sean@kj6ape.com Pleasant Hill, CA'
+APRS: KJ6APE-9>SW5VTQ-1,W6CX-3,WARD-0,WIDE2-0:`2\_l
+V>/"4L}sean@kj6ape.com Pleasant Hill, CA
+in: 'AFSK1200: fm KE6FOA-14 to SWQWSX-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0Tc z:k/]"4*}'
+APRS: KE6FOA-14>SWQWSX-0,K6TUO-3,WIDE2-1:`0Tc z:k/]"4*}
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>Echolink442550pl110'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>Echolink442550pl110
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/122202z3831.61N/12131.22Wk032/053/A=000022'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:/122202z3831.61N/12131.22Wk032/053/A=000022
+in: 'AFSK1200: fm N5CV-0 to APT310-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/220259h3726.40N/12206.83Wk140/046/A=-00009'
+APRS: N5CV-0>APT310-0,WA6TOW-2,WARD-0,WIDE2-0:/220259h3726.40N/12206.83Wk140/046/A=-00009
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N6TZE-9 to SWSTYR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29(l"F>/'"4,}|4'
+APRS: N6TZE-9>SWSTYR-0,WA6TOW-2,WARD-0,WIDE2-0:`29(l"F>/'"4,}|4
+in: 'AFSK1200: fm KE6FOA-14 to SWQWWY-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0TE z:k/]"4*}Carls Duramax Tracker'
+APRS: KE6FOA-14>SWQWWY-0,K6TUO-3,WIDE2-1:`0TE z:k/]"4*}Carls Duramax Tracker
+in: 'AFSK1200: fm K7FED-10 to APJI23-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '<IGATE,MSG_CNT=524,LOC_CNT=33'
+APRS: K7FED-10>APJI23-0,WA6TOW-2,WARD-0,WIDE2-0:<IGATE,MSG_CNT=524,LOC_CNT=33
+in: 'AFSK1200: fm K7FED-10 to APJI23-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>javAPRSIGate'
+APRS: K7FED-10>APJI23-0,WA6TOW-2,WARD-0,WIDE2-0:>javAPRSIGate
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYV-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mul"[R/"4.}MT AIO'
+APRS: KI6JTP-1>SXRVYV-0,K6MZ-1,WARD-0,WIDE2-0:`1Mul"[R/"4.}MT AIO
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via K6TUO-3,WIDE2-1 UI^ pid=F0'
+in: '=3756.31N/12037.50W-Copperopolis, CA CM97qw'
+APRS: K3UG-0>APU25N-0,K6TUO-3,WIDE2-1:=3756.31N/12037.50W-Copperopolis,
+CA CM97qw
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via N6FRG-2,K6TUO-3,WIDE2-0 UI^ pid=F0'
+in: '=3756.31N/12037.50W-Copperopolis, CA CM97qw'
+APRS: K3UG-0>APU25N-0,N6FRG-2,K6TUO-3,WIDE2-0:=3756.31N/12037.50W-Copperopolis,
+CA CM97qw
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '/122203z3902.73N/11946.79Wk179/053/A=004665'
+APRS: KG7HH-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:/122203z3902.73N/11946.79Wk179/053/A=004665
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWW-0 via DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CYl" >/"4[}'
+APRS: KD6DRU-7>S6RPWW-0,DEADWD-0,K6TUO-3,WIDE2-0:`/CYl" >/"4[}
+
+
+
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KE6FOA-14 to SWQXRW-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0T$ z:k/]"4)}'
+APRS: KE6FOA-14>SWQXRW-0,K6TUO-3,WIDE2-1:`0T$ z:k/]"4)}
+in: 'AFSK1200: fm WA6VPJ-14 to APT311-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!3833.78N/12120.38Wk000/000/A=000068'
+APRS: WA6VPJ-14>APT311-0,K6CDF-8,K6TUO-3,WIDE2-0:!3833.78N/12120.38Wk000/000/A=000068
+in: 'AFSK1200: fm K6TUO-3 to APN382-0 UI  pid=F0'
+in: '!3801.86NN12021.03W#PHG5828/A=003738/Telegraph Hill, Sonora.'
+in: 'AFSK1200: fm K6TUO-3 to APN382-0 via NCA1-1 UI  pid=F0'
+in: '!3801.86NN12021.03W#PHG5828/A=003738/Telegraph Hill,Sonora.'
+APRS: K6TUO-3>APN382-0,NCA1-1:!3801.86NN12021.03W#PHG5828/A=003738/Telegraph
+Hill,Sonora.
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/122204z3832.69N/12130.53Wk002/051/A=-00006'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:/122204z3832.69N/12130.53Wk002/051/A=-00006
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K0MRC-14 to SY3RPX-0 via
+SLIDE-0,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/H#l Yu/]"BV}Where is Mikey going today? '
+APRS: K0MRC-14>SY3RPX-0,SLIDE-0,WIDE1-0,WARD-0,WIDE2-0:`/H#l
+Yu/]"BV}Where is Mikey going today?
+in: 'AFSK1200: fm WARD-0 to APNU19-0 via WIDE2-1 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, Info:  w7xz@arrl.net   A=008637'
+APRS: WARD-0>APNU19-0,WIDE2-1:!3908.88NS12014.80W#PHG9700/W2,NCAn,
+Info:  w7xz@arrl.net   A=008637
+in: 'AFSK1200: fm WARD-0 to APNU19-0 via K6ARC-2 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, Info:  w7xz@arrl.net   A=008637'
+APRS: WARD-0>APNU19-0,K6ARC-2:!3908.88NS12014.80W#PHG9700/W2,NCAn,
+Info:  w7xz@arrl.net   A=008637
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWW-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CYl" >/"4[}'
+APRS: KD6DRU-7>S6RPWW-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:`/CYl" >/"4[}
+in: 'AFSK1200: fm WB6AHC-1 to APTW01-0 via N6ZX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '_02131412c201s000g000t072r000p000P000h34b10247tU2k'
+APRS: WB6AHC-1>APTW01-0,N6ZX-3,WARD-0,WIDE2-0:_02131412c201s000g000t072r000p000P000h34b10247tU2k
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '/122204z3901.60N/11946.78Wk134/019/A=004674'
+APRS: KG7HH-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:/122204z3901.60N/11946.78Wk134/019/A=004674
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`0W~l]$k/]"8'}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,WARD-0,WIDE1-0,WIDE2-1:`0W~l]$k/]"8'}146.460MHz=
+in: 'AFSK1200: fm KE6FOA-14 to SWQXWT-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0S0 zgk/]"4%}'
+APRS: KE6FOA-14>SWQXWT-0,K6TUO-3,WIDE2-1:`0S0 zgk/]"4%}
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via
+SNOW-0,COREY-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122205z3901.59N/11946.73Wk090/016/A=004674'
+APRS: KG7HH-1>APT311-0,SNOW-0,COREY-0,WARD-0,WIDE2-0:/122205z3901.59N/11946.73Wk090/016/A=004674
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3906.93N/11946.68Wk155/005'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3906.93N/11946.68Wk155/005
+in: 'AFSK1200: fm W6BXN-3 to APTW01-0 via WIDE2-1 UI  pid=F0'
+in: '>TARC WX'
+APRS: W6BXN-3>APTW01-0,WIDE2-1:>TARC WX
+in: 'AFSK1200: fm WX6HNX-9 to APRS-0 via N6FRG-2 UI  pid=F0'
+in: '@121605z3702.93N/12111.43W_-01/002g005t061r000p000P000h48b10218.DsVP'
+APRS: WX6HNX-9>APRS-0,N6FRG-2:@121605z3702.93N/12111.43W_-01/002g005t061r000p000P000h48b10218.DsVP
+in: '.AFSK1200: fm KG6SYK-2 to S8PVXY-0 via W6CO-5,WIDE2-1 UI  pid=F0'
+in: '`2'6o^vk/"4u}seaclif@comcast.net'
+APRS: KG6SYK-2>S8PVXY-0,W6CO-5,WIDE2-1:`2'6o^vk/"4u}seaclif@comcast.net
+in: 'AFSK1200: fm WB6RUU-9 to S8SYVP-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`11;m5l>/"4/}'
+APRS: WB6RUU-9>S8SYVP-0,K6FGA-1,WARD-0,WIDE2-0:`11;m5l>/"4/}
+in: 'AFSK1200: fm KE6FOA-14 to SWQXXP-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0R& zvk/]"4$}'
+APRS: KE6FOA-14>SWQXXP-0,K6TUO-3,WIDE2-1:`0R& zvk/]"4$}
+in: 'AFSK1200: fm N6TZF-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) or 146.52(s)'
+APRS: N6TZF-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) or 146.52(s)
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,W6BXN-3,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,W6BXN-3,K6TUO-3,WIDE2-0:`/JWl Wk/]"4q}
+
+
+
+in: 'AFSK1200: fm K6MZ-1 to APOT21-0 via WARD-0,WIDE2-1 UI  pid=F0'
+in: '!3825.99N/12149.86W-'
+APRS: K6MZ-1>APOT21-0,WARD-0,WIDE2-1:!3825.99N/12149.86W-
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via K6CDF-8,K6ARC-2 UIv pid=F0'
+in: '`0WolA.k/]"83}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,K6CDF-8,K6ARC-2:`0WolA.k/]"83}146.460MHz=
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>Echolink442550pl110'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>Echolink442550pl110
+in: 'AFSK1200: fm ELIBOM-0 to SWSRUP-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2-Hmp7//"3f}!x! k_g 6 n_u_b'
+APRS: ELIBOM-0>SWSRUP-0,WA6TOW-2,WARD-0,WIDE2-0:`2-Hmp7//"3f}!x! k_g 6 n_u_b
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`0Wpl@uk/]"8-}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,WARD-0,WIDE1-0,WIDE2-1:`0Wpl@uk/]"8-}146.460MHz=
+in: 'AFSK1200: fm KG6SYK-2 to S8PWQW-0 via W6CO-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2'Xof5k/"4j}'
+APRS: KG6SYK-2>S8PWQW-0,W6CO-5,WARD-0,WIDE2-0:`2'Xof5k/"4j}
+in: 'AFSK1200: fm ELIBOM-0 to SWSRVR-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2-=m>k//"3m}'
+APRS: ELIBOM-0>SWSRVR-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2-=m>k//"3m}
+in: 'AFSK1200: fm N5CV-0 to APT310-0 via N6ZX-3,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '/220647h3724.45N/12204.21Wk157/041/A=000049'
+APRS: N5CV-0>APT310-0,N6ZX-3,K6TUO-3,WIDE2-0:/220647h3724.45N/12204.21Wk157/041/A=000049
+in: 'AFSK1200: fm SNOW-0 to APN383-0 via WARD-0,WIDE2-1 UI  pid=F0'
+in: '!3909.25N111952.99W#PHG2830/NVn,NCAn,TEMPn/WG6D/Snow Valley Peak,
+NV/A=009214'
+APRS: SNOW-0>APN383-0,WARD-0,WIDE2-1:!3909.25N111952.99W#PHG2830/NVn,NCAn,TEMPn/WG6D/Snow
+Valley Peak, NV/A=009214
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,K6FGA-1,WARD-0,WIDE2-0:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N6TZF-9 to SWSUSP-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29[o#>>/"4%}'
+APRS: N6TZF-9>SWSUSP-0,WA6TOW-2,WARD-0,WIDE2-0:`29[o#>>/"4%}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K6TUO-3 to APN382-0 via WIDE2-2 UI  pid=F0'
+in: '!3801.86NN12021.03W#PHG5828/A=003738/Telegraph Hill, Sonora.'
+APRS: K6TUO-3>APN382-0,WIDE2-2:!3801.86NN12021.03W#PHG5828/A=003738/Telegraph
+Hill, Sonora.
+in: 'AFSK1200: fm K6CDF-8 to APN391-0 via NCA1-0 UI  pid=F0'
+in: '!3906.00N112229.30W#PHG27304/W1 Walker Fillin/A=003560'
+APRS: K6CDF-8>APN391-0,NCA1-0:!3906.00N112229.30W#PHG27304/W1 Walker
+Fillin/A=003560
+in: 'AFSK1200: fm KG7HH-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '/122207z3901.60N/11944.88Wk050/020/A=004704'
+APRS: KG7HH-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:/122207z3901.60N/11944.88Wk050/020/A=004704
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/220726h3749.84N/12228.78W>352/015/N6WEY Mobile/A=000236'
+APRS: N6WEY-9>APTT4-0,WA6TOW-2,WARD-0,WIDE2-0:/220726h3749.84N/12228.78W>352/015/N6WEY
+Mobile/A=000236
+in: 'AFSK1200: fm W6BXN-3 to APN382-0 via K6TUO-3,WIDE2-1 UI  pid=F0'
+in: '!3732.14NN12003.50W#PHG5830/W2,NCAn/T.A.R.C./A=004100 '
+APRS: W6BXN-3>APN382-0,K6TUO-3,WIDE2-1:!3732.14NN12003.50W#PHG5830/W2,NCAn/T.A.R.C./A=004100
+in: 'AFSK1200: fm W6BXN-3 to APN382-0 via KG6DGZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3732.14NN12003.50W#PHG5830/W2,NCAn/T.A.R.C./A=004100 '
+APRS: W6BXN-3>APN382-0,KG6DGZ-1,WARD-0,WIDE2-0:!3732.14NN12003.50W#PHG5830/W2,NCAn/T.A.R.C./A=004100
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '!3826.48N/12004.29W_174/000g008t048P000h32b10239OU2k'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WIDE2-2:!3826.48N/12004.29W_174/000g008t048P000h32b10239OU2k
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/220752h3749.94N/12228.85W>317/020/N6WEY Mobile/A=000246'
+APRS: N6WEY-9>APTT4-0,WA6TOW-2,WARD-0,WIDE2-0:/220752h3749.94N/12228.85W>317/020/N6WEY
+Mobile/A=000246
+in: 'AFSK1200: fm N6TZE-9 to SWSTYR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29(l"F>/'"4,}|4'
+APRS: N6TZE-9>SWSTYR-0,WA6TOW-2,WARD-0,WIDE2-0:`29(l"F>/'"4,}|4
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ';TFCWCREEK*122158z3754.20N\12202.15W?74 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WARD-0,WIDE2-0:;TFCWCREEK*122158z3754.20N\12202.15W?74
+In 10 Minutes
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`0Wql#'k/]"86}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,WARD-0,WIDE1-0,WIDE2-1:`0Wql#'k/]"86}146.460MHz=
+in: 'AFSK1200: fm ELIBOM-0 to SWSQSS-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2+yp{A//"3m}!x! k_g 6 n_u_b'
+APRS: ELIBOM-0>SWSQSS-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2+yp{A//"3m}!x!
+k_g 6 n_u_b
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWW-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CYl" >/"4[}'
+APRS: KD6DRU-7>S6RPWW-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:`/CYl" >/"4[}
+in: 'AFSK1200: fm KD6DRU-7 to APT311-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>TT3'
+APRS: KD6DRU-7>APT311-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:>TT3
+in: 'AFSK1200: fm WB6RUU-9 to S8SXVV-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`11{nU.>/"4&}'
+APRS: WB6RUU-9>S8SXVV-0,K6FGA-1,WARD-0,WIDE2-0:`11{nU.>/"4&}
+in: 'AFSK1200: fm KE6FOA-14 to SWQXWY-0 via W6BXN-3,WIDE2-1 UIv pid=F0'
+in: '`0O5 pvk/]"4$}'
+APRS: KE6FOA-14>SWQXWY-0,W6BXN-3,WIDE2-1:`0O5 pvk/]"4$}
+in: 'AFSK1200: fm KE6FOA-14 to SWQXWY-0 via W6BXN-3,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`0O5 pvk/]"4$}'
+APRS: KE6FOA-14>SWQXWY-0,W6BXN-3,K6TUO-3,WIDE2-0:`0O5 pvk/]"4$}
+in: 'AFSK1200: fm W7NIK-1 to SY3RPY-1 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/F2p-Wk/"BS}'
+APRS: W7NIK-1>SY3RPY-1,SNOW-0,WARD-0,WIDE2-1:`/F2p-Wk/"BS}
+in: 'AFSK1200: fm W6MSU-8 to APJI23-0 via NCA1-1 UI  pid=F0'
+in: '!3754.30NI12114.52W&javAPRSIgate - San Joaquin RACES'
+APRS: W6MSU-8>APJI23-0,NCA1-1:!3754.30NI12114.52W&javAPRSIgate - San
+Joaquin RACES
+in: 'AFSK1200: fm W6MSU-8 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '!3754.30NI12114.52W&javAPRSIgate - San Joaquin RACES'
+APRS: W6MSU-8>APJI23-0,NCA1-0:!3754.30NI12114.52W&javAPRSIgate - San
+Joaquin RACES
+in: 'AFSK1200: fm W7NIK-1 to SY3RRW-1 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/F0p>&k/"BS}Echolink442550pl110'
+APRS: W7NIK-1>SY3RRW-1,SNOW-0,WARD-0,WIDE2-1:`/F0p>&k/"BS}Echolink442550pl110
+in: 'AFSK1200: fm N6TZF-9 to SWSUWV-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2:1m*">/"3l}'
+APRS: N6TZF-9>SWSUWV-0,WA6TOW-2,WARD-0,WIDE2-0:`2:1m*">/"3l}
+
+
+
+in: 'AFSK1200: fm K7DCN-0 to S9PQTS-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`2[hpq_k/"49}5th Wheel'
+APRS: K7DCN-0>S9PQTS-0,WARD-0,WIDE1-0,WIDE2-1:`2[hpq_k/"49}5th Wheel
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3908.60N/11946.07Wk007/031'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3908.60N/11946.07Wk007/031
+
+
+
+in: 'AFSK1200: fm K6XOX-0 to SW2RVS-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1WZl .>/http://blog.siamsq.net'
+APRS: K6XOX-0>SW2RVS-0,W6CX-3,WARD-0,WIDE2-0:`1WZl .>/http://blog.siamsq.net
+in: 'AFSK1200: fm ELIBOM-0 to SWSPRV-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2*dqgB//"3o}'
+APRS: ELIBOM-0>SWSPRV-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2*dqgB//"3o}
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '$GPRMC,221010,A,3839.1109,N,12128.1401,W,000.0,187.0,120211,015.6,E*6D'
+APRS: KE6FRA-9>GPSMV-0,WARD-0,WIDE1-0,WIDE2-1:$GPRMC,221010,A,3839.1109,N,12128.1401,W,000.0,187.0,120211,015.6,E*6D
+in: '.AFSK1200: fm AF6IA-7 to SWRWQS-0 via WA6TOW-2,WARD-0,WIDE2-0 UIv pid=F0'
+in: ''1Rl .[/>'
+APRS: AF6IA-7>SWRWQS-0,WA6TOW-2,WARD-0,WIDE2-0:'1Rl .[/>
+
+
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via
+SLIDE-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3908.98N/11946.01Wk032/014'
+APRS: K7SFN-9>APOTC1-0,SLIDE-0,WIDE1-0,WARD-0,WIDE2-0:!3908.98N/11946.01Wk032/014
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via K6CDF-5,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`0Wql!sk/]"89}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,K6CDF-5,WARD-0,WIDE2-0:`0Wql!sk/]"89}146.460MHz=
+in: 'AFSK1200: fm K6IIP-9 to SWSWTW-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`26oms<>/"5I}'
+APRS: K6IIP-9>SWSWTW-0,W6CX-3,WARD-0,WIDE2-0:`26oms<>/"5I}
+^[[Cin: 'AFSK1200: fm N6QGV-5 to SXQWSZ-0 via WA6TOW-2,WARD-0,WIDE2-0
+UIv pid=F0'
+in: ''2Z.l $j/]"4:}Kevin's Truck Fairfield.Ca'
+APRS: N6QGV-5>SXQWSZ-0,WA6TOW-2,WARD-0,WIDE2-0:'2Z.l $j/]"4:}Kevin's
+Truck Fairfield.Ca
+in: 'AFSK1200: fm SLIDE-0 to APNU19-0 via WARD-0,WIDE1-0 UI^ pid=F0'
+in: '!3918.76NS11953.03W#PHG7831/W3,NVn, Info:  w7xz@arrl.net   A=009700'
+APRS: SLIDE-0>APNU19-0,WARD-0,WIDE1-0:!3918.76NS11953.03W#PHG7831/W3,NVn,
+Info:  w7xz@arrl.net   A=009700
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via RANCHO-0 UI  pid=F0'
+in: '$GPGGA,221121,3839.1098,N,12128.1402,W,1,09,0.9,12.3,M,-25.4,M,,*43'
+APRS: KE6FRA-9>GPSMV-0,RANCHO-0:$GPGGA,221121,3839.1098,N,12128.1402,W,1,09,0.9,12.3,M,-25.4,M,,*43
+in: '.AFSK1200: fm ELIBOM-0 to SWRYUT-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2)8r+///"3m}'
+APRS: ELIBOM-0>SWRYUT-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2)8r+///"3m}
+
+
+
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3909.00N/11945.13Wk082/030'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3909.00N/11945.13Wk082/030
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl .R/"3o}'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl .R/"3o}
+in: 'AFSK1200: fm ELIBOM-0 to SWRYQS-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2'Fqf~//"3n}!x! k_g 6 n_u_b'
+APRS: ELIBOM-0>SWRYQS-0,WA6TOW-2,WARD-0,WIDE2-0:`2'Fqf~//"3n}!x! k_g 6 n_u_b
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via
+SLIDE-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3908.95N/11944.68Wk299/025'
+APRS: K7SFN-9>APOTC1-0,SLIDE-0,WIDE1-0,WARD-0,WIDE2-0:!3908.95N/11944.68Wk299/025
+in: 'AFSK1200: fm K6IIP-9 to SWSXSS-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`27rmhS>/"6+}'
+APRS: K6IIP-9>SWSXSS-0,WA6TOW-2,WARD-0,WIDE2-0:`27rmhS>/"6+}
+in: 'AFSK1200: fm K6IIP-9 to SWSXRV-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`27~o,->/"6%}'
+APRS: K6IIP-9>SWSXRV-0,WA6TOW-2,WARD-0,WIDE2-0:`27~o,->/"6%}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm WB6AHC-7 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>TinyTrak3'
+APRS: WB6AHC-7>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>TinyTrak3
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via K6FGA-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`0Wql",k/]"84}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,K6FGA-1,WARD-0,WIDE2-0:`0Wql",k/]"84}146.460MHz=
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N5CV-0 to APT310-0 via N6ZX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/221439h3721.40N/12204.66Wk104/012/A=000173'
+APRS: N5CV-0>APT310-0,N6ZX-3,WARD-0,WIDE2-0:/221439h3721.40N/12204.66Wk104/012/A=000173
+in: 'AFSK1200: fm W6CO-5 to BEACON-0 UI  pid=F0'
+in: 'W5CO Napa Co'
+in: 'AFSK1200: fm K6IIP-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) pl114.8'
+APRS: K6IIP-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) pl114.8
+in: 'AFSK1200: fm K6IIP-9 to SWSWWQ-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`28anqc>/"56}'
+APRS: K6IIP-9>SWSWWQ-0,WA6TOW-2,WARD-0,WIDE2-0:`28anqc>/"56}
+in: 'AFSK1200: fm WX6HNX-9 to APRS-0 via K6TUO-3 UI  pid=F0'
+in: '@121615z3702.93N/12111.43W_000/000g004t061r000p000P000h50b10218.DsVP'
+APRS: WX6HNX-9>APRS-0,K6TUO-3:@121615z3702.93N/12111.43W_000/000g004t061r000p000P000h50b10218.DsVP
+in: '.AFSK1200: fm K6IIP-9 to SWSWVR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`28do"U>/"5"}'
+APRS: K6IIP-9>SWSWVR-0,WA6TOW-2,WARD-0,WIDE2-0:`28do"U>/"5"}
+in: 'AFSK1200: fm N6MEF-9 to SWRYQS-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1Oml#5>/]"<5}='
+APRS: N6MEF-9>SWRYQS-0,WARD-0,WIDE1-0,WIDE2-1:`1Oml#5>/]"<5}=
+in: 'AFSK1200: fm KD6EUG-3 to BEACON-0 via K6TUO-3,WIDE2-0 UI  pid=F0'
+in: 'KD6EUG,Mi-Wuk,CA/larry@svtel.com'
+APRS: KD6EUG-3>BEACON-0,K6TUO-3,WIDE2-0:KD6EUG,Mi-Wuk,CA/larry@svtel.com
+in: 'AFSK1200: fm WA6VPJ-14 to APT311-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!3833.79N/12120.38Wk000/000/A=000049'
+APRS: WA6VPJ-14>APT311-0,K6CDF-8,K6TUO-3,WIDE2-0:!3833.79N/12120.38Wk000/000/A=000049
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '=3722.63N/12159.61Wj000/000'
+APRS: K6XOX-9>APHH2-0,WA6TOW-2,WARD-0,WIDE2-0:=3722.63N/12159.61Wj000/000
+in: 'AFSK1200: fm K6IIP-9 to SWSWTX-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29.o,T>/"4W}'
+APRS: K6IIP-9>SWSWTX-0,WA6TOW-2,WARD-0,WIDE2-0:`29.o,T>/"4W}
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3911.38N/11945.17Wk310/027'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3911.38N/11945.17Wk310/027
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>TinyTrak3 v1.1
+in: 'AFSK1200: fm K7DCN-0 to S8UVUT-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`2XMp{Pk/"44}5th Wheel'
+APRS: K7DCN-0>S8UVUT-0,WARD-0,WIDE1-0,WIDE2-1:`2XMp{Pk/"44}5th Wheel
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,W6BXN-3,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,W6BXN-3,K6TUO-3,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYV-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mul FR/"4/}MT AIO'
+APRS: KI6JTP-1>SXRVYV-0,K6MZ-1,WARD-0,WIDE2-0:`1Mul FR/"4/}MT AIO
+in: 'AFSK1200: fm K6IIP-9 to SWSWVP-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29+nA.>/"48}'
+APRS: K6IIP-9>SWSWVP-0,WA6TOW-2,WARD-0,WIDE2-0:`29+nA.>/"48}
+in: 'AFSK1200: fm KE6FOA-14 to SWRSVX-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0O. f.k/]"4*}Carls Duramax Tracker'
+APRS: KE6FOA-14>SWRSVX-0,K6TUO-3,WIDE2-1:`0O. f.k/]"4*}Carls Duramax Tracker
+in: 'AFSK1200: fm K6IIP-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) pl114.8'
+APRS: K6IIP-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) pl114.8
+in: 'AFSK1200: fm KJ6APE-9 to SW5VTQ-1 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2\_l"L>/"4@}sean@kj6ape.com Pleasant Hill, CA'
+APRS: KJ6APE-9>SW5VTQ-1,W6CX-3,WARD-0,WIDE2-0:`2\_l"L>/"4@}sean@kj6ape.com
+Pleasant Hill, CA
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via RANCHO-0 UIv pid=F0'
+in: '`0Wims&k/]"8-}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,RANCHO-0:`0Wims&k/]"8-}146.460MHz=
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via N6FRG-2 UIv pid=F0'
+in: '`0Wims&k/]"8-}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,N6FRG-2:`0Wims&k/]"8-}146.460MHz=
+in: 'AFSK1200: fm K6IIP-9 to SWSWUP-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29.m6>>/"49}'
+APRS: K6IIP-9>SWSWUP-0,WA6TOW-2,WARD-0,WIDE2-0:`29.m6>>/"49}
+in: 'AFSK1200: fm KE6FOA-14 to SWRSVX-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0O.n\.k/]"4'}'
+APRS: KE6FOA-14>SWRSVX-0,K6TUO-3,WIDE2-1:`0O.n\.k/]"4'}
+in: 'AFSK1200: fm KC6SSM-9 to APTT4-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3730.66N/12156.87W>176/000/KC6SSM Mobile/A=000013'
+APRS: KC6SSM-9>APTT4-0,WA6TOW-2,WARD-0,WIDE2-0:!3730.66N/12156.87W>176/000/KC6SSM
+Mobile/A=000013
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3911.39N/11945.23Wk285/020'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3911.39N/11945.23Wk285/020
+in: 'AFSK1200: fm KQ6ZL-0 to SX2YRQ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1L2lSm>/>"4"}'
+APRS: KQ6ZL-0>SX2YRQ-0,WARD-0,WIDE1-0,WIDE2-1:`1L2lSm>/>"4"}
+in: 'AFSK1200: fm W6BXN-3 to APTW01-0 via K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>TARC WX'
+APRS: W6BXN-3>APTW01-0,K6TUO-3,WIDE2-0:>TARC WX
+in: 'AFSK1200: fm WM7D-0 to APX200-0 via SNOW-0,WARD-0,WIDE2-1 UIv pid=F0'
+in: '=/:QXk05`b#{6CReno, NV'
+APRS: WM7D-0>APX200-0,SNOW-0,WARD-0,WIDE2-1:=/:QXk05`b#{6CReno, NV
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K6IIP-9 to SWSWWR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29?q7M>/"4!}'
+APRS: K6IIP-9>SWSWWR-0,WA6TOW-2,WARD-0,WIDE2-0:`29?q7M>/"4!}
+in: 'AFSK1200: fm N6MEF-9 to SWRYQY-0 via WIDE1-1,WIDE2-1 UIv pid=F0'
+in: '`1Onl ">/]";g}='
+APRS: N6MEF-9>SWRYQY-0,WIDE1-1,WIDE2-1:`1Onl ">/]";g}=
+in: 'AFSK1200: fm N6MEF-9 to SWRYQY-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1Onl ">/]";g}='
+APRS: N6MEF-9>SWRYQY-0,WARD-0,WIDE1-0,WIDE2-1:`1Onl ">/]";g}=
+in: 'AFSK1200: fm KE6FOA-14 to SWRTRR-0 via K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`0O.np.k/]"4'}'
+APRS: KE6FOA-14>SWRTRR-0,K6TUO-3,WIDE2-1:`0O.np.k/]"4'}
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '!3835.95N/12129.66W_236/003g004t071r861OD1w'
+APRS: WA6USI-0>APOT01-0,WARD-0,WIDE1-0,WIDE2-1:!3835.95N/12129.66W_236/003g004t071r861OD1w
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:>ARES DEC  tt3+
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122217z3840.40N/12137.08Wk275/049/A=000019'
+APRS: KQ6YH-14>APT311-0,K6FGA-1,WARD-0,WIDE2-0:/122217z3840.40N/12137.08Wk275/049/A=000019
+in: 'AFSK1200: fm N6MEF-9 to SWRYRW-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1Okl c>/]";P}='
+APRS: N6MEF-9>SWRYRW-0,WARD-0,WIDE1-0,WIDE2-1:`1Okl c>/]";P}=
+in: 'AFSK1200: fm W7NIK-1 to SY3SWW-1 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/F<l .k/"Bv}'
+APRS: W7NIK-1>SY3SWW-1,SNOW-0,WARD-0,WIDE2-1:`/F<l .k/"Bv}
+in: 'AFSK1200: fm W7NIK-1 to SY3SYQ-1 via
+SLIDE-0,WIDE1-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/F+oR[k/"Bw}'
+APRS: W7NIK-1>SY3SYQ-1,SLIDE-0,WIDE1-0,WARD-0,WIDE2-1:`/F+oR[k/"Bw}
+in: 'AFSK1200: fm K7SFN-9 to APOTC1-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3911.77N/11945.64Wk312/006'
+APRS: K7SFN-9>APOTC1-0,SNOW-0,WARD-0,WIDE2-0:!3911.77N/11945.64Wk312/006
+in: 'AFSK1200: fm W6MSU-7 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '!3803.21NI12121.62W&javAPRSIgate - ncs050@gmail.com'
+APRS: W6MSU-7>APJI23-0,NCA1-0:!3803.21NI12121.62W&javAPRSIgate -
+ncs050@gmail.com
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`0Wbl"Ik/]"8;}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,WARD-0,WIDE1-0,WIDE2-1:`0Wbl"Ik/]"8;}146.460MHz=
+in: 'AFSK1200: fm K6IIP-9 to SWSXXR-0 via W6CO-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29In\#>/"41}'
+APRS: K6IIP-9>SWSXXR-0,W6CO-5,WARD-0,WIDE2-0:`29In\#>/"41}
+in: 'AFSK1200: fm KF6FCY-0 to SYPPWR-0 via WARD-0,WIDE1-0,WIDE2-2 UIv pid=F0'
+in: '`04Gl!3j/]"GF}'
+APRS: KF6FCY-0>SYPPWR-0,WARD-0,WIDE1-0,WIDE2-2:`04Gl!3j/]"GF}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K6IIP-9 to SWSXYU-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29Gm-'>/"44}'
+APRS: K6IIP-9>SWSXYU-0,WA6TOW-2,WARD-0,WIDE2-0:`29Gm-'>/"44}
+in: 'AFSK1200: fm WB6AHC-7 to APT311-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>TinyTrak3'
+APRS: WB6AHC-7>APT311-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:>TinyTrak3
+in: 'AFSK1200: fm N6VUD-0 to APWW07-0 via K6CDF-5,NCA2-0 UI^ pid=F0'
+in: '>122219zAPRSISCE/32 KPC3+ v9.1 delay test'
+APRS: N6VUD-0>APWW07-0,K6CDF-5,NCA2-0:>122219zAPRSISCE/32 KPC3+ v9.1 delay test
+in: 'AFSK1200: fm WB6RUU-9 to S8SUUP-0 via K6CDF-8,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1=+r,$>/"3z}'
+APRS: WB6RUU-9>S8SUUP-0,K6CDF-8,WARD-0,WIDE2-0:`1=+r,$>/"3z}
+in: 'AFSK1200: fm K6IIP-9 to SWSXYX-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29Nlz$>/"42}'
+APRS: K6IIP-9>SWSXYX-0,WA6TOW-2,WARD-0,WIDE2-0:`29Nlz$>/"42}
+in: 'AFSK1200: fm N3WG-9 to SWSQYU-0 via WA6TOW-2,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1L_mrvo\>OTM='
+APRS: N3WG-9>SWSQYU-0,WA6TOW-2,WARD-0,WIDE2-0:`1L_mrvo\>OTM=
+in: 'AFSK1200: fm ELIBOM-0 to SWRWRP-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2&smU.//"4#}'
+APRS: ELIBOM-0>SWRWRP-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2&smU.//"4#}
+in: 'AFSK1200: fm KQ6ZL-0 to SX2XPS-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1M7nhb>/>"4-}'
+APRS: KQ6ZL-0>SX2XPS-0,WARD-0,WIDE1-0,WIDE2-1:`1M7nhb>/>"4-}
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via RANCHO-0,WIDE2-1 UIv pid=F0'
+in: '`0Wbl k/]"8)}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,RANCHO-0,WIDE2-1:`0Wbl k/]"8)}146.460MHz=
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via W6CX-3,K6FGA-1,WIDE2-0 UIv pid=F0'
+in: '`0Wbl k/]"8)}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,W6CX-3,K6FGA-1,WIDE2-0:`0Wbl k/]"8)}146.460MHz=
+in: 'AFSK1200: fm N3WG-9 to SWSRPP-0 via WA6TOW-2,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1M#mhpo\>OTM='
+APRS: N3WG-9>SWSRPP-0,WA6TOW-2,WARD-0,WIDE2-0:`1M#mhpo\>OTM=
+in: 'AFSK1200: fm KQ6ZL-0 to SX2WWV-0 via K6MZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1M>ogl>/>"43}'
+APRS: KQ6ZL-0>SX2WWV-0,K6MZ-1,WARD-0,WIDE2-0:`1M>ogl>/>"43}
+in: 'AFSK1200: fm K7DCN-0 to S8URQY-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Uip{Dk/"4-}5th Wheel'
+APRS: K7DCN-0>S8URQY-0,K6FGA-1,WARD-0,WIDE2-0:`1Uip{Dk/"4-}5th Wheel
+in: 'AFSK1200: fm W7NIK-1 to SY3TRR-1 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`/F#n,0k/"Cx}Echolink442550pl110'
+APRS: W7NIK-1>SY3TRR-1,SNOW-0,WARD-0,WIDE2-1:`/F#n,0k/"Cx}Echolink442550pl110
+in: 'AFSK1200: fm KI6HKG-9 to APOTC1-0 via WA6TOW-2,WARD-0,WIDE2-1 UI  pid=F0'
+in: '!/;T*k/S#J> st 12.3V 24C'
+APRS: KI6HKG-9>APOTC1-0,WA6TOW-2,WARD-0,WIDE2-1:!/;T*k/S#J> st 12.3V 24C
+in: 'AFSK1200: fm KQ6ZL-0 to SX2WST-0 via K6MZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1M>m5l>/>"46}'
+APRS: KQ6ZL-0>SX2WST-0,K6MZ-1,WARD-0,WIDE2-0:`1M>m5l>/>"46}
+in: 'AFSK1200: fm WB6RUU-9 to S8STRP-0 via K6TUO-3,WIDE2-1 UI  pid=F0'
+in: '`1@*qJT>/"3y}'
+APRS: WB6RUU-9>S8STRP-0,K6TUO-3,WIDE2-1:`1@*qJT>/"3y}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KQ6ZL-0 to SX2VXQ-0 via K6MZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1M?n?k>/>"40}'
+APRS: KQ6ZL-0>SX2VXQ-0,K6MZ-1,WARD-0,WIDE2-0:`1M?n?k>/>"40}
+in: 'AFSK1200: fm RANCHO-0 to APN391-0 via WIDE2-2 UI  pid=F0'
+in: '!3843.52N112038.40W#PHG2560/NCAn,TEMPn/AG6AU/Rancho del
+Sol,Camino,CA/A=003400'
+APRS: RANCHO-0>APN391-0,WIDE2-2:!3843.52N112038.40W#PHG2560/NCAn,TEMPn/AG6AU/Rancho
+del Sol,Camino,CA/A=003400
+in: 'AFSK1200: fm K6FGA-1 to APN382-0 via WIDE2-2 UI  pid=F0'
+in: '!3914.74NS12057.91W#PHG4520/Wn,NCAn/Banner Mt/CDFVIP/A=003940'
+APRS: K6FGA-1>APN382-0,WIDE2-2:!3914.74NS12057.91W#PHG4520/Wn,NCAn/Banner
+Mt/CDFVIP/A=003940
+in: 'AFSK1200: fm K6FGA-1 to APN382-0 via WARD-0,WIDE2-1 UI  pid=F0'
+in: '!3914.74NS12057.91W#PHG4520/Wn,NCAn/Banner Mt/CDFVIP/A=003940'
+APRS: K6FGA-1>APN382-0,WARD-0,WIDE2-1:!3914.74NS12057.91W#PHG4520/Wn,NCAn/Banner
+Mt/CDFVIP/A=003940
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via N6FRG-2,WIDE2-1 UI^ pid=F0'
+in: '>111723zHappy Holidays!'
+APRS: K3UG-0>APU25N-0,N6FRG-2,WIDE2-1:>111723zHappy Holidays!
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via N6FRG-2,K6FGA-1,WIDE2-0 UI^ pid=F0'
+in: '>111723zHappy Holidays!'
+APRS: K3UG-0>APU25N-0,N6FRG-2,K6FGA-1,WIDE2-0:>111723zHappy Holidays!
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via N6FRG-2,WARD-0,WIDE2-0 UI^ pid=F0'
+in: '>111723zHappy Holidays!'
+APRS: K3UG-0>APU25N-0,N6FRG-2,WARD-0,WIDE2-0:>111723zHappy Holidays!
+in: 'AFSK1200: fm K3UG-0 to APU25N-0 via N6FRG-2,WIDE2-1 UI^ pid=F0'
+in: '<IGATE,MSG_CNT=63,LOC_CNT=60'
+APRS: K3UG-0>APU25N-0,N6FRG-2,WIDE2-1:<IGATE,MSG_CNT=63,LOC_CNT=60
+in: 'AFSK1200: fm WARD-0 to APNU19-0 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, WA6TLW, Ward Pk, CA A=008637'
+in: 'AFSK1200: fm KC6SSM-9 to APTT4-0 via
+N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!3732.08N/12157.71W>039/010/KC6SSM Mobile/A=000056'
+APRS: KC6SSM-9>APTT4-0,N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0:!3732.08N/12157.71W>039/010/KC6SSM
+Mobile/A=000056
+in: 'AFSK1200: fm K6ARC-2 to APNU3B-0 via WARD-0,WIDE2-0 UI^ pid=F0'
+in: '!3823.35N112039.13W#PHG58104/W2,NCA2 Pine Grove, CA A=003000'
+APRS: K6ARC-2>APNU3B-0,WARD-0,WIDE2-0:!3823.35N112039.13W#PHG58104/W2,NCA2
+Pine Grove, CA A=003000
+in: 'AFSK1200: fm K6IIP-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: K6IIP-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>TinyTrak3 v1.1
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWW-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CYl" >/"4[}'
+APRS: KD6DRU-7>S6RPWW-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:`/CYl" >/"4[}
+in: 'AFSK1200: fm K0MRC-14 to SY3RPY-0 via SNOW-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/H%l Yu/]"B?}Where is Mikey going today? '
+APRS: K0MRC-14>SY3RPY-0,SNOW-0,WARD-0,WIDE2-0:`/H%l Yu/]"B?}Where is
+Mikey going today?
+in: 'AFSK1200: fm K6IIP-9 to SWSYPU-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29MlUF>/"4*}'
+APRS: K6IIP-9>SWSYPU-0,WA6TOW-2,WARD-0,WIDE2-0:`29MlUF>/"4*}
+in: 'AFSK1200: fm WA6VPJ-14 to APT311-0 via K6FGA-1 UI  pid=F0'
+in: '!3833.79N/12120.38Wk000/000/A=000016'
+APRS: WA6VPJ-14>APT311-0,K6FGA-1:!3833.79N/12120.38Wk000/000/A=000016
+in: 'AFSK1200: fm K6IIP-9 to SWSYPV-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29Ml\P>/"4,}'
+APRS: K6IIP-9>SWSYPV-0,WA6TOW-2,WARD-0,WIDE2-0:`29Ml\P>/"4,}
+in: 'AFSK1200: fm W6CO-5 to BEACON-0 UI  pid=F0'
+in: 'W5CO Napa Co'
+in: 'AFSK1200: fm K6IIP-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) pl114.8'
+APRS: K6IIP-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) pl114.8
+in: 'AFSK1200: fm WB6RUU-9 to S8SSWX-0 via K6CDF-8,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1BMq^U>/"3w}'
+APRS: WB6RUU-9>S8SSWX-0,K6CDF-8,WARD-0,WIDE2-0:`1BMq^U>/"3w}
+in: 'AFSK1200: fm N6TZF-9 to SWSWTT-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29)p-:>/"4&}'
+APRS: N6TZF-9>SWSWTT-0,WA6TOW-2,WARD-0,WIDE2-0:`29)p-:>/"4&}
+in: 'AFSK1200: fm KQ6ZL-0 to SX2UYY-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1MCmJ@>/>"4*}'
+APRS: KQ6ZL-0>SX2UYY-0,WARD-0,WIDE1-0,WIDE2-1:`1MCmJ@>/>"4*}
+in: 'AFSK1200: fm N6TZF-9 to SWSWUR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29-mU6>/"4&}'
+APRS: N6TZF-9>SWSWUR-0,WA6TOW-2,WARD-0,WIDE2-0:`29-mU6>/"4&}
+in: 'AFSK1200: fm KE6KYI-0 to APU25N-0 via K6TUO-3,WIDE2-1 UI^ pid=F0'
+in: '=3751.53N/12012.83W_Grayson - Tuolumne Co {UIV32N}'
+APRS: KE6KYI-0>APU25N-0,K6TUO-3,WIDE2-1:=3751.53N/12012.83W_Grayson -
+Tuolumne Co {UIV32N}
+in: 'AFSK1200: fm KQ6ZL-0 to SX2UYY-0 via K6MZ-1,K6FGA-1,WIDE2-0 UIv pid=F0'
+in: '`1MCmJ@>/>"4*}'
+APRS: KQ6ZL-0>SX2UYY-0,K6MZ-1,K6FGA-1,WIDE2-0:`1MCmJ@>/>"4*}
+in: 'AFSK1200: fm N6TZF-9 to SWSWUX-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`291m44>/"4!}'
+APRS: N6TZF-9>SWSWUX-0,WA6TOW-2,WARD-0,WIDE2-0:`291m44>/"4!}
+in: 'AFSK1200: fm KG6OWS-7 to S7TPYT-0 via N6FRG-2,NCA2-1 UIv pid=F0'
+in: '`1^=l Jk/]"3r}'
+APRS: KG6OWS-7>S7TPYT-0,N6FRG-2,NCA2-1:`1^=l Jk/]"3r}
+in: 'AFSK1200: fm KG6OWS-7 to S7TPYT-0 via KG6DGZ-1,WIDE1-0,NCA2-0 UIv pid=F0'
+in: '`1^=l Jk/]"3r}'
+APRS: KG6OWS-7>S7TPYT-0,KG6DGZ-1,WIDE1-0,NCA2-0:`1^=l Jk/]"3r}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N6FRG-2 to BEACON-0 via APN391-0 UI  pid=F0'
+in: '!3801.10N112035.20W#W1 FILL-IN DIGI FOWLER PEAK Calaveras'
+APRS: N6FRG-2>BEACON-0,APN391-0:!3801.10N112035.20W#W1 FILL-IN DIGI
+FOWLER PEAK Calaveras
+in: 'AFSK1200: fm N6FRG-2 to APN391-0 UI  pid=F0'
+in: ';145.17XCA*172008z3801.10N/12035.20Wr145.17- T100 Net Mo1930  OPEN/EMCOMM'
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via W6CO-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/222703h3804.22N/12232.12W>041/015/N6WEY Mobile/A=000043'
+APRS: N6WEY-9>APTT4-0,W6CO-5,WARD-0,WIDE2-0:/222703h3804.22N/12232.12W>041/015/N6WEY
+Mobile/A=000043
+in: 'AFSK1200: fm N6TZF-9 to SWSWVV-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`28^o 0>/"53}'
+APRS: N6TZF-9>SWSWVV-0,WA6TOW-2,WARD-0,WIDE2-0:`28^o 0>/"53}
+in: 'AFSK1200: fm K6TUO-3 to APN382-0 via NCA1-1 UI  pid=F0'
+in: '!3801.86NN12021.03W#PHG5828/A=003738/Telegraph Hill,Sonora.'
+APRS: K6TUO-3>APN382-0,NCA1-1:!3801.86NN12021.03W#PHG5828/A=003738/Telegraph
+Hill,Sonora.
+in: 'AFSK1200: fm N6TZF-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) or 146.52(s)'
+APRS: N6TZF-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) or 146.52(s)
+in: 'AFSK1200: fm N6TZF-9 to SWSWXY-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`28Xo7J>/"5T}'
+APRS: N6TZF-9>SWSWXY-0,WA6TOW-2,WARD-0,WIDE2-0:`28Xo7J>/"5T}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm N6TZF-9 to SWSWYY-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`28YoR8>/"5^}'
+APRS: N6TZF-9>SWSWYY-0,WA6TOW-2,WARD-0,WIDE2-0:`28YoR8>/"5^}
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '!3826.48N/12004.29W_203/000g005t047P000h34b10231OU2k'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WIDE2-2:!3826.48N/12004.29W_203/000g005t047P000h34b10231OU2k
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ';TFCWCREEK*122228z3754.20N\12202.15W?81 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WARD-0,WIDE2-0:;TFCWCREEK*122228z3754.20N\12202.15W?81
+In 10 Minutes
+in: 'AFSK1200: fm W6MSU-8 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '<IGATE,MSG_CNT=38,LOC_CNT=71'
+APRS: W6MSU-8>APJI23-0,NCA1-0:<IGATE,MSG_CNT=38,LOC_CNT=71
+in: 'AFSK1200: fm W6MSU-8 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '>javAPRSIGate'
+APRS: W6MSU-8>APJI23-0,NCA1-0:>javAPRSIGate
+in: 'AFSK1200: fm TOULON-0 to TPPTPX-0 via
+COREY-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: ''.G]l .#/"Ji}'
+APRS: TOULON-0>TPPTPX-0,COREY-0,WIDE1-0,WARD-0,WIDE2-0:'.G]l .#/"Ji}
+in: 'AFSK1200: fm WB6RUU-9 to S8SRWS-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1G[r"K>/"4&}'
+APRS: WB6RUU-9>S8SRWS-0,W6CX-3,WARD-0,WIDE2-0:`1G[r"K>/"4&}
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm K6MZ-1 to APOT21-0 via WARD-0,WIDE2-1 UI  pid=F0'
+in: '!3825.99N/12149.86W-'
+APRS: K6MZ-1>APOT21-0,WARD-0,WIDE2-1:!3825.99N/12149.86W-
+in: 'AFSK1200: fm KC6SSM-9 to APTT4-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3731.34N/12158.24W>270/025/KC6SSM Mobile/A=000030'
+APRS: KC6SSM-9>APTT4-0,WA6TOW-2,WARD-0,WIDE2-0:!3731.34N/12158.24W>270/025/KC6SSM
+Mobile/A=000030
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,W6CX-3,WARD-0,WIDE2-0:>MT-RTG-W6GUN
+in: 'AFSK1200: fm N6ZFJ-1 to APT312-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3721.67N/12200.99W>338/000/A=000108/'
+APRS: N6ZFJ-1>APT312-0,WA6TOW-2,WARD-0,WIDE2-0:!3721.67N/12200.99W>338/000/A=000108/
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JWl Wk/]"4q}
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl .R/"3y}'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl .R/"3y}
+in: 'AFSK1200: fm K7DCN-0 to S8TVQP-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1O p{Dk/"4!}5th Wheel'
+APRS: K7DCN-0>S8TVQP-0,K6FGA-1,WARD-0,WIDE2-0:`1O p{Dk/"4!}5th Wheel
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,K6FGA-1,WARD-0,WIDE2-0:>ARES DEC  tt3+
+in: 'AFSK1200: fm N6TZE-9 to SWSTYR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29(l"F>/'"4,}|4'
+APRS: N6TZE-9>SWSTYR-0,WA6TOW-2,WARD-0,WIDE2-0:`29(l"F>/'"4,}|4
+in: 'AFSK1200: fm WB6RUU-9 to S8SPQV-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1K<r"0>/"4,}'
+APRS: WB6RUU-9>S8SPQV-0,K6FGA-1,WARD-0,WIDE2-0:`1K<r"0>/"4,}
+in: 'AFSK1200: fm WA6VPJ-14 to APT311-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!3833.79N/12120.38Wk000/000/A=000036'
+APRS: WA6VPJ-14>APT311-0,K6CDF-8,K6TUO-3,WIDE2-0:!3833.79N/12120.38Wk000/000/A=000036
+in: 'AFSK1200: fm WARD-0 to UIDIGI-0 UI^ pid=F0'
+in: 'UIDIGI 1.9'
+in: 'AFSK1200: fm W6TUI-0 to SV4VRP-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/JWl Wk/]"4q}'
+APRS: W6TUI-0>SV4VRP-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/JWl Wk/]"4q}
+
+
+
+in: 'AFSK1200: fm WARD-0 to APNU19-0 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, WA6TLW, Ward Pk, CA A=008637'
+in: 'AFSK1200: fm K7DCN-0 to S8TTXU-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`1Mep{Dk/"4#}5th Wheel'
+APRS: K7DCN-0>S8TTXU-0,K6CDF-8,K6TUO-3,WIDE2-0:`1Mep{Dk/"4#}5th Wheel
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>223324zwww.siamsq.net '
+APRS: K6XOX-9>APHH2-0,W6CX-3,WARD-0,WIDE2-0:>223324zwww.siamsq.net
+in: 'AFSK1200: fm WB6RUU-9 to S8RYTT-0 via K6FGA-1,WIDE2-1 UI  pid=F0'
+in: '`1L&qh1>/"4+}'
+APRS: WB6RUU-9>S8RYTT-0,K6FGA-1,WIDE2-1:`1L&qh1>/"4+}
+in: 'AFSK1200: fm COREY-0 to APNU19-0 via WARD-0,WIDE1-0 UI^ pid=F0'
+in: '!3827.43NS11845.90W#PHG9800/W3,NVn, Info:  w7xz@arrl.net  A=010250'
+APRS: COREY-0>APNU19-0,WARD-0,WIDE1-0:!3827.43NS11845.90W#PHG9800/W3,NVn,
+Info:  w7xz@arrl.net  A=010250
+in: 'AFSK1200: fm WARD-0 to APNU19-0 via WIDE2-2 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, Ward Peak, CA A=008637'
+APRS: WARD-0>APNU19-0,WIDE2-2:!3908.88NS12014.80W#PHG9700/W2,NCAn,
+Ward Peak, CA A=008637
+in: 'AFSK1200: fm K6IIP-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: K6IIP-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>TinyTrak3 v1.1
+in: 'AFSK1200: fm KK1EMS-12 to APTT4-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/223603h/:yy./hK;jAB_'
+APRS: KK1EMS-12>APTT4-0,WARD-0,WIDE1-0,WIDE2-1:/223603h/:yy./hK;jAB_
+in: 'AFSK1200: fm KK1EMS-12 to APTT4-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/223612h/:yyi/hLfj5C_'
+APRS: KK1EMS-12>APTT4-0,WARD-0,WIDE1-0,WIDE2-1:/223612h/:yyi/hLfj5C_
+in: 'AFSK1200: fm WB6RUU-9 to S8RXPW-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Moq|5>/"4*}'
+APRS: WB6RUU-9>S8RXPW-0,K6FGA-1,WARD-0,WIDE2-0:`1Moq|5>/"4*}
+in: 'AFSK1200: fm TOULON-0 to APPT4-0 via
+COREY-0,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>W7TA Lovelock 146.925- PL100'
+APRS: TOULON-0>APPT4-0,COREY-0,WIDE1-0,WARD-0,WIDE2-0:>W7TA Lovelock
+146.925- PL100
+in: 'AFSK1200: fm N6MEF-9 to SWRVRS-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1P9l!4>/]"4<}='
+APRS: N6MEF-9>SWRVRS-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`1P9l!4>/]"4<}=
+
+
+in: 'AFSK1200: fm WB6RUU-9 to S8RWSY-0 via K6FGA-1,WIDE2-1 UI  pid=F0'
+in: '`1Ncqh5>/"4*}'
+APRS: WB6RUU-9>S8RWSY-0,K6FGA-1,WIDE2-1:`1Ncqh5>/"4*}
+in: 'AFSK1200: fm WB6RUU-9 to S8RWSY-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Ncqh5>/"4*}'
+APRS: WB6RUU-9>S8RWSY-0,K6FGA-1,WARD-0,WIDE2-0:`1Ncqh5>/"4*}
+in: 'AFSK1200: fm N6TLW-9 to SW2WRV-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`0?-l!Ik/"4<}'
+APRS: N6TLW-9>SW2WRV-0,N6FRG-2,WIDE2-1:`0?-l!Ik/"4<}
+in: 'AFSK1200: fm N6TLW-9 to SW2WRV-0 via N6FRG-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`0?-l!Ik/"4<}'
+APRS: N6TLW-9>SW2WRV-0,N6FRG-2,WARD-0,WIDE2-0:`0?-l!Ik/"4<}
+in: 'AFSK1200: fm ELIBOM-0 to SWRVVQ-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2&~mJq//"4:}'
+APRS: ELIBOM-0>SWRVVQ-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2&~mJq//"4:}
+in: 'AFSK1200: fm K7DCN-0 to S8TRSS-0 via K6FGA-1,WIDE2-1 UI  pid=F0'
+in: '`1K1p{Dk/"3{}5th Wheel'
+APRS: K7DCN-0>S8TRSS-0,K6FGA-1,WIDE2-1:`1K1p{Dk/"3{}5th Wheel
+in: 'AFSK1200: fm TOULON-0 to TPPTPX-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: ''.G]l .#/"Ji}'
+APRS: TOULON-0>TPPTPX-0,SNOW-0,WARD-0,WIDE2-0:'.G]l .#/"Ji}
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via K6FGA-1,WIDE2-1 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,K6FGA-1,WIDE2-1:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via N6FRG-2,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,N6FRG-2,K6TUO-3,WIDE2-0:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm W6GUN-9 to SX1PQX-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`1B@l^n>/"3b}'
+APRS: W6GUN-9>SX1PQX-0,N6FRG-2,WIDE2-1:`1B@l^n>/"3b}
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,N6FRG-2,WIDE2-1:>MT-RTG-W6GUN
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via N6FRG-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,N6FRG-2,WARD-0,WIDE2-0:>MT-RTG-W6GUN
+in: 'AFSK1200: fm KC6UDS-9 to APOTC1-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '>kc6uds@gmail.com'
+APRS: KC6UDS-9>APOTC1-0,WARD-0,WIDE1-0,WIDE2-1:>kc6uds@gmail.com
+in: 'AFSK1200: fm K7DCN-0 to S8TQYS-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`1JZpq#k/"4+}5th Wheel'
+APRS: K7DCN-0>S8TQYS-0,WARD-0,WIDE1-0,WIDE2-1:`1JZpq#k/"4+}5th Wheel
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ';TFCWCREEK*122238z3754.20N\12202.15W?97 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WARD-0,WIDE2-0:;TFCWCREEK*122238z3754.20N\12202.15W?97
+In 10 Minutes
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via N6FRG-2,WIDE2-1 UIv pid=F0'
+in: '`1X,l!Ck/]"8D}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,N6FRG-2,WIDE2-1:`1X,l!Ck/]"8D}146.460MHz=
+in: 'AFSK1200: fm WB6RUU-9 to S8RVPS-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1PJq|6>/"4)}'
+APRS: WB6RUU-9>S8RVPS-0,K6FGA-1,WARD-0,WIDE2-0:`1PJq|6>/"4)}
+in: 'AFSK1200: fm K0MRC-14 to SY3RPX-0 via SNOW-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/H#l Yu/]"BP}Where is Mikey going today? '
+APRS: K0MRC-14>SY3RPX-0,SNOW-0,WARD-0,WIDE2-0:`/H#l Yu/]"BP}Where is
+Mikey going today?
+in: 'AFSK1200: fm N6MEF-9 to SWRVPW-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1O~l"z>/]"4P}='
+APRS: N6MEF-9>SWRVPW-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`1O~l"z>/]"4P}=
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '$GPRMC,224010,A,3838.0064,N,12130.3353,W,000.0,159.9,120211,015.6,E*63'
+APRS: KE6FRA-9>GPSMV-0,WARD-0,WIDE1-0,WIDE2-1:$GPRMC,224010,A,3838.0064,N,12130.3353,W,000.0,159.9,120211,015.6,E*63
+in: '.AFSK1200: fm WB6RUU-9 to APT311-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,W6CX-3,WARD-0,WIDE2-0:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,N6FRG-2,WIDE2-1:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm W6TUI-0 to SV4VQX-0 via
+NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`/JQlRuk/]"4n}'
+APRS: W6TUI-0>SV4VQX-0,NI6M-2,DEADWD-0,KG6DGZ-1,WARD-0,WIDE2-0:`/JQlRuk/]"4n}
+in: 'AFSK1200: fm N6MEF-9 to SWRVRV-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1PKl"R>/]"49}='
+APRS: N6MEF-9>SWRVRV-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`1PKl"R>/]"49}=
+in: 'AFSK1200: fm SLIDE-0 to APNU19-0 via WARD-0,WIDE1-0 UI^ pid=F0'
+in: '!3918.76NS11953.03W#PHG7831/W3,NVn, Info:  w7xz@arrl.net   A=009700'
+APRS: SLIDE-0>APNU19-0,WARD-0,WIDE1-0:!3918.76NS11953.03W#PHG7831/W3,NVn,
+Info:  w7xz@arrl.net   A=009700
+in: 'AFSK1200: fm N6QGV-5 to SXQWTZ-0 via WARD-0,WIDE2-1 UIv pid=F0'
+in: ''2ZEn@Jj/]"4*}Kevin's Truck Fairfield.Ca'
+APRS: N6QGV-5>SXQWTZ-0,WARD-0,WIDE2-1:'2ZEn@Jj/]"4*}Kevin's Truck Fairfield.Ca
+in: 'AFSK1200: fm WB6RUU-9 to S8RTVS-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`1R:q^6>/"4)}'
+APRS: WB6RUU-9>S8RTVS-0,N6FRG-2,WIDE2-1:`1R:q^6>/"4)}
+in: 'AFSK1200: fm K6YUU-4 to APOT21-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!/;U$`/Z'rb\>G 12.7V '
+APRS: K6YUU-4>APOT21-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:!/;U$`/Z'rb\>G 12.7V
+in: 'AFSK1200: fm N6MEF-9 to SWRVQP-0 via N6ZX-3,WIDE1-0,K6ARC-2 UIv pid=F0'
+in: '`1Q3l"R>/]"3z}='
+APRS: N6MEF-9>SWRVQP-0,N6ZX-3,WIDE1-0,K6ARC-2:`1Q3l"R>/]"3z}=
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYV-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl .R/"4,}'
+APRS: KI6JTP-1>SXRVYV-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl .R/"4,}
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via K6ARC-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '$GPRMC,224240,A,3838.0039,N,12130.3364,W,000.0,159.9,120211,015.6,E*68'
+APRS: KE6FRA-9>GPSMV-0,K6ARC-2,WARD-0,WIDE2-0:$GPRMC,224240,A,3838.0039,N,12130.3364,W,000.0,159.9,120211,015.6,E*68
+in: '.AFSK1200: fm N6TZE-9 to SWSTYR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29(l"F>/'"4,}146.925(-) 114.8 |4'
+APRS: N6TZE-9>SWSTYR-0,WA6TOW-2,WARD-0,WIDE2-0:`29(l"F>/'"4,}146.925(-) 114.8 |4
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '>kg6ppd(at)nhunt(dot)org 13.4V 13C'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WIDE2-2:>kg6ppd(at)nhunt(dot)org 13.4V 13C
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>kg6ppd(at)nhunt(dot)org 13.4V 13C'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WARD-0,WIDE2-1:>kg6ppd(at)nhunt(dot)org
+13.4V 13C
+in: 'AFSK1200: fm K6XOX-0 to SW2RVS-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1WZl?i>/'
+APRS: K6XOX-0>SW2RVS-0,W6CX-3,WARD-0,WIDE2-0:`1WZl?i>/
+in: 'AFSK1200: fm RANCHO-0 to APN391-0 UI  pid=F0'
+in: '!3843.52N112038.40W#PHG2560/NCAn,TEMPn/AG6AU/Rancho del
+Sol,Camino,CA/A=003400'
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3835.95N/12129.66W_337/001g003t073r861OD1w'
+APRS: WA6USI-0>APOT01-0,K6FGA-1,WARD-0,WIDE2-0:!3835.95N/12129.66W_337/001g003t073r861OD1w
+in: 'AFSK1200: fm N6MEF-9 to SWRVPP-0 via WA6TOW-2,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1Q\l"R>/]"3b}='
+APRS: N6MEF-9>SWRVPP-0,WA6TOW-2,WARD-0,WIDE2-0:`1Q\l"R>/]"3b}=
+in: 'AFSK1200: fm K7DCN-0 to S8TPTQ-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1F<pzvk/"3y}5th Wheel'
+APRS: K7DCN-0>S8TPTQ-0,K6FGA-1,WARD-0,WIDE2-0:`1F<pzvk/"3y}5th Wheel
+in: 'AFSK1200: fm N6MEF-9 to SWRUYW-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1Qnl"R>/]"3c}='
+APRS: N6MEF-9>SWRUYW-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`1Qnl"R>/]"3c}=
+in: 'AFSK1200: fm WARD-0 to APNU19-0 UI^ pid=F0'
+in: '!3908.88NS12014.80W#PHG9700/W2,NCAn, WA6TLW, Ward Pk, CA A=008637'
+in: 'AFSK1200: fm W6AI-9 to APT310-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3913.08N/12100.55Wu000/000/A=002985'
+APRS: W6AI-9>APT310-0,K6FGA-1,WARD-0,WIDE2-0:!3913.08N/12100.55Wu000/000/A=002985
+in: 'AFSK1200: fm AE6LA-0 to APU25N-0 via N6FRG-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>121444zae6la@aol.com CM98tf Ken in Arnold using UI-View32 V2.03'
+APRS: AE6LA-0>APU25N-0,N6FRG-2,WARD-0,WIDE2-0:>121444zae6la@aol.com
+CM98tf Ken in Arnold using UI-View32 V2.03
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>Echolink442550pl110'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>Echolink442550pl110
+in: 'AFSK1200: fm N6MEF-9 to SWRUXS-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UIv pid=F0'
+in: '`1ROl"6>/]"3h}='
+APRS: N6MEF-9>SWRUXS-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`1ROl"6>/]"3h}=
+in: 'AFSK1200: fm AE6LA-0 to APU25N-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '<IGATE,MSG_CNT=0,LOC_CNT=30'
+APRS: AE6LA-0>APU25N-0,N6FRG-2,WIDE2-1:<IGATE,MSG_CNT=0,LOC_CNT=30
+in: 'AFSK1200: fm AE6LA-0 to APU25N-0 via N6FRG-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '<IGATE,MSG_CNT=0,LOC_CNT=30'
+APRS: AE6LA-0>APU25N-0,N6FRG-2,WARD-0,WIDE2-0:<IGATE,MSG_CNT=0,LOC_CNT=30
+in: 'AFSK1200: fm K6XOX-0 to SW2RQR-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Wknqi>/http://blog.siamsq.net'
+APRS: K6XOX-0>SW2RQR-0,W6CX-3,WARD-0,WIDE2-0:`1Wknqi>/http://blog.siamsq.net
+in: 'AFSK1200: fm W7NIK-1 to APT311-0 via SNOW-0,WARD-0,WIDE2-1 UI  pid=F0'
+in: '>TinyTrak3 v1.1'
+APRS: W7NIK-1>APT311-0,SNOW-0,WARD-0,WIDE2-1:>TinyTrak3 v1.1
+in: 'AFSK1200: fm WB6RUU-9 to S8RQXT-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`1Uwq|;>/"4;}'
+APRS: WB6RUU-9>S8RQXT-0,N6FRG-2,WIDE2-1:`1Uwq|;>/"4;}
+in: 'AFSK1200: fm WB6RUU-9 to S8RQXT-0 via N6FRG-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Uwq|;>/"4;}'
+APRS: WB6RUU-9>S8RQXT-0,N6FRG-2,WARD-0,WIDE2-0:`1Uwq|;>/"4;}
+in: 'AFSK1200: fm K7DCN-0 to S8TPTP-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`1D7pzvk/"4,}5th Wheel'
+APRS: K7DCN-0>S8TPTP-0,WARD-0,WIDE1-0,WIDE2-1:`1D7pzvk/"4,}5th Wheel
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,N6FRG-2,WIDE2-1:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl .R/"3E}'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl .R/"3E}
+in: 'AFSK1200: fm KD6NIG-8 to SWUUWU-0 via W6CO-5,N6ZX-3,K6ARC-2 UI  pid=F0'
+in: '`1-?m dv/"3\}'
+APRS: KD6NIG-8>SWUUWU-0,W6CO-5,N6ZX-3,K6ARC-2:`1-?m dv/"3\}
+in: 'AFSK1200: fm WM7D-0 to APX200-0 via SNOW-0,WARD-0,WIDE2-1 UIv pid=F0'
+in: '=/:QXk05`b#{6CReno, NV'
+APRS: WM7D-0>APX200-0,SNOW-0,WARD-0,WIDE2-1:=/:QXk05`b#{6CReno, NV
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,W6CX-3,WARD-0,WIDE2-0:>MT-RTG-W6GUN
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,N6FRG-2,WIDE2-1:>MT-RTG-W6GUN
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '$GPRMC,224740,A,3838.0072,N,12130.3351,W,000.0,159.9,120211,015.6,E*64'
+APRS: KE6FRA-9>GPSMV-0,K6FGA-1,WARD-0,WIDE2-0:$GPRMC,224740,A,3838.0072,N,12130.3351,W,000.0,159.9,120211,015.6,E*64
+in: '.AFSK1200: fm W6GUN-9 to SX1PRW-0 via W6CO-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1BUm#S>/"3v}'
+APRS: W6GUN-9>SX1PRW-0,W6CO-5,WARD-0,WIDE2-0:`1BUm#S>/"3v}
+in: 'AFSK1200: fm W6GUN-9 to SX1PRW-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`1BUm#S>/"3v}'
+APRS: W6GUN-9>SX1PRW-0,N6FRG-2,WIDE2-1:`1BUm#S>/"3v}
+in: 'AFSK1200: fm W6GUN-9 to SX1PRX-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1BTm*R>/"3u}'
+APRS: W6GUN-9>SX1PRX-0,W6CX-3,WARD-0,WIDE2-0:`1BTm*R>/"3u}
+in: 'AFSK1200: fm KC6SSM-9 to APTT4-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3739.25N/12205.34W>330/016/KC6SSM Mobile/A=000082'
+APRS: KC6SSM-9>APTT4-0,W6CX-3,WARD-0,WIDE2-0:!3739.25N/12205.34W>330/016/KC6SSM
+Mobile/A=000082
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via K6ARC-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>Richards & N 5th Street Sacramento 13.4V 28C'
+APRS: WA6USI-0>APOT01-0,K6ARC-2,WARD-0,WIDE2-0:>Richards & N 5th
+Street Sacramento 13.4V 28C
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ';TFCWCREEK*122248z3754.20N\12202.15W?81 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WARD-0,WIDE2-0:;TFCWCREEK*122248z3754.20N\12202.15W?81
+In 10 Minutes
+in: 'AFSK1200: fm W6MSU-8 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '!3754.30NI12114.52W&javAPRSIgate - San Joaquin RACES'
+APRS: W6MSU-8>APJI23-0,NCA1-0:!3754.30NI12114.52W&javAPRSIgate - San
+Joaquin RACES
+in: 'AFSK1200: fm K6XOX-0 to SW2PPQ-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Wfp!k>/http://blog.siamsq.net'
+APRS: K6XOX-0>SW2PPQ-0,W6CX-3,WARD-0,WIDE2-0:`1Wfp!k>/http://blog.siamsq.net
+in: 'AFSK1200: fm W6GUN-9 to APT311-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>MT-RTG-W6GUN'
+APRS: W6GUN-9>APT311-0,W6CX-3,WARD-0,WIDE2-0:>MT-RTG-W6GUN
+in: 'AFSK1200: fm N6WKZ-3 to APU25N-0 via WA6TOW-2,WARD-0,WIDE2-0 UI^ pid=F0'
+in: '=3746.42N112226.00W# {UIV32N}'
+APRS: N6WKZ-3>APU25N-0,WA6TOW-2,WARD-0,WIDE2-0:=3746.42N112226.00W# {UIV32N}
+in: 'AFSK1200: fm K7DCN-0 to S8TPRW-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`1@(pz~k/"41}5th Wheel'
+APRS: K7DCN-0>S8TPRW-0,WARD-0,WIDE1-0,WIDE2-1:`1@(pz~k/"41}5th Wheel
+in: 'AFSK1200: fm WB6RUU-9 to S8QYQV-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`2Yer@+>/"4k}'
+APRS: WB6RUU-9>S8QYQV-0,N6FRG-2,WIDE2-1:`2Yer@+>/"4k}
+in: 'AFSK1200: fm KE6LQJ-1 to 3Y0XPU-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1@kl">F/"3x}A Great Escape'
+APRS: KE6LQJ-1>3Y0XPU-0,K6FGA-1,WARD-0,WIDE2-0:`1@kl">F/"3x}A Great Escape
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,K6FGA-1,WARD-0,WIDE2-0:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm WB6RUU-9 to S8QXSX-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`2Z rSn>/"4K}'
+APRS: WB6RUU-9>S8QXSX-0,N6FRG-2,WIDE2-1:`2Z rSn>/"4K}
+in: 'AFSK1200: fm N6TLW-9 to SW2WPV-0 via N6FRG-2,WIDE2-1 UI  pid=F0'
+in: '`0?;m6ak/"4S}'
+APRS: N6TLW-9>SW2WPV-0,N6FRG-2,WIDE2-1:`0?;m6ak/"4S}
+in: 'AFSK1200: fm K6JWN-1 to SXRVXU-0 via K6MZ-1,WARD-0,WIDE2-0 UIv pid=F0'
+in: ''1Npl .-/]jim.nessen@gmail.com'
+APRS: K6JWN-1>SXRVXU-0,K6MZ-1,WARD-0,WIDE2-0:'1Npl .-/]jim.nessen@gmail.com
+in: 'AFSK1200: fm KJ6APE-9 to SW5VTR-1 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2\il .>/"4q}sean@kj6ape.com Pleasant Hill, CA'
+APRS: KJ6APE-9>SW5VTR-1,W6CX-3,WARD-0,WIDE2-0:`2\il
+.>/"4q}sean@kj6ape.com Pleasant Hill, CA
+in: 'AFSK1200: fm KD6NIG-8 to SWUUVU-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '`1-]n}?v/"3o}'
+APRS: KD6NIG-8>SWUUVU-0,N6FRG-2,WIDE2-2:`1-]n}?v/"3o}
+in: 'AFSK1200: fm KD6NIG-8 to SWUUVU-0 via N6FRG-2,K6TUO-3,WIDE2-1 UI  pid=F0'
+in: '`1-]n}?v/"3o}'
+APRS: KD6NIG-8>SWUUVU-0,N6FRG-2,K6TUO-3,WIDE2-1:`1-]n}?v/"3o}
+in: 'AFSK1200: fm WB6RUU-9 to S8QVUW-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2Zqq6*>/"46}'
+APRS: WB6RUU-9>S8QVUW-0,W6CX-3,WARD-0,WIDE2-0:`2Zqq6*>/"46}
+
+
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/122252z3859.78N/12202.59Wk332/051/A=000131'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:/122252z3859.78N/12202.59Wk332/051/A=000131
+in: 'AFSK1200: fm W6BXN-3 to APTW01-0 via K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>TARC WX'
+APRS: W6BXN-3>APTW01-0,K6TUO-3,WIDE2-0:>TARC WX
+in: 'AFSK1200: fm N6TZE-9 to SWSTYR-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29(l"F>/'"4,}|4'
+APRS: N6TZE-9>SWSTYR-0,WA6TOW-2,WARD-0,WIDE2-0:`29(l"F>/'"4,}|4
+
+
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '=3718.81N/12158.62Wj191/027'
+APRS: K6XOX-9>APHH2-0,W6CX-3,WARD-0,WIDE2-0:=3718.81N/12158.62Wj191/027
+in: 'AFSK1200: fm KD6NIG-8 to SWUWSR-0 via W6CO-5,WARD-0,WIDE2-1 UI  pid=F0'
+in: '`1.coKCv/"4#}'
+APRS: KD6NIG-8>SWUWSR-0,W6CO-5,WARD-0,WIDE2-1:`1.coKCv/"4#}
+in: 'AFSK1200: fm KD6NIG-8 to SWUWSR-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '`1.coKCv/"4#}'
+APRS: KD6NIG-8>SWUWSR-0,N6FRG-2,WIDE2-2:`1.coKCv/"4#}
+in: 'AFSK1200: fm N6TZF-9 to SWSXTV-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`25=l!8>/"3u}'
+APRS: N6TZF-9>SWSXTV-0,WA6TOW-2,WARD-0,WIDE2-0:`25=l!8>/"3u}
+in: 'AFSK1200: fm N6TZF-9 to APT311-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>146.925(-) or 146.52(s)'
+APRS: N6TZF-9>APT311-0,WA6TOW-2,WARD-0,WIDE2-0:>146.925(-) or 146.52(s)
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via N6ZX-3,WIDE1-0,WARD-0,WIDE2-0
+UI  pid=F0'
+in: '/225447h3755.92N/12223.90W>073/055/N6WEY Mobile/A=000069'
+APRS: N6WEY-9>APTT4-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:/225447h3755.92N/12223.90W>073/055/N6WEY
+Mobile/A=000069
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '/122254z3901.30N/12203.69Wk338/055/A=000134'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:/122254z3901.30N/12203.69Wk338/055/A=000134
+in: 'AFSK1200: fm KE6FRA-9 to GPSMV-0 via RANCHO-0,WIDE2-1 UI  pid=F0'
+in: '$GPRMC,225510,A,3838.4480,N,12128.2065,W,055.2,081.8,120211,015.6,E*64'
+APRS: KE6FRA-9>GPSMV-0,RANCHO-0,WIDE2-1:$GPRMC,225510,A,3838.4480,N,12128.2065,W,055.2,081.8,120211,015.6,E*64
+in: '.AFSK1200: fm KE6FRA-9 to GPSMV-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '$GPRMC,225510,A,3838.4480,N,12128.2065,W,055.2,081.8,120211,015.6,E*64'
+APRS: KE6FRA-9>GPSMV-0,WARD-0,WIDE1-0,WIDE2-1:$GPRMC,225510,A,3838.4480,N,12128.2065,W,055.2,081.8,120211,015.6,E*64
+in: '.AFSK1200: fm K7DCN-0 to S8SXWU-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`1;_q+Tk/"3Z}5th Wheel'
+APRS: K7DCN-0>S8SXWU-0,WARD-0,WIDE1-0,WIDE2-1:`1;_q+Tk/"3Z}5th Wheel
+in: 'AFSK1200: fm W6TUI-0 to SV4VTR-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/NB"#5k/]"4u}'
+APRS: W6TUI-0>SV4VTR-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/NB"#5k/]"4u}
+in: 'AFSK1200: fm KI6TDB-0 to APT312-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3723.75N/12205.88W*035/000/A=000049'
+APRS: KI6TDB-0>APT312-0,W6CX-3,WARD-0,WIDE2-0:!3723.75N/12205.88W*035/000/A=000049
+in: 'AFSK1200: fm SLIDE-0 to APNU19-0 via NV2-0,WARD-0,WIDE2-1 UI^ pid=F0'
+in: '!3918.76NS11953.03W#PHG7831/W3,NVn, Slide Mtn., NV A=009700'
+APRS: SLIDE-0>APNU19-0,NV2-0,WARD-0,WIDE2-1:!3918.76NS11953.03W#PHG7831/W3,NVn,
+Slide Mtn., NV A=009700
+in: 'AFSK1200: fm KE6KYI-0 to APU25N-0 via K6TUO-3,WIDE2-1 UI^ pid=F0'
+in: ';PINE TREE*080052z3758.69N\12020.05WRTCARES meeting 9:30 AM Sat Feb 19'
+APRS: KE6KYI-0>APU25N-0,K6TUO-3,WIDE2-1:;PINE
+TREE*080052z3758.69N\12020.05WRTCARES meeting 9:30 AM Sat Feb 19
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '=3718.51N/12158.66Wj188/017'
+APRS: K6XOX-9>APHH2-0,W6CX-3,WARD-0,WIDE2-0:=3718.51N/12158.66Wj188/017
+in: 'AFSK1200: fm W6TUI-0 to SV4VYT-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/N{"#.k/]"4u}'
+APRS: W6TUI-0>SV4VYT-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/N{"#.k/]"4u}
+in: 'AFSK1200: fm K7VQU-9 to SWRYRV-0 via
+N6ZX-3,WIDE1-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2*Lms*>/"3v}'
+APRS: K7VQU-9>SWRYRV-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:`2*Lms*>/"3v}
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYV-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl ;R/"3y}'
+APRS: KI6JTP-1>SXRVYV-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl ;R/"3y}
+in: 'AFSK1200: fm N6QGV-5 to SXQVXZ-0 via WARD-0,WIDE2-1 UIv pid=F0'
+in: ''2[*l#5j/]"46}Kevin's Truck Fairfield.Ca'
+APRS: N6QGV-5>SXQVXZ-0,WARD-0,WIDE2-1:'2[*l#5j/]"46}Kevin's Truck Fairfield.Ca
+in: 'AFSK1200: fm K6XOX-9 to APHH2-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '=3718.37N/12158.67Wj101/009'
+APRS: K6XOX-9>APHH2-0,W6CX-3,WARD-0,WIDE2-0:=3718.37N/12158.67Wj101/009
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,WARD-0,WIDE1-0,WIDE2-1:>ARES DEC  tt3+
+in: 'AFSK1200: fm KJ6APE-9 to SW5VTS-1 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2\bl .>/"3*}sean@kj6ape.com Pleasant Hill, CA'
+APRS: KJ6APE-9>SW5VTS-1,W6CX-3,WARD-0,WIDE2-0:`2\bl
+.>/"3*}sean@kj6ape.com Pleasant Hill, CA
+in: 'AFSK1200: fm WB6RUU-9 to S8QSUS-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2_Kqh?>/"4#}'
+APRS: WB6RUU-9>S8QSUS-0,W6CX-3,WARD-0,WIDE2-0:`2_Kqh?>/"4#}
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via N6ZX-3,WIDE1-0,WARD-0,WIDE2-0
+UI  pid=F0'
+in: '/225801h3755.11N/12219.82W>131/064/N6WEY Mobile/A=000023'
+APRS: N6WEY-9>APTT4-0,N6ZX-3,WIDE1-0,WARD-0,WIDE2-0:/225801h3755.11N/12219.82W>131/064/N6WEY
+Mobile/A=000023
+in: 'AFSK1200: fm N6TZE-9 to SWSTYS-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`29'l"|>/'"4Q}146.925(-) 114.8 |4'
+APRS: N6TZE-9>SWSTYS-0,WA6TOW-2,WARD-0,WIDE2-0:`29'l"|>/'"4Q}146.925(-) 114.8 |4
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl )R/"43}MT AIO'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl )R/"43}MT AIO
+in: 'AFSK1200: fm K6XOX-0 to SW1XSU-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1V_l .>/'
+APRS: K6XOX-0>SW1XSU-0,W6CX-3,WARD-0,WIDE2-0:`1V_l .>/
+in: 'AFSK1200: fm W6MSU-7 to APJI23-0 via NCA1-0 UI  pid=F0'
+in: '!3803.21NI12121.62W&javAPRSIgate - ncs050@gmail.com'
+APRS: W6MSU-7>APJI23-0,NCA1-0:!3803.21NI12121.62W&javAPRSIgate -
+ncs050@gmail.com
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122258z3904.40N/12205.64Wk338/051/A=000075'
+APRS: KQ6YH-14>APT311-0,K6FGA-1,WARD-0,WIDE2-0:/122258z3904.40N/12205.64Wk338/051/A=000075
+in: 'AFSK1200: fm K6BMD-9 to APU25N-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ';TFCWCREEK*122258z3754.20N\12202.15W?77 In 10 Minutes'
+APRS: K6BMD-9>APU25N-0,W6CX-3,WARD-0,WIDE2-0:;TFCWCREEK*122258z3754.20N\12202.15W?77
+In 10 Minutes
+in: 'AFSK1200: fm K7DCN-0 to S8SUVR-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '`1:6pqpk/"3y}5th Wheel'
+APRS: K7DCN-0>S8SUVR-0,WARD-0,WIDE1-0,WIDE2-1:`1:6pqpk/"3y}5th Wheel
+in: 'AFSK1200: fm K6SNC-1 to SWRRQS-0 via W6CX-3,WARD-0,WIDE2-0 UIv pid=F0'
+in: ''1URl .o/]'
+APRS: K6SNC-1>SWRRQS-0,W6CX-3,WARD-0,WIDE2-0:'1URl .o/]
+in: 'AFSK1200: fm WA6USI-0 to APOT01-0 via WARD-0,WIDE1-0,WIDE2-1 UI  pid=F0'
+in: '!3835.95N/12129.66W_132/003g006t075r861OD1w'
+APRS: WA6USI-0>APOT01-0,WARD-0,WIDE1-0,WIDE2-1:!3835.95N/12129.66W_132/003g006t075r861OD1w
+in: 'AFSK1200: fm N6WEY-9 to APTT4-0 via WA6TOW-2,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/225936h3753.64N/12218.56W>156/067/N6WEY Mobile/A=000023'
+APRS: N6WEY-9>APTT4-0,WA6TOW-2,WARD-0,WIDE2-0:/225936h3753.64N/12218.56W>156/067/N6WEY
+Mobile/A=000023
+in: 'AFSK1200: fm N6QGV-5 to SXQVXZ-0 via WARD-0,WIDE2-1 UIv pid=F0'
+in: ''2[+l#5j/]"42}Kevin's Truck Fairfield.Ca'
+APRS: N6QGV-5>SXQVXZ-0,WARD-0,WIDE2-1:'2[+l#5j/]"42}Kevin's Truck Fairfield.Ca
+in: 'AFSK1200: fm W6TUI-0 to SV4XVR-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/QFo-*k/]"4h}'
+APRS: W6TUI-0>SV4XVR-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-1:`/QFo-*k/]"4h}
+in: 'AFSK1200: fm WB6RUU-9 to S8QRQX-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2aAq@2>/"4<}'
+APRS: WB6RUU-9>S8QRQX-0,K6FGA-1,WARD-0,WIDE2-0:`2aAq@2>/"4<}
+in: 'AFSK1200: fm K7DCN-0 to S8STXP-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1:=pJ/k/"3j}5th Wheel'
+APRS: K7DCN-0>S8STXP-0,W6CX-3,WARD-0,WIDE2-0:`1:=pJ/k/"3j}5th Wheel
+in: 'AFSK1200: fm AC6ET-8 to APT311-0 via K6CDF-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122300z3901.28N/12245.18Ws047/000/A=001269'
+APRS: AC6ET-8>APT311-0,K6CDF-5,WARD-0,WIDE2-0:/122300z3901.28N/12245.18Ws047/000/A=001269
+in: 'AFSK1200: fm N6ZFJ-1 to APT312-0 via W6CX-3,WARD-0,WIDE2-0 UI  pid=F0'
+in: '!3721.68N/12200.99W>138/000/A=000088'
+APRS: N6ZFJ-1>APT312-0,W6CX-3,WARD-0,WIDE2-0:!3721.68N/12200.99W>138/000/A=000088
+in: 'AFSK1200: fm WB6RUU-9 to S8QQUQ-0 via SNOW-0,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`2&$qJ->/"4m}'
+APRS: WB6RUU-9>S8QQUQ-0,SNOW-0,WARD-0,WIDE2-0:`2&$qJ->/"4m}
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6CDF-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122300z3905.91N/12206.75Wk319/052/A=000101'
+APRS: KQ6YH-14>APT311-0,K6CDF-5,WARD-0,WIDE2-0:/122300z3905.91N/12206.75Wk319/052/A=000101
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6CDF-5,WARD-0,WIDE2-0 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,K6CDF-5,WARD-0,WIDE2-0:>ARES DEC  tt3+
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYW-0 via K6MZ-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '`1Mtl .R/"4$}'
+APRS: KI6JTP-1>SXRVYW-0,K6MZ-1,WARD-0,WIDE2-0:`1Mtl .R/"4$}
+in: 'AFSK1200: fm K6JWN-1 to SXRVXU-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: ''1Npl .-/]jim.nessen@gmail.com'
+APRS: K6JWN-1>SXRVXU-0,WARD-0,WIDE1-0,WIDE2-1:'1Npl .-/]jim.nessen@gmail.com
+in: 'AFSK1200: fm N0ARY-4 to APT312-0 via
+N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!3722.98N/12159.77W>074/000/A=000026'
+APRS: N0ARY-4>APT312-0,N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0:!3722.98N/12159.77W>074/000/A=000026
+in: 'AFSK1200: fm AE6PS-0 to APOT21-0 via
+N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '!/;`2$/d"gk st 13.7V  69F '
+APRS: AE6PS-0>APOT21-0,N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0:!/;`2$/d"gk st 13.7V  69F
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6FGA-1,WARD-0,WIDE2-0 UI  pid=F0'
+in: '/122302z3907.54N/12207.73Wk321/053/A=000095'
+APRS: KQ6YH-14>APT311-0,K6FGA-1,WARD-0,WIDE2-0:/122302z3907.54N/12207.73Wk321/053/A=000095
+in: 'AFSK1200: fm WA6NHC-1 to SXTQZZ-0 via WARD-0,WIDE1-0,WIDE2-1 UIv pid=F0'
+in: '`1X-l 8k/]"8H}146.460MHz='
+APRS: WA6NHC-1>SXTQZZ-0,WARD-0,WIDE1-0,WIDE2-1:`1X-l 8k/]"8H}146.460MHz=
+in: 'AFSK1200: fm K2WAC-9 to S7UYTV-0 via RANCHO-0,WIDE2-1 UIv pid=F0'
+in: '`1Q.l]=k/]"4c}147.060MHzDodge 2500 cummins silver='
+APRS: K2WAC-9>S7UYTV-0,RANCHO-0,WIDE2-1:`1Q.l]=k/]"4c}147.060MHzDodge
+2500 cummins silver=
+in: 'AFSK1200: fm K2WAC-9 to S7UYWT-0 via N6FRG-2,WIDE2-1 UIv pid=F0'
+in: '`1P}n_$k/]"4H}147.060MHzDodge 2500 cummins silver='
+APRS: K2WAC-9>S7UYWT-0,N6FRG-2,WIDE2-1:`1P}n_$k/]"4H}147.060MHzDodge
+2500 cummins silver=
+
+
+in: 'AFSK1200: fm KE6TE-9 to 3XLZZZ-0 via RELAY-0,WIDE-0 UIv pid=F0'
+in: ''13Gl .-/>'
+APRS: KE6TE-9>3XLZZZ-0,RELAY-0,WIDE-0:'13Gl .-/>
+in: 'AFSK1200: fm K7VQU-9 to SWSPPQ-0 via
+N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`2+.l#O>/"3t}Mark's LandCruiser'
+APRS: K7VQU-9>SWSPPQ-0,N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0:`2+.l#O>/"3t}Mark's
+LandCruiser
+in: 'AFSK1200: fm WX6HNX-9 to APRS-0 via K6TUO-3 UI  pid=F0'
+in: '@121710z3702.93N/12111.43W_000/000g002t062r000p000P000h48b10212.DsVP'
+APRS: WX6HNX-9>APRS-0,K6TUO-3:@121710z3702.93N/12111.43W_000/000g002t062r000p000P000h48b10212.DsVP
+in: '.AFSK1200: fm WX6HNX-9 to APRS-0 via N6FRG-2 UI  pid=F0'
+in: '@121710z3702.93N/12111.43W_000/000g002t062r000p000P000h48b10212.DsVP'
+APRS: WX6HNX-9>APRS-0,N6FRG-2:@121710z3702.93N/12111.43W_000/000g002t062r000p000P000h48b10212.DsVP
+in: '.AFSK1200: fm W6TUI-0 to SV4XXT-0 via DEADWD-0,WIDE2-1 UIv pid=F0'
+in: '`/S5l .k/]"4\}'
+APRS: W6TUI-0>SV4XXT-0,DEADWD-0,WIDE2-1:`/S5l .k/]"4\}
+in: 'AFSK1200: fm KF6FCY-0 to SXUWYW-0 via
+WARD-0,WIDE1-0,KG6DGZ-1,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`03.l!hj/]"F0}El Dorado County SAR #259'
+APRS: KF6FCY-0>SXUWYW-0,WARD-0,WIDE1-0,KG6DGZ-1,K6TUO-3,WIDE2-0:`03.l!hj/]"F0}El
+Dorado County SAR #259
+in: 'AFSK1200: fm WA6YLB-7 to APN382-0 via W6BXN-3,WIDE2-0 UI  pid=F0'
+in: '!3630.92NS11912.68W#PHG5636 Stokes Mtn /A=001866/'
+APRS: WA6YLB-7>APN382-0,W6BXN-3,WIDE2-0:!3630.92NS11912.68W#PHG5636
+Stokes Mtn /A=001866/
+in: 'AFSK1200: fm KI6JTP-1 to SXRVYV-0 via K6MZ-1,K6FGA-1,WIDE2-0 UI  pid=F0'
+in: '`1Mtl!;R/"3Q}'
+APRS: KI6JTP-1>SXRVYV-0,K6MZ-1,K6FGA-1,WIDE2-0:`1Mtl!;R/"3Q}
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWX-0 via DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CXl 6>/"4]}'
+APRS: KD6DRU-7>S6RPWX-0,DEADWD-0,K6TUO-3,WIDE2-0:`/CXl 6>/"4]}
+in: 'AFSK1200: fm N6FRG-2 to APN391-0 UI  pid=F0'
+in: ';145.17XCA*172008z3801.10N/12035.20Wr145.17- T100 Net Mo1930  OPEN/EMCOMM'
+
+
+
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6FGA-1,WIDE2-1 UI  pid=F0'
+in: '/122312z3909.15N/12214.49Wk241/047/A=000141'
+APRS: KQ6YH-14>APT311-0,K6FGA-1,WIDE2-1:/122312z3909.15N/12214.49Wk241/047/A=000141
+in: 'AFSK1200: fm W2QGA-5 to SWRPTR-0 via
+N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`2Xul `Y\>APRS practice ... name is Bill='
+APRS: W2QGA-5>SWRPTR-0,N6ZX-3,WIDE1-0,K6TUO-3,WIDE2-0:`2Xul `Y\>APRS
+practice ... name is Bill=
+in: 'AFSK1200: fm K7DCN-0 to S8STQY-0 via K6CDF-8,WIDE2-1 UI  pid=F0'
+in: '`1/^pzUk/"4)}5th Wheel'
+APRS: K7DCN-0>S8STQY-0,K6CDF-8,WIDE2-1:`1/^pzUk/"4)}5th Wheel
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,K6CDF-8,K6TUO-3,WIDE2-0:>ARES DEC  tt3+
+in: 'AFSK1200: fm KE6LQJ-1 to 3Y0XPV-0 via K6CDF-8,WIDE2-1 UI  pid=F0'
+in: '`1@jl\]F/"3y}'
+APRS: KE6LQJ-1>3Y0XPV-0,K6CDF-8,WIDE2-1:`1@jl\]F/"3y}
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '>kg6ppd(at)nhunt(dot)org 13.4V 13C'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WIDE2-2:>kg6ppd(at)nhunt(dot)org 13.4V 13C
+in: 'AFSK1200: fm KG6PPD-9 to APOT01-0 via N6FRG-2,WIDE2-2 UI  pid=F0'
+in: '!3826.48N/12004.29W_196/000g005t048P000h36b10225OU2k'
+APRS: KG6PPD-9>APOT01-0,N6FRG-2,WIDE2-2:!3826.48N/12004.29W_196/000g005t048P000h36b10225OU2k
+in: 'AFSK1200: fm KE6TE-9 to 3XLZZZ-0 via RELAY-0,WIDE-0 UIv pid=F0'
+in: ''13Gl .-/>'
+APRS: KE6TE-9>3XLZZZ-0,RELAY-0,WIDE-0:'13Gl .-/>
+in: 'AFSK1200: fm KQ6YH-14 to APT311-0 via K6CDF-8,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '>ARES DEC  tt3+'
+APRS: KQ6YH-14>APT311-0,K6CDF-8,K6TUO-3,WIDE2-0:>ARES DEC  tt3+
+in: 'AFSK1200: fm WX6HNX-9 to APRS-0 via K6TUO-3 UI  pid=F0'
+in: '@121715z3702.93N/12111.43W_000/000g002t063r000p000P000h49b10211.DsVP'
+APRS: WX6HNX-9>APRS-0,K6TUO-3:@121715z3702.93N/12111.43W_000/000g002t063r000p000P000h49b10211.DsVP
+in: '.AFSK1200: fm W6TUI-0 to SV4XXT-0 via
+DEADWD-0,KG6DGZ-1,K6TUO-3,WIDE2-0 UIv pid=F0'
+in: '`/S5l .k/]"4\}'
+APRS: W6TUI-0>SV4XXT-0,DEADWD-0,KG6DGZ-1,K6TUO-3,WIDE2-0:`/S5l .k/]"4\}
+in: 'AFSK1200: fm KD6DRU-7 to S6RPWX-0 via
+NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0 UI  pid=F0'
+in: '`/CXl 6>/"4]}'
+APRS: KD6DRU-7>S6RPWX-0,NI6M-2,DEADWD-0,K6TUO-3,WIDE2-0:`/CXl 6>/"4]}
+in: 'AFSK1200: fm W6TUI-0 to SV4XXT-0 via DEADWD-0,K6TUO-3,WIDE2-1 UIv pid=F0'
+in: '`/S5l .k/]"4\}'
+APRS: W6TUI-0>SV4XXT-0,DEADWD-0,K6TUO-3,WIDE2-1:`/S5l .k/]"4\}
+
+
+
+in: 'AFSK1200: fm WB6RUU-9 to APT311-0 via N6ZX-3,WIDE1-0,K6ARC-2 UI  pid=F0'
+in: '>AL, Sacramento, CA;Mercury Mo'
+APRS: WB6RUU-9>APT311-0,N6ZX-3,WIDE1-0,K6ARC-2:>AL, Sacramento, CA;Mercury Mo
+in: 'AFSK1200: fm KC6UDS-9 to APOTC1-0 via WARD-0,WIDE1-0,K6ARC-2 UI  pid=F0'
+in: '!3833.51N/12143.58W>156/007/A=000150'
+APRS: KC6UDS-9>APOTC1-0,WARD-0,WIDE1-0,K6ARC-2:!3833.51N/12143.58W>156/007/A=000150
+^C
